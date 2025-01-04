@@ -1,0 +1,11 @@
+*.js
+*.js.map
+
+node_modules/
+.vscode/
+
+.env
+.env.local
+.env.*.local
+
+*.tsbuildinfo
