@@ -14,7 +14,20 @@ function findInXML() {
         return
     }
     const $ = cheerio.load(bookXML, {xml: true});
-    console.log($.text());
+    const $chapters = $('chapter');
+    $chapters.each((i, element) => {
+        if (i > 0) {
+            return
+        }
+        console.log('Chapter: ' + (i+1));
+        const verses = $(element).find('verse');
+        verses.each((i, element) => {
+            const verse = $(element).text();
+            // Remove all whitespace longer than a single character in length
+            console.log(verse.replace(/\s+/g, " "));
+        })
+    });
+
 }
 
 findInXML();
