@@ -1,0 +1,1457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="hcsb.xsd" id="bk.22">
+    <bookname>Song of Songs</bookname>
+    <chapter id="songofsongs.1" display="1">
+        <poetryblock>
+            <verse reference="songofsongs.1.1" display-number="1">
+                <poem><sup class="verse-ref" id="songofsongs.1.1">1</sup> The Song of Songs, which is Solomon&#8217;s.<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:1" data-content="1Kg 4:32"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+            </verse>
+        </poetryblock>
+        <speaker>Woman</speaker>
+        <poetryblock>
+            <verse reference="songofsongs.1.2" display-number="2">
+                <poem><sup class="verse-ref" id="songofsongs.1.2">2</sup> Oh, that he would kiss me with the kisses
+                    of his mouth!
+                </poem>
+                <poem>For your caresses
+                    <sup class="translate-note">
+                        <a href="#" data-toggle="popover" title="1:2" data-content=" Or 'acts of love'">
+                            <i class="translate-note-icon"></i>
+                        </a>
+                    </sup>
+                    are more delightful than wine.<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:2" data-content="Sg 4:10"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+            </verse>
+            <verse reference="songofsongs.1.3" display-number="3">
+                <poem><sup class="verse-ref" id="songofsongs.1.3">3</sup> The fragrance of your perfume is intoxicating;<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:3" data-content="Jn 12:3"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>your name is perfume poured out.<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:3" data-content="Ec 7:1"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>No wonder young women
+                    <sup class="translate-note">
+                        <a href="#" data-toggle="popover" title="1:3" data-content=" Or 'wonder virgins'">
+                            <i class="translate-note-icon"></i>
+                        </a>
+                    </sup>
+                    adore you.
+                </poem>
+            </verse>
+            <verse reference="songofsongs.1.4" display-number="4">
+                <poem><sup class="verse-ref" id="songofsongs.1.4">4</sup> Take me with you<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:4" data-content="Hs 11:4"><i class="cross-ref-icon"></i></a></sup>&#8201;&#x200B;&#8212;&#8201;&#x200B;let&#8217;s hurry.
+                </poem>
+                <poem>Oh, that the king would bring
+                    <sup class="translate-note">
+                        <a href="#" data-toggle="popover" title="1:4" data-content=" Or 'The king has brought'">
+                            <i class="translate-note-icon"></i>
+                        </a>
+                    </sup>
+                    me to his chambers.
+                </poem>
+            </verse>
+        </poetryblock>
+        <speaker>Young Women</speaker>
+        <verse reference="songofsongs.1.4" display-number="4">
+        <poetryblock>
+            <poem>We will rejoice and be glad in you;</poem>
+            <poem>we will celebrate your caresses more than wine.</poem>
+        </poetryblock>
+        </verse>
+        <speaker>Woman</speaker>
+        <verse reference="songofsongs.1.4" display-number="4">
+        <poetryblock>
+            <poem>It is only right that they adore you.</poem>
+        </poetryblock>
+        </verse>
+        <poetryblock>
+            <verse reference="songofsongs.1.5" display-number="5">
+                <poem><sup class="verse-ref" id="songofsongs.1.5">5</sup> Daughters of Jerusalem,<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:5" data-content="Sg 2:7; 3:5,10; 5:8,16; 8:4"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>I am dark like the tents of Kedar,<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:5" data-content="Ps 120:5; Is 60:7"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>yet lovely<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:5" data-content="Sg 2:14; 4:3; 6:4"><i class="cross-ref-icon"></i></a></sup>
+                    like the curtains of Solomon.
+                </poem>
+            </verse>
+            <verse reference="songofsongs.1.6" display-number="6">
+                <poem><sup class="verse-ref" id="songofsongs.1.6">6</sup> Do not stare at me because I am dark,
+                </poem>
+                <poem>for the sun has gazed on me.</poem>
+                <poem>My mother&#8217;s sons were angry with me;<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:6" data-content="Ps 69:8"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>they made me take care of the vineyards.<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:6" data-content="Sg 8:11"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>I have not taken care of my own vineyard.</poem>
+            </verse>
+        </poetryblock>
+        <poetryblock>
+            <verse reference="songofsongs.1.7" display-number="7">
+                <poem><sup class="verse-ref" id="songofsongs.1.7">7</sup> Tell me, you whom I love:<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:7" data-content="Sg 3:1-4"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>Where do you pasture your sheep?<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:7" data-content="Sg 2:16; 6:3"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>Where do you let them rest at noon?<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:7" data-content="Is 13:20; Jr 33:12"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>Why should I be like one who veils herself
+                    <sup class="translate-note">
+                        <a href="#" data-toggle="popover" title="1:7" data-content=" Or 'who wanders'">
+                            <i class="translate-note-icon"></i>
+                        </a>
+                    </sup>
+                </poem>
+                <poem>beside the flocks of your companions?<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:7" data-content="Sg 8:13"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+            </verse>
+        </poetryblock>
+        <speaker>Man
+            <sup class="clarifying-note">
+                <a href="#" data-toggle="popover" title="1:8"
+                   data-content=" Some understand the young women to be the speakers in this verse.">
+                    <i class="clarifying-icon"></i>
+                </a>
+            </sup>
+        </speaker>
+        <poetryblock>
+            <verse reference="songofsongs.1.8" display-number="8">
+                <poem><sup class="verse-ref" id="songofsongs.1.8">8</sup> If you do not know,
+                </poem>
+                <poem>most beautiful of women,<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:8" data-content="Sg 5:9; 6:1"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>follow
+                    <sup class="translate-note">
+                        <a href="#" data-toggle="popover" title="1:8" data-content=" Lit 'go out for yourself into'">
+                            <i class="translate-note-icon"></i>
+                        </a>
+                    </sup>
+                    the tracks of the flock,
+                </poem>
+                <poem>and pasture your young goats</poem>
+                <poem>near the shepherds&#8217; tents.</poem>
+            </verse>
+        </poetryblock>
+        <poetryblock>
+            <verse reference="songofsongs.1.9" display-number="9">
+                <poem><sup class="verse-ref" id="songofsongs.1.9">9</sup> I compare you, my darling,<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:9" data-content="Sg 1:15"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>to a
+                    <sup class="translate-note">
+                        <a href="#" data-toggle="popover" title="1:9" data-content=" Lit 'my'">
+                            <i class="translate-note-icon"></i>
+                        </a>
+                    </sup>
+                    mare among Pharaoh&#8217;s chariots.<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:9" data-content="2Ch 1:16-17"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+            </verse>
+            <verse reference="songofsongs.1.10" display-number="10">
+                <poem><sup class="verse-ref" id="songofsongs.1.10">10</sup> Your cheeks are beautiful with jewelry,<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:10" data-content="Sg 5:13"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>your neck with its necklace.</poem>
+            </verse>
+            <verse reference="songofsongs.1.11" display-number="11">
+                <poem><sup class="verse-ref" id="songofsongs.1.11">11</sup> We will make gold jewelry for you,
+                </poem>
+                <poem>accented with silver.</poem>
+            </verse>
+        </poetryblock>
+        <speaker>Woman</speaker>
+        <poetryblock>
+            <verse reference="songofsongs.1.12" display-number="12">
+                <poem><sup class="verse-ref" id="songofsongs.1.12">12</sup> While the king is on his couch,
+                    <sup class="translate-note">
+                        <a href="#" data-toggle="popover" title="1:12" data-content=" Or 'is at his table'">
+                            <i class="translate-note-icon"></i>
+                        </a>
+                    </sup>
+                </poem>
+                <poem>my perfume
+                    <sup class="translate-note">
+                        <a href="#" data-toggle="popover" title="1:12" data-content=" Lit 'nard'">
+                            <i class="translate-note-icon"></i>
+                        </a>
+                    </sup>
+                    releases its fragrance.<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:12" data-content="Sg 4:14; Mk 14:3; Jn 12:3"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+            </verse>
+            <verse reference="songofsongs.1.13" display-number="13">
+                <poem><sup class="verse-ref" id="songofsongs.1.13">13</sup> The one I love is a sachet of myrrh
+                    to me,<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:13" data-content="Ps 45:8; Jn 19:39"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>spending the night between my breasts.</poem>
+            </verse>
+            <verse reference="songofsongs.1.14" display-number="14">
+                <poem><sup class="verse-ref" id="songofsongs.1.14">14</sup> The one I love is a cluster of henna blossoms
+                    to me,<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:14" data-content="Sg 4:13"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>in the vineyards of En-gedi.<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:14" data-content="1Sm 23:29"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+            </verse>
+        </poetryblock>
+        <speaker>Man</speaker>
+        <poetryblock>
+            <verse reference="songofsongs.1.15" display-number="15">
+                <poem><sup class="verse-ref" id="songofsongs.1.15">15</sup> How beautiful you are, my darling.
+                </poem>
+                <poem>How very beautiful!</poem>
+                <poem>Your eyes are doves.<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:15" data-content="Sg 4:1"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+            </verse>
+        </poetryblock>
+        <speaker>Woman</speaker>
+        <poetryblock>
+        <verse reference="songofsongs.1.16" display-number="16">
+            <poem><sup class="verse-ref" id="songofsongs.1.16">16</sup> How handsome you are, my love.<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:16" data-content="Sg 2:3"><i class="cross-ref-icon"></i></a></sup>
+            </poem>
+            <poem>How delightful!</poem>
+            <poem>Our bed is verdant;</poem>
+        </verse>
+        <verse reference="songofsongs.1.17" display-number="17">
+        <poem><sup class="verse-ref" id="songofsongs.1.17">17</sup> the beams of our house are cedars,
+        </poem>
+        <poem>and our rafters are cypresses.
+            <sup class="translate-note">
+                <a href="#" data-toggle="popover" title="1:17" data-content=" Or 'firs', or 'pines'">
+                    <i class="translate-note-icon"></i>
+                </a>
+            </sup>
+        </poem>
+        </verse></poetryblock>
+    </chapter>
+    <chapter id="songofsongs.2" display="2">
+<poetryblock>
+    <verse reference="songofsongs.2.1" display-number="1">
+        <poem><sup class="verse-ref" id="songofsongs.2.1">1</sup> I am a wildflower
+            <sup class="clarifying-note">
+                <a href="#" data-toggle="popover" title="2:1" data-content=" Traditionally 'rose'">
+                    <i class="clarifying-icon"></i>
+                </a>
+            </sup>
+            of Sharon,
+        </poem>
+        <poem>a lily
+            <sup class="translate-note">
+                <a href="#" data-toggle="popover" title="2:1" data-content=" Or 'lotus'">
+                    <i class="translate-note-icon"></i>
+                </a>
+            </sup>
+            of the valleys.<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:1" data-content="Sg 5:13; 7:2; Hs 14:5"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+    </verse>
+</poetryblock>
+<speaker>Man</speaker>
+<poetryblock>
+<verse reference="songofsongs.2.2" display-number="2">
+    <poem><sup class="verse-ref" id="songofsongs.2.2">2</sup> Like a lily among thorns,
+    </poem>
+    <poem>so is my darling among the young women.</poem>
+</verse>
+</poetryblock>
+<speaker>Woman</speaker>
+<poetryblock>
+<verse reference="songofsongs.2.3" display-number="3">
+    <poem><sup class="verse-ref" id="songofsongs.2.3">3</sup> Like an apricot
+        <sup class="translate-note">
+            <a href="#" data-toggle="popover" title="2:3" data-content=" Or 'apple'">
+                <i class="translate-note-icon"></i>
+            </a>
+        </sup>
+        tree among the trees of the forest,
+    </poem>
+    <poem>so is my love among the young men.</poem>
+    <poem>I delight to sit in his shade,</poem>
+    <poem>and his fruit is sweet to my taste.</poem>
+</verse>
+<verse reference="songofsongs.2.4" display-number="4">
+    <poem><sup class="verse-ref" id="songofsongs.2.4">4</sup> He brought me to the banquet hall,
+        <sup class="translate-note">
+            <a href="#" data-toggle="popover" title="2:4" data-content=" Lit 'the house of wine'">
+                <i class="translate-note-icon"></i>
+            </a>
+        </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="2:4" data-content="Sg 1:4"><i class="cross-ref-icon"></i></a></sup>
+    </poem>
+    <poem>and he looked on me with love.
+        <sup class="translate-note">
+            <a href="#" data-toggle="popover" title="2:4" data-content=" Or 'and his banner over me is love'">
+                <i class="translate-note-icon"></i>
+            </a>
+        </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="2:4" data-content="Ps 20:5"><i class="cross-ref-icon"></i></a></sup>
+    </poem>
+</verse>
+<verse reference="songofsongs.2.5" display-number="5">
+    <poem><sup class="verse-ref" id="songofsongs.2.5">5</sup> Sustain me with raisins;
+    </poem>
+    <poem>refresh me with apricots,
+        <sup class="translate-note">
+            <a href="#" data-toggle="popover" title="2:5" data-content=" Or 'apples'">
+                <i class="translate-note-icon"></i>
+            </a>
+        </sup>
+    </poem>
+    <poem>for I am lovesick.<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:5" data-content="Sg 5:8"><i class="cross-ref-icon"></i></a></sup>
+    </poem>
+</verse>
+<verse reference="songofsongs.2.6" display-number="6">
+    <poem><sup class="verse-ref" id="songofsongs.2.6">6</sup> May his left hand be under my head,
+    </poem>
+    <poem>and his right arm embrace me.<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:6" data-content="Sg 8:3"><i class="cross-ref-icon"></i></a></sup>
+    </poem>
+</verse>
+<verse reference="songofsongs.2.7" display-number="7">
+    <poem><sup class="verse-ref" id="songofsongs.2.7">7</sup> Young women of Jerusalem, I charge you
+    </poem>
+    <poem>by the gazelles and the wild does of the field,</poem>
+    <poem>do not stir up or awaken love</poem>
+    <poem>until the appropriate time.
+        <sup class="translate-note">
+            <a href="#" data-toggle="popover" title="2:7" data-content=" Lit 'until it pleases'">
+                <i class="translate-note-icon"></i>
+            </a>
+        </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="2:7" data-content="Sg 3:5; 5:8; 8:4"><i class="cross-ref-icon"></i></a></sup>
+    </poem>
+</verse>
+</poetryblock>
+<poetryblock>
+<verse reference="songofsongs.2.8" display-number="8">
+    <poem><sup class="verse-ref" id="songofsongs.2.8">8</sup> Listen! My love is approaching.
+    </poem>
+    <poem>Look! Here he comes,</poem>
+    <poem>leaping over the mountains,<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:8" data-content="Is 52:7"><i class="cross-ref-icon"></i></a></sup>
+    </poem>
+    <poem>bounding over the hills.</poem>
+</verse>
+<verse reference="songofsongs.2.9" display-number="9">
+    <poem><sup class="verse-ref" id="songofsongs.2.9">9</sup> My love is like a gazelle
+    </poem>
+    <poem>or a young stag.<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:9" data-content="Sg 2:17; 8:14"><i class="cross-ref-icon"></i></a></sup>
+    </poem>
+    <poem>See, he is standing behind our wall,</poem>
+    <poem>gazing through the windows,</poem>
+    <poem>peering through the lattice.</poem>
+</verse>
+<verse reference="songofsongs.2.10" display-number="10">
+    <poem><sup class="verse-ref" id="songofsongs.2.10">10</sup> My love calls to me:
+    </poem>
+</verse>
+</poetryblock>
+<speaker>Man</speaker>
+<poetryblock>
+    <verse reference="songofsongs.2.10" display-number="10">
+<poem>Arise,<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:10" data-content="Sg 2:13"><i class="cross-ref-icon"></i></a></sup>
+    my darling.
+</poem>
+<poem>Come away, my beautiful one.</poem>
+    </verse>
+<verse reference="songofsongs.2.11" display-number="11">
+    <poem><sup class="verse-ref" id="songofsongs.2.11">11</sup> For now the winter is past;
+    </poem>
+    <poem>the rain has ended and gone away.</poem>
+</verse>
+<verse reference="songofsongs.2.12" display-number="12">
+    <poem><sup class="verse-ref" id="songofsongs.2.12">12</sup> The blossoms appear in the countryside.
+    </poem>
+    <poem>The time of singing
+        <sup class="translate-note">
+            <a href="#" data-toggle="popover" title="2:12" data-content=" Or 'pruning'">
+                <i class="translate-note-icon"></i>
+            </a>
+        </sup>
+        has come,
+    </poem>
+    <poem>and the turtledove&#8217;s cooing is heard in our land.<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:12" data-content="Jr 8:7"><i class="cross-ref-icon"></i></a></sup>
+    </poem>
+</verse>
+<verse reference="songofsongs.2.13" display-number="13">
+    <poem><sup class="verse-ref" id="songofsongs.2.13">13</sup> The fig tree ripens its figs;<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:13" data-content="Mt 24:32"><i class="cross-ref-icon"></i></a></sup>
+    </poem>
+    <poem>the blossoming vines give off their fragrance.<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:13" data-content="Sg 7:12"><i class="cross-ref-icon"></i></a></sup>
+    </poem>
+    <poem>Arise, my darling.</poem>
+    <poem>Come away, my beautiful one.</poem>
+</verse>
+</poetryblock>
+<poetryblock>
+<verse reference="songofsongs.2.14" display-number="14">
+    <poem><sup class="verse-ref" id="songofsongs.2.14">14</sup> My dove,<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:14" data-content="Sg 5:2; 6:9"><i class="cross-ref-icon"></i></a></sup>
+        in the clefts of the rock,<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:14" data-content="Jr 48:28"><i class="cross-ref-icon"></i></a></sup>
+    </poem>
+    <poem>in the crevices of the cliff,</poem>
+    <poem>let me see your face,
+        <sup class="translate-note">
+            <a href="#" data-toggle="popover" title="2:14" data-content=" Or 'form'">
+                <i class="translate-note-icon"></i>
+            </a>
+        </sup>
+    </poem>
+    <poem>let me hear your voice;<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:14" data-content="Sg 8:13"><i class="cross-ref-icon"></i></a></sup>
+    </poem>
+    <poem>for your voice is sweet,</poem>
+    <poem>and your face is lovely.<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:14" data-content="Sg 1:5"><i class="cross-ref-icon"></i></a></sup>
+    </poem>
+</verse>
+</poetryblock>
+<speaker>Woman
+<sup class="clarifying-note">
+    <a href="#" data-toggle="popover" title="2:15" data-content=" The speaker could be the woman, the man, or both.">
+        <i class="clarifying-icon"></i>
+    </a>
+</sup>
+</speaker>
+<poetryblock>
+<verse reference="songofsongs.2.15" display-number="15">
+    <poem><sup class="verse-ref" id="songofsongs.2.15">15</sup> Catch the foxes for us<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:15" data-content="Ezk 13:4"><i class="cross-ref-icon"></i></a></sup>&#8201;&#8212;
+    </poem>
+    <poem>the little foxes that ruin the vineyards&#8201;&#8212;</poem>
+    <poem>for our vineyards are in bloom.<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:15" data-content="Sg 2:13"><i class="cross-ref-icon"></i></a></sup>
+    </poem>
+</verse>
+</poetryblock>
+<speaker>Woman</speaker>
+<poetryblock>
+<verse reference="songofsongs.2.16" display-number="16">
+    <poem><sup class="verse-ref" id="songofsongs.2.16">16</sup> My love is mine and I am his;<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:16" data-content="Sg 6:3; 7:10; 8:6"><i class="cross-ref-icon"></i></a></sup>
+    </poem>
+    <poem>he feeds among the lilies.</poem>
+</verse>
+<verse reference="songofsongs.2.17" display-number="17">
+    <poem><sup class="verse-ref" id="songofsongs.2.17">17</sup> Until the day breaks
+        <sup class="translate-note">
+            <a href="#" data-toggle="popover" title="2:17" data-content=" Lit 'breathes'">
+                <i class="translate-note-icon"></i>
+            </a>
+        </sup>
+    </poem>
+    <poem>and the shadows flee,</poem>
+    <poem>turn around, my love, and be like a gazelle</poem>
+    <poem>or a young stag<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:17" data-content="Sg 2:9"><i class="cross-ref-icon"></i></a></sup>
+        on the divided mountains.
+        <sup class="translate-note">
+            <a href="#" data-toggle="popover" title="2:17"
+               data-content=" Or 'the Bether mountains', or 'the mountains of spices'&#8201;; Hb obscure">
+                <i class="translate-note-icon"></i>
+            </a>
+        </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="2:17" data-content="Sg 4:5-6; 8:14"><i class="cross-ref-icon"></i></a></sup>
+    </poem>
+</verse>
+</poetryblock>
+        </chapter><chapter id="songofsongs.3" display="3">
+<poetryblock>
+    <verse reference="songofsongs.3.1" display-number="1">
+        <poem><sup class="verse-ref" id="songofsongs.3.1">1</sup> In my bed at night
+            <sup class="translate-note">
+                <a href="#" data-toggle="popover" title="3:1" data-content=" Or 'bed night after night'">
+                    <i class="translate-note-icon"></i>
+                </a>
+            </sup>
+        </poem>
+        <poem>I sought the one I love;<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:1" data-content="Sg 1:7"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+        <poem>I sought him, but did not find him.
+            <sup class="alt-reading-note">
+                <a href="#" data-toggle="popover" title="3:1"
+                   data-content=" LXX adds 'I called him, but he did not answer me'">
+                    <i class="alt-reading-icon"></i>
+                </a>
+            </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="3:1" data-content="Sg 5:6"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+    </verse>
+    <verse reference="songofsongs.3.2" display-number="2">
+        <poem><sup class="verse-ref" id="songofsongs.3.2">2</sup> I will arise now and go about the city,
+        </poem>
+        <poem>through the streets and the plazas.<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:2" data-content="Jr 5:1"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+        <poem>I will seek the one I love.</poem>
+        <poem>I sought him, but did not find him.</poem>
+    </verse>
+    <verse reference="songofsongs.3.3" display-number="3">
+        <poem><sup class="verse-ref" id="songofsongs.3.3">3</sup> The guards who go about the city found me.<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:3" data-content="Sg 5:7"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+        <poem>I asked them, &#8220;Have you seen the one I love?&#8201;&#8221;</poem>
+    </verse>
+    <verse reference="songofsongs.3.4" display-number="4">
+        <poem><sup class="verse-ref" id="songofsongs.3.4">4</sup> I had just passed them
+        </poem>
+        <poem>when I found the one I love.</poem>
+        <poem>I held on to him and would not let him go</poem>
+        <poem>until I brought him to my mother&#8217;s house<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:4" data-content="Sg 8:2"><i class="cross-ref-icon"></i></a></sup>&#8201;&#8212;
+        </poem>
+        <poem>to the chamber of the one who conceived me.</poem>
+    </verse>
+    <verse reference="songofsongs.3.5" display-number="5">
+        <poem><sup class="verse-ref" id="songofsongs.3.5">5</sup> Young women of Jerusalem, I charge you
+        </poem>
+        <poem>by the gazelles and the wild does of the field,</poem>
+        <poem>do not stir up or awaken love</poem>
+        <poem>until the appropriate time.
+            <sup class="translate-note">
+                <a href="#" data-toggle="popover" title="3:5" data-content=" Lit 'until it pleases'">
+                    <i class="translate-note-icon"></i>
+                </a>
+            </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="3:5" data-content="Sg 2:7; 5:8; 8:4"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+    </verse>
+</poetryblock>
+<speaker>Narrator</speaker>
+<poetryblock>
+    <verse reference="songofsongs.3.6" display-number="6">
+        <poem><sup class="verse-ref" id="songofsongs.3.6">6</sup> Who is this<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:6" data-content="Sg 6:10; 8:5"><i class="cross-ref-icon"></i></a></sup>
+            coming up from the wilderness
+        </poem>
+        <poem>like columns of smoke,</poem>
+        <poem>scented with myrrh and frankincense<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:6" data-content="Sg 4:6,14"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+        <poem>from every fragrant powder of the merchant?</poem>
+    </verse>
+</poetryblock>
+<poetryblock>
+    <verse reference="songofsongs.3.7" display-number="7">
+        <poem><sup class="verse-ref" id="songofsongs.3.7">7</sup> Look! Solomon&#8217;s bed
+        </poem>
+        <poem>surrounded by sixty warriors</poem>
+        <poem>from the mighty men of Israel.</poem>
+    </verse>
+    <verse reference="songofsongs.3.8" display-number="8">
+        <poem><sup class="verse-ref" id="songofsongs.3.8">8</sup> All of them are skilled with swords
+        </poem>
+        <poem>and trained in warfare.</poem>
+        <poem>Each has his sword at his side<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:8" data-content="Ps 45:3"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+        <poem>to guard against the terror of the night.<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:8" data-content="Ps 91:5"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+    </verse>
+</poetryblock>
+<poetryblock>
+    <verse reference="songofsongs.3.9" display-number="9">
+        <poem><sup class="verse-ref" id="songofsongs.3.9">9</sup> King Solomon made a carriage for himself
+        </poem>
+        <poem>with wood from Lebanon.</poem>
+    </verse>
+    <verse reference="songofsongs.3.10" display-number="10">
+        <poem><sup class="verse-ref" id="songofsongs.3.10">10</sup> He made its posts of silver,
+        </poem>
+        <poem>its back
+            <sup class="translate-note">
+                <a href="#" data-toggle="popover" title="3:10" data-content=" Or 'base', or 'canopy'">
+                    <i class="translate-note-icon"></i>
+                </a>
+            </sup>
+            of gold,
+        </poem>
+        <poem>and its seat of purple.</poem>
+        <poem>Its interior is inlaid with love
+            <sup class="translate-note">
+                <a href="#" data-toggle="popover" title="3:10" data-content=" Or 'leather'">
+                    <i class="translate-note-icon"></i>
+                </a>
+            </sup>
+        </poem>
+        <poem>by the young women of Jerusalem.<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:10" data-content="Sg 1:5"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+    </verse>
+    <verse reference="songofsongs.3.11" display-number="11">
+        <poem><sup class="verse-ref" id="songofsongs.3.11">11</sup> Go out, young women of Zion,<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:11" data-content="Is 3:16-17; 4:4"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+        <poem>and gaze at King Solomon,</poem>
+        <poem>wearing the crown his mother placed on him</poem>
+        <poem>on the day of his wedding<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:11" data-content="Is 62:5"><i class="cross-ref-icon"></i></a></sup>&#8201;&#8212;
+        </poem>
+        <poem>the day of his heart&#8217;s rejoicing.</poem>
+    </verse>
+</poetryblock>
+</chapter><chapter id="songofsongs.4" display="4">
+<speaker>Man</speaker>
+<poetryblock>
+    <verse reference="songofsongs.4.1" display-number="1">
+        <poem><sup class="verse-ref" id="songofsongs.4.1">1</sup> How beautiful you are, my darling.
+        </poem>
+        <poem>How very beautiful!</poem>
+        <poem>Behind your veil,</poem>
+        <poem>your eyes are doves.<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:1" data-content="Sg 1:15; 5:12"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+        <poem>Your hair is like a flock of goats</poem>
+        <poem>streaming down Mount Gilead.<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:1" data-content="Sg 6:5"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+    </verse>
+    <verse reference="songofsongs.4.2" display-number="2">
+        <poem><sup class="verse-ref" id="songofsongs.4.2">2</sup> Your teeth are like a flock of newly shorn sheep
+        </poem>
+        <poem>coming up from washing,</poem>
+        <poem>each one bearing twins,</poem>
+        <poem>and none has lost its young.
+            <sup class="translate-note">
+                <a href="#" data-toggle="popover" title="4:2" data-content=" Lit 'and no one bereaved among them'">
+                    <i class="translate-note-icon"></i>
+                </a>
+            </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="4:2" data-content="Sg 6:6"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+    </verse>
+    <verse reference="songofsongs.4.3" display-number="3">
+        <poem><sup class="verse-ref" id="songofsongs.4.3">3</sup> Your lips are like a scarlet cord,<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:3" data-content="Jos 2:18"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+        <poem>and your mouth
+            <sup class="translate-note">
+                <a href="#" data-toggle="popover" title="4:3" data-content=" Or 'speech'">
+                    <i class="translate-note-icon"></i>
+                </a>
+            </sup>
+            is lovely.
+        </poem>
+        <poem>Behind your veil,</poem>
+        <poem>your brow
+            <sup class="translate-note">
+                <a href="#" data-toggle="popover" title="4:3" data-content=" Or 'temple', or 'cheek', or 'lips'">
+                    <i class="translate-note-icon"></i>
+                </a>
+            </sup>
+            is like a slice of pomegranate.<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:3" data-content="Sg 6:7"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+    </verse>
+    <verse reference="songofsongs.4.4" display-number="4">
+        <poem><sup class="verse-ref" id="songofsongs.4.4">4</sup> Your neck is like the tower of David,<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:4" data-content="Sg 7:4"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+        <poem>constructed in layers.</poem>
+        <poem>A thousand shields are hung on it&#8201;&#8212;</poem>
+        <poem>all of them shields of warriors.</poem>
+    </verse>
+    <verse reference="songofsongs.4.5" display-number="5">
+        <poem><sup class="verse-ref" id="songofsongs.4.5">5</sup> Your breasts are like two fawns,
+        </poem>
+        <poem>twins of a gazelle,<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:5" data-content="Sg 7:3"><i class="cross-ref-icon"></i></a></sup>
+            that feed among the lilies.
+        </poem>
+    </verse>
+    <verse reference="songofsongs.4.6" display-number="6">
+        <poem><sup class="verse-ref" id="songofsongs.4.6">6</sup> Until the day breaks
+            <sup class="translate-note">
+                <a href="#" data-toggle="popover" title="4:6" data-content=" Lit 'breathes'">
+                    <i class="translate-note-icon"></i>
+                </a>
+            </sup>
+        </poem>
+        <poem>and the shadows flee,<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:6" data-content="Sg 2:17"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+        <poem>I will make my way to the mountain of myrrh</poem>
+        <poem>and the hill of frankincense.<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:6" data-content="Sg 3:6; 4:14"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+    </verse>
+    <verse reference="songofsongs.4.7" display-number="7">
+        <poem><sup class="verse-ref" id="songofsongs.4.7">7</sup> You are absolutely beautiful,<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:7" data-content="Sg 1:15; Eph 5:27"><i class="cross-ref-icon"></i></a></sup>
+            my darling;
+        </poem>
+        <poem>there is no imperfection in you.</poem>
+    </verse>
+</poetryblock>
+<poetryblock>
+    <verse reference="songofsongs.4.8" display-number="8">
+        <poem><sup class="verse-ref" id="songofsongs.4.8">8</sup> Come with me from Lebanon,
+            <sup class="clarifying-note">
+                <a href="#" data-toggle="popover" title="4:8"
+                   data-content=" In Hb, the word for 'Lebanon' is similar to &#8220;frankincense&#8221; in Sg 4:6,14,15.">
+                    <i class="clarifying-icon"></i>
+                </a>
+            </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="4:8" data-content="1Kg 4:33"><i class="cross-ref-icon"></i></a></sup>
+            my bride;<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:8" data-content="Is 62:5"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+        <poem>come with me from Lebanon!</poem>
+        <poem>Descend from the peak of Amana,</poem>
+        <poem>from the summit of Senir and Hermon,<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:8" data-content="Dt 3:9; 1Ch 5:23"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+        <poem>from the dens of the lions,</poem>
+        <poem>from the mountains of the leopards.</poem>
+    </verse>
+    <verse reference="songofsongs.4.9" display-number="9">
+        <poem><sup class="verse-ref" id="songofsongs.4.9">9</sup> You have captured my heart,<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:9" data-content="Sg 6:5; 7:5"><i class="cross-ref-icon"></i></a></sup>
+            my sister,<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:9" data-content="Sg 5:1-2"><i class="cross-ref-icon"></i></a></sup>
+            my bride.
+        </poem>
+        <poem>You have captured my heart with one glance of your eyes,</poem>
+        <poem>with one jewel of your necklace.</poem>
+    </verse>
+    <verse reference="songofsongs.4.10" display-number="10">
+        <poem><sup class="verse-ref" id="songofsongs.4.10">10</sup> How delightful your caresses are, my sister,
+            my bride.
+        </poem>
+        <poem>Your caresses are much better than wine,<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:10" data-content="Sg 1:2,4"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+        <poem>and the fragrance of your perfume than any balsam.</poem>
+    </verse>
+    <verse reference="songofsongs.4.11" display-number="11">
+        <poem><sup class="verse-ref" id="songofsongs.4.11">11</sup> Your lips drip sweetness like the honeycomb,
+            my bride.<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:11" data-content="Pr 5:3"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+        <poem>Honey and milk<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:11" data-content="Ex 3:8,17; Nm 14:8; 16:13-14"><i class="cross-ref-icon"></i></a></sup>
+            are under your tongue.
+        </poem>
+        <poem>The fragrance of your garments is like the fragrance of Lebanon.</poem>
+    </verse>
+</poetryblock>
+<poetryblock>
+    <verse reference="songofsongs.4.12" display-number="12">
+        <poem><sup class="verse-ref" id="songofsongs.4.12">12</sup> My sister, my bride, you are a locked garden&#8201;&#8212;
+        </poem>
+        <poem>a locked garden
+            <sup class="alt-reading-note">
+                <a href="#" data-toggle="popover" title="4:12" data-content=" Some Hb mss read 'locked fountain'">
+                    <i class="alt-reading-icon"></i>
+                </a>
+            </sup>
+            and a sealed spring.<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:12" data-content="1Kg 21:8; Est 8:10; Jb 9:7"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+    </verse>
+    <verse reference="songofsongs.4.13" display-number="13">
+        <poem><sup class="verse-ref" id="songofsongs.4.13">13</sup> Your branches are a paradise
+            <sup class="translate-note">
+                <a href="#" data-toggle="popover" title="4:13" data-content=" Or 'park', or 'orchard'">
+                    <i class="translate-note-icon"></i>
+                </a>
+            </sup>
+            of pomegranates
+        </poem>
+        <poem>with choicest fruits;<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:13" data-content="Sg 7:13"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+        <poem>henna with nard,</poem>
+    </verse>
+    <verse reference="songofsongs.4.14" display-number="14">
+        <poem><sup class="verse-ref" id="songofsongs.4.14">14</sup> nard and saffron, calamus and cinnamon,<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:14" data-content="Ex 30:23"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+        <poem>with all the trees of frankincense,<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:14" data-content="Sg 4:6"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+        <poem>myrrh and aloes,<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:14" data-content="Sg 3:6; Jn 19:39"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+        <poem>with all the best spices.</poem>
+    </verse>
+    <verse reference="songofsongs.4.15" display-number="15">
+        <poem><sup class="verse-ref" id="songofsongs.4.15">15</sup> You are a garden spring,
+        </poem>
+        <poem>a well of flowing water<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:15" data-content="Gn 26:19; Lv 14:5; Jr 2:13"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+        <poem>streaming from Lebanon.</poem>
+    </verse>
+</poetryblock>
+<speaker>Woman</speaker>
+<poetryblock>
+    <verse reference="songofsongs.4.16" display-number="16">
+        <poem><sup class="verse-ref" id="songofsongs.4.16">16</sup> Awaken,<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:16" data-content="Sg 2:7; 3:5; 8:4"><i class="cross-ref-icon"></i></a></sup>
+            north wind;
+        </poem>
+        <poem>come, south wind.</poem>
+        <poem>Blow on my garden,</poem>
+        <poem>and spread the fragrance of its spices.</poem>
+        <poem>Let my love come to his garden</poem>
+        <poem>and eat its choicest fruits.<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:16" data-content="Sg 7:13"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+    </verse>
+</poetryblock>
+</chapter><chapter id="songofsongs.5" display="5">
+<speaker>Man</speaker>
+<poetryblock>
+    <verse reference="songofsongs.5.1" display-number="1">
+        <poem><sup class="verse-ref" id="songofsongs.5.1">1</sup> I have come to my garden&#8201;&#x200B;&#8212;&#8201;&#x200B;my sister,
+            my bride.
+        </poem>
+        <poem>I gather
+            <sup class="translate-note">
+                <a href="#" data-toggle="popover" title="5:1" data-content=" Lit 'pluck'">
+                    <i class="translate-note-icon"></i>
+                </a>
+            </sup>
+            my myrrh with my spices.
+        </poem>
+        <poem>I eat my honeycomb with my honey.</poem>
+        <poem>I drink my wine with my milk.</poem>
+    </verse>
+</poetryblock>
+<speaker>Narrator</speaker>
+    <verse reference="songofsongs.5.1" class="no-dropcap" display-number="1">
+<poetryblock>
+    <poem>Eat, friends!</poem>
+    <poem>Drink, be intoxicated with caresses!
+        <sup class="translate-note">
+            <a href="#" data-toggle="popover" title="5:1" data-content=" Or 'Drink your fill, lovers'">
+                <i class="translate-note-icon"></i>
+            </a>
+        </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="5:1" data-content="Pr 5:19"><i class="cross-ref-icon"></i></a></sup>
+    </poem>
+</poetryblock>
+    </verse>
+<speaker>Woman</speaker>
+<poetryblock>
+    <verse reference="songofsongs.5.2" display-number="2">
+        <poem><sup class="verse-ref" id="songofsongs.5.2">2</sup> I was sleeping, but my heart was awake.
+        </poem>
+        <poem>A sound! My love was knocking!<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:2" data-content="Sg 2:8"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+    </verse>
+</poetryblock>
+<speaker>Man</speaker>
+    <verse reference="songofsongs.5.2" display-number="2">
+<poetryblock>
+    <poem>Open to me, my sister, my darling,</poem>
+    <poem>my dove, my perfect one.</poem>
+    <poem>For my head is drenched with dew,</poem>
+    <poem>my hair with droplets of the night.</poem>
+</poetryblock>
+    </verse>
+<speaker>Woman</speaker>
+<poetryblock>
+    <verse reference="songofsongs.5.3" display-number="3">
+        <poem><sup class="verse-ref" id="songofsongs.5.3">3</sup> I have taken off my clothing.<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:3" data-content="Lk 11:7"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+        <poem>How can I put it back on?</poem>
+        <poem>I have washed my feet.</poem>
+        <poem>How can I get them dirty?</poem>
+    </verse>
+    <verse reference="songofsongs.5.4" display-number="4">
+        <poem><sup class="verse-ref" id="songofsongs.5.4">4</sup> My love thrust his hand through the opening,
+        </poem>
+        <poem>and my feelings were stirred for him.</poem>
+    </verse>
+    <verse reference="songofsongs.5.5" display-number="5">
+        <poem><sup class="verse-ref" id="songofsongs.5.5">5</sup> I rose to open for my love.
+        </poem>
+        <poem>My hands dripped with myrrh,<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:5" data-content="Sg 5:13"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+        <poem>my fingers with flowing myrrh</poem>
+        <poem>on the handles of the bolt.</poem>
+    </verse>
+    <verse reference="songofsongs.5.6" display-number="6">
+        <poem><sup class="verse-ref" id="songofsongs.5.6">6</sup> I opened to my love,
+        </poem>
+        <poem>but my love had turned and gone away.</poem>
+        <poem>My heart sank
+            <sup class="translate-note">
+                <a href="#" data-toggle="popover" title="5:6" data-content=" Lit 'My soul went out'">
+                    <i class="translate-note-icon"></i>
+                </a>
+            </sup>
+            because he had left.
+            <sup class="translate-note">
+                <a href="#" data-toggle="popover" title="5:6" data-content=" Or 'spoken'">
+                    <i class="translate-note-icon"></i>
+                </a>
+            </sup>
+        </poem>
+        <poem>I sought him, but did not find him.<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:6" data-content="Sg 3:1-2"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+        <poem>I called him, but he did not answer.</poem>
+    </verse>
+    <verse reference="songofsongs.5.7" display-number="7">
+        <poem><sup class="verse-ref" id="songofsongs.5.7">7</sup> The guards who go about the city found me.<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:7" data-content="Sg 3:3"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+        <poem>They beat and wounded me;</poem>
+        <poem>they took my cloak
+            <sup class="translate-note">
+                <a href="#" data-toggle="popover" title="5:7" data-content=" Or 'veil', or 'shawl'">
+                    <i class="translate-note-icon"></i>
+                </a>
+            </sup>
+            from me&#8201;&#8212;
+        </poem>
+        <poem>the guardians of the walls.<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:7" data-content="Sg 8:9-10"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+    </verse>
+    <verse reference="songofsongs.5.8" display-number="8">
+        <poem><sup class="verse-ref" id="songofsongs.5.8">8</sup> Young women of Jerusalem, I charge you,<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:8" data-content="Sg 2:7; 3:5; 8:4"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+        <poem>if you find my love,</poem>
+        <poem>tell him that I am lovesick.<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:8" data-content="Sg 2:5"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+    </verse>
+</poetryblock>
+<speaker>Young Women</speaker>
+<poetryblock>
+    <verse reference="songofsongs.5.9" display-number="9">
+        <poem><sup class="verse-ref" id="songofsongs.5.9">9</sup> What makes the one you love better than another,
+        </poem>
+        <poem>most beautiful of women?<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:9" data-content="Sg 1:8; 6:1"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+        <poem>What makes him better than another,</poem>
+        <poem>that you would give us this charge?</poem>
+    </verse>
+</poetryblock>
+<speaker>Woman</speaker>
+<poetryblock>
+    <verse reference="songofsongs.5.10" display-number="10">
+        <poem><sup class="verse-ref" id="songofsongs.5.10">10</sup> My love is fit and strong,
+            <sup class="translate-note">
+                <a href="#" data-toggle="popover" title="5:10" data-content=" Or 'is radiant and ruddy'">
+                    <i class="translate-note-icon"></i>
+                </a>
+            </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="5:10" data-content="1Sm 16:12"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+        <poem>notable among ten thousand.<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:10" data-content="Ps 45:2"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+    </verse>
+    <verse reference="songofsongs.5.11" display-number="11">
+        <poem><sup class="verse-ref" id="songofsongs.5.11">11</sup> His head is purest gold.
+        </poem>
+        <poem>His hair is wavy
+            <sup class="translate-note">
+                <a href="#" data-toggle="popover" title="5:11"
+                   data-content=" Or 'is like palm leaves'&#8201;; Hb obscure">
+                    <i class="translate-note-icon"></i>
+                </a>
+            </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="5:11" data-content="Sg 5:2"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+        <poem>and black as a raven.</poem>
+    </verse>
+    <verse reference="songofsongs.5.12" display-number="12">
+        <poem><sup class="verse-ref" id="songofsongs.5.12">12</sup> His eyes are like doves<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:12" data-content="Sg 1:15; 4:1"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+        <poem>beside flowing streams,</poem>
+        <poem>washed in milk</poem>
+        <poem>and set like jewels.
+            <sup class="translate-note">
+                <a href="#" data-toggle="popover" title="5:12" data-content=" Lit 'milk sitting in fullness'">
+                    <i class="translate-note-icon"></i>
+                </a>
+            </sup>
+        </poem>
+    </verse>
+    <verse reference="songofsongs.5.13" display-number="13">
+        <poem><sup class="verse-ref" id="songofsongs.5.13">13</sup> His cheeks<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:13" data-content="Sg 1:10"><i class="cross-ref-icon"></i></a></sup>
+            are like beds of spice,
+        </poem>
+        <poem>mounds of
+            <sup class="alt-reading-note">
+                <a href="#" data-toggle="popover" title="5:13" data-content=" LXX, Vg read 'spice, yielding'">
+                    <i class="alt-reading-icon"></i>
+                </a>
+            </sup> perfume.
+        </poem>
+        <poem>His lips are lilies,</poem>
+        <poem>dripping with flowing myrrh.<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:13" data-content="Sg 5:5"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+    </verse>
+    <verse reference="songofsongs.5.14" display-number="14">
+        <poem><sup class="verse-ref" id="songofsongs.5.14">14</sup> His arms
+            <sup class="translate-note">
+                <a href="#" data-toggle="popover" title="5:14" data-content=" Lit 'hands'">
+                    <i class="translate-note-icon"></i>
+                </a>
+            </sup>
+            are rods of gold
+        </poem>
+        <poem>set
+            <sup class="translate-note">
+                <a href="#" data-toggle="popover" title="5:14" data-content=" Lit 'filled'&#8201;; Sg 5:2,12">
+                    <i class="translate-note-icon"></i>
+                </a>
+            </sup>
+            with beryl.<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:14" data-content="Ex 28:20; 39:13; Ezk 1:16"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+        <poem>His body
+            <sup class="translate-note">
+                <a href="#" data-toggle="popover" title="5:14" data-content=" Lit 'abdomen'">
+                    <i class="translate-note-icon"></i>
+                </a>
+            </sup>
+            is an ivory panel
+        </poem>
+        <poem>covered with lapis lazuli.<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:14" data-content="Ex 24:10"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+    </verse>
+    <verse reference="songofsongs.5.15" display-number="15">
+        <poem><sup class="verse-ref" id="songofsongs.5.15">15</sup> His legs are alabaster pillars
+        </poem>
+        <poem>set on pedestals of pure gold.</poem>
+        <poem>His presence is like Lebanon,<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:15" data-content="Sg 7:4-5"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+        <poem>as majestic as the cedars.<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:15" data-content="1Kg 4:33"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+    </verse>
+    <verse reference="songofsongs.5.16" display-number="16">
+        <poem><sup class="verse-ref" id="songofsongs.5.16">16</sup> His mouth is sweetness.
+        </poem>
+        <poem>He is absolutely desirable.<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:16" data-content="Sg 4:7"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+        <poem>This is my love, and this is my friend,</poem>
+        <poem>young women of Jerusalem.</poem>
+    </verse>
+</poetryblock>
+</chapter><chapter id="songofsongs.6" display="6">
+<speaker>Young Women</speaker>
+<poetryblock>
+    <verse reference="songofsongs.6.1" display-number="1">
+        <poem><sup class="verse-ref" id="songofsongs.6.1">1</sup> Where has your love gone,
+        </poem>
+        <poem>most beautiful of women?</poem>
+        <poem>Which way has he
+            <sup class="translate-note">
+                <a href="#" data-toggle="popover" title="6:1" data-content=" Lit 'your love'">
+                    <i class="translate-note-icon"></i>
+                </a>
+            </sup> turned?
+        </poem>
+        <poem>We will seek him with you.</poem>
+    </verse>
+</poetryblock>
+<speaker>Woman</speaker>
+<poetryblock>
+    <verse reference="songofsongs.6.2" display-number="2">
+        <poem><sup class="verse-ref" id="songofsongs.6.2">2</sup> My love has gone down to his garden,<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:2" data-content="Sg 4:16; 5:1"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+        <poem>to beds of spice,<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:2" data-content="Sg 5:13"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+        <poem>to feed in the gardens<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:2" data-content="Sg 1:7"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+        <poem>and gather lilies.<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:2" data-content="Sg 2:1"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+    </verse>
+    <verse reference="songofsongs.6.3" display-number="3">
+        <poem><sup class="verse-ref" id="songofsongs.6.3">3</sup> I am my love&#8217;s and my love is mine;<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:3" data-content="Sg 2:16; 7:10; 8:6"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+        <poem>he feeds among the lilies.</poem>
+    </verse>
+</poetryblock>
+<speaker>Man</speaker>
+<poetryblock>
+    <verse reference="songofsongs.6.4" display-number="4">
+        <poem><sup class="verse-ref" id="songofsongs.6.4">4</sup> You are as beautiful as Tirzah, my darling,
+        </poem>
+        <poem>lovely as Jerusalem,</poem>
+        <poem>awe-inspiring as an army with banners.<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:4" data-content="Nm 2:2-3; Sg 6:10"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+    </verse>
+    <verse reference="songofsongs.6.5" display-number="5">
+        <poem><sup class="verse-ref" id="songofsongs.6.5">5</sup> Turn your eyes away from me,
+        </poem>
+        <poem>for they captivate me.<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:5" data-content="Sg 4:9"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+        <poem>Your hair is like a flock of goats</poem>
+        <poem>streaming down from Gilead.<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:5" data-content="Sg 4:1"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+    </verse>
+    <verse reference="songofsongs.6.6" display-number="6">
+        <poem><sup class="verse-ref" id="songofsongs.6.6">6</sup> Your teeth are like a flock of ewes
+        </poem>
+        <poem>coming up from washing,</poem>
+        <poem>each one having a twin,</poem>
+        <poem>and not one missing.
+            <sup class="translate-note">
+                <a href="#" data-toggle="popover" title="6:6" data-content=" Lit 'and no one bereaved among them'">
+                    <i class="translate-note-icon"></i>
+                </a>
+            </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="6:6" data-content="Sg 4:2"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+    </verse>
+    <verse reference="songofsongs.6.7" display-number="7">
+        <poem><sup class="verse-ref" id="songofsongs.6.7">7</sup> Behind your veil,<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:7" data-content="Sg 4:3"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+        <poem>your brow
+            <sup class="translate-note">
+                <a href="#" data-toggle="popover" title="6:7" data-content=" Or 'temple', or 'cheek', or 'lips'">
+                    <i class="translate-note-icon"></i>
+                </a>
+            </sup>
+            is like a slice of pomegranate.
+        </poem>
+    </verse>
+    <verse reference="songofsongs.6.8" display-number="8">
+        <poem><sup class="verse-ref" id="songofsongs.6.8">8</sup> There are sixty queens
+        </poem>
+        <poem>and eighty concubines<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:8" data-content="1Kg 11:3"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+        <poem>and young women
+            <sup class="translate-note">
+                <a href="#" data-toggle="popover" title="6:8" data-content=" Or 'and virgins'&#8201;; Sg 1:3">
+                    <i class="translate-note-icon"></i>
+                </a>
+            </sup>
+            without number.
+        </poem>
+    </verse>
+    <verse reference="songofsongs.6.9" display-number="9">
+        <poem><sup class="verse-ref" id="songofsongs.6.9">9</sup> But my dove,<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:9" data-content="Sg 2:14; 5:2"><i class="cross-ref-icon"></i></a></sup>
+            my virtuous one, is unique;<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:9" data-content="Pr 31:29"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+        <poem>she is the favorite of her mother,</poem>
+        <poem>perfect to the one who gave her birth.</poem>
+        <poem>Women see her and declare her fortunate;<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:9" data-content="Gn 30:13"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+        <poem>queens and concubines also, and they sing her praises:</poem>
+    </verse>
+</poetryblock>
+<poetryblock>
+    <verse reference="songofsongs.6.10" display-number="10">
+        <poem><sup class="verse-ref" id="songofsongs.6.10">10</sup> Who is this<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:10" data-content="Sg 3:6; 8:5"><i class="cross-ref-icon"></i></a></sup>
+            who shines like the dawn,
+        </poem>
+        <poem>as beautiful as the moon,</poem>
+        <poem>bright as the sun,</poem>
+        <poem>awe-inspiring as an army with banners?<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:10" data-content="Sg 6:4"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+    </verse>
+</poetryblock>
+<speaker>Woman</speaker>
+<poetryblock>
+    <verse reference="songofsongs.6.11" display-number="11">
+        <poem><sup class="verse-ref" id="songofsongs.6.11">11</sup> I came down to the walnut grove
+        </poem>
+        <poem>to see the blossoms of the valley,</poem>
+        <poem>to see if the vines were budding<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:11" data-content="Sg 7:12"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+        <poem>and the pomegranates blooming.</poem>
+    </verse>
+    <verse reference="songofsongs.6.12" display-number="12">
+        <poem><sup class="verse-ref" id="songofsongs.6.12">12</sup> I didn&#8217;t know what was happening to me.
+        </poem>
+        <poem>I felt like I was</poem>
+        <poem>in a chariot with a nobleman.
+            <sup class="translate-note">
+                <a href="#" data-toggle="popover" title="6:12" data-content=" Hb obscure">
+                    <i class="translate-note-icon"></i>
+                </a>
+            </sup>
+        </poem>
+    </verse>
+</poetryblock>
+<speaker>Young Women</speaker>
+<poetryblock>
+    <verse reference="songofsongs.6.13" display-number="13">
+        <poem><sup class="verse-ref" id="songofsongs.6.13">13</sup> Come back, come back, Shulammite!
+            <sup class="translate-note">
+                <a href="#" data-toggle="popover" title="6:13"
+                   data-content=" Or 'the perfect one', or 'the peaceable one'">
+                    <i class="translate-note-icon"></i>
+                </a>
+            </sup>
+        </poem>
+        <poem>Come back, come back, that we may look at you!</poem>
+    </verse>
+</poetryblock>
+<speaker>Man</speaker>
+    <verse reference="songofsongs.6.13" display-number="13">
+<poetryblock>
+    <poem>How you gaze at the Shulammite,</poem>
+    <poem>as you look at the dance<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:13" data-content="Jdg 21:21"><i class="cross-ref-icon"></i></a></sup>
+        of the two camps!
+        <sup class="translate-note">
+            <a href="#" data-toggle="popover" title="6:13" data-content=" Or 'dance of Mahanaim'">
+                <i class="translate-note-icon"></i>
+            </a>
+        </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="6:13" data-content="Gn 32:2; 2Sm 17:24"><i class="cross-ref-icon"></i></a></sup>
+    </poem>
+</poetryblock>
+    </verse>
+</chapter><chapter id="songofsongs.7" display="7">
+<poetryblock>
+    <verse reference="songofsongs.7.1" display-number="1">
+        <poem><sup class="verse-ref" id="songofsongs.7.1">1</sup> How beautiful are your sandaled feet,
+            princess!
+            <sup class="translate-note">
+                <a href="#" data-toggle="popover" title="7:1" data-content=" Lit 'daughter of a nobleman', or 'prince'">
+                    <i class="translate-note-icon"></i>
+                </a>
+            </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="7:1" data-content="Ps 45:13"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+        <poem>The curves of your thighs are like jewelry,</poem>
+        <poem>the handiwork of a master.</poem>
+    </verse>
+    <verse reference="songofsongs.7.2" display-number="2">
+        <poem><sup class="verse-ref" id="songofsongs.7.2">2</sup> Your navel is a rounded bowl;
+        </poem>
+        <poem>it never lacks mixed wine.</poem>
+        <poem>Your belly is a mound of wheat</poem>
+        <poem>surrounded by lilies.</poem>
+    </verse>
+    <verse reference="songofsongs.7.3" display-number="3">
+        <poem><sup class="verse-ref" id="songofsongs.7.3">3</sup> Your breasts are like two fawns,
+        </poem>
+        <poem>twins of a gazelle.<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:3" data-content="Sg 4:5"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+    </verse>
+    <verse reference="songofsongs.7.4" display-number="4">
+        <poem><sup class="verse-ref" id="songofsongs.7.4">4</sup> Your neck is like a tower of ivory,<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:4" data-content="Sg 4:4"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+        <poem>your eyes like pools in Heshbon</poem>
+        <poem>by Bath-rabbim&#8217;s gate.</poem>
+        <poem>Your nose is like the tower of Lebanon</poem>
+        <poem>looking toward Damascus.</poem>
+    </verse>
+    <verse reference="songofsongs.7.5" display-number="5">
+        <poem><sup class="verse-ref" id="songofsongs.7.5">5</sup> Your head crowns you
+            <sup class="translate-note">
+                <a href="#" data-toggle="popover" title="7:5" data-content=" Lit 'head upon you is'">
+                    <i class="translate-note-icon"></i>
+                </a>
+            </sup>
+            like Mount Carmel,
+        </poem>
+        <poem>the hair of your head like purple cloth&#8201;&#8212;</poem>
+        <poem>a king could be held captive<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:5" data-content="Sg 4:9"><i class="cross-ref-icon"></i></a></sup>
+            in your tresses.
+        </poem>
+    </verse>
+    <verse reference="songofsongs.7.6" display-number="6">
+        <poem><sup class="verse-ref" id="songofsongs.7.6">6</sup> How beautiful you are and how pleasant,<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:6" data-content="Sg 1:15-16"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+        <poem>my love, with such delights!</poem>
+    </verse>
+    <verse reference="songofsongs.7.7" display-number="7">
+        <poem><sup class="verse-ref" id="songofsongs.7.7">7</sup> Your stature is like a palm tree;
+        </poem>
+        <poem>your breasts are clusters of fruit.</poem>
+    </verse>
+    <verse reference="songofsongs.7.8" display-number="8">
+        <poem><sup class="verse-ref" id="songofsongs.7.8">8</sup> I said, &#8220;I will climb the palm tree
+        </poem>
+        <poem>and take hold of its fruit.&#8221;<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:8" data-content="Pr 5:19"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+        <poem>May your breasts be like clusters of grapes,</poem>
+        <poem>and the fragrance of your breath like apricots.<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:8" data-content="Sg 2:3"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+    </verse>
+    <verse reference="songofsongs.7.9" display-number="9">
+        <poem><sup class="verse-ref" id="songofsongs.7.9">9</sup> Your mouth
+            <sup class="translate-note">
+                <a href="#" data-toggle="popover" title="7:9" data-content=" Lit 'palate'">
+                    <i class="translate-note-icon"></i>
+                </a>
+            </sup>
+            is like fine wine<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:9" data-content="Sg 5:16"><i class="cross-ref-icon"></i></a></sup>&#8201;&#8212;
+        </poem>
+    </verse>
+</poetryblock>
+<speaker>Woman</speaker>
+<poetryblock>
+    <verse reference="songofsongs.7.9" display-number="9">
+    <poem>flowing smoothly for my love,</poem>
+    <poem>gliding past my lips and teeth!
+        <sup class="alt-reading-note">
+            <a href="#" data-toggle="popover" title="7:9"
+               data-content=" LXX, Syr, Vg; MT reads 'past lips of sleepers'">
+                <i class="alt-reading-icon"></i>
+            </a>
+        </sup>
+    </poem>
+    </verse>
+    <verse reference="songofsongs.7.10" display-number="10">
+        <poem><sup class="verse-ref" id="songofsongs.7.10">10</sup> I am my love&#8217;s,
+        </poem>
+        <poem>and his desire<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:10" data-content="Gn 3:16; 4:7"><i class="cross-ref-icon"></i></a></sup>
+            is for me.<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:10" data-content="Sg 2:16; 6:3; 8:6"><i class="cross-ref-icon"></i></a></sup>
+        </poem>
+    </verse>
+</poetryblock>
+<poetryblock>
+<verse reference="songofsongs.7.11" display-number="11">
+    <poem><sup class="verse-ref" id="songofsongs.7.11">11</sup> Come, my love,
+    </poem>
+    <poem>let&#8217;s go to the field;</poem>
+    <poem>let&#8217;s spend the night among the henna blossoms.
+        <sup class="translate-note">
+            <a href="#" data-toggle="popover" title="7:11" data-content=" Or 'the villages'">
+                <i class="translate-note-icon"></i>
+            </a>
+        </sup>
+    </poem>
+</verse>
+<verse reference="songofsongs.7.12" display-number="12">
+    <poem><sup class="verse-ref" id="songofsongs.7.12">12</sup> Let&#8217;s go early to the vineyards;
+    </poem>
+    <poem>let&#8217;s see if the vine has budded,</poem>
+    <poem>if the blossom has opened,</poem>
+    <poem>if the pomegranates are in bloom.<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:12" data-content="Sg 6:11"><i class="cross-ref-icon"></i></a></sup>
+    </poem>
+    <poem>There I will give you my caresses.</poem>
+</verse>
+<verse reference="songofsongs.7.13" display-number="13">
+<poem><sup class="verse-ref" id="songofsongs.7.13">13</sup> The mandrakes<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:13" data-content="Gn 30:14-16"><i class="cross-ref-icon"></i></a></sup>
+    give off a fragrance,
+</poem>
+<poem>and at our doors is every delicacy,</poem>
+<poem>both new and old.</poem>
+<poem>I have treasured them up for you, my love.</poem>
+</verse></poetryblock>
+</chapter><chapter id="songofsongs.8" display="8">
+    <poetryblock>
+<verse reference="songofsongs.8.1" display-number="1">
+<poem><sup class="verse-ref" id="songofsongs.8.1">1</sup> If only I could treat you like my brother,
+    <sup class="translate-note">
+        <a href="#" data-toggle="popover" title="8:1" data-content=" Lit 'Would that you were like a brother to me'">
+            <i class="translate-note-icon"></i>
+        </a>
+    </sup>
+</poem>
+<poem>one who nursed at my mother&#8217;s breasts,</poem>
+<poem>I would find you in public and kiss you,</poem>
+<poem>and no one would scorn me.</poem>
+</verse><verse reference="songofsongs.8.2" display-number="2">
+<poem><sup class="verse-ref" id="songofsongs.8.2">2</sup> I would lead you, I would take you,
+</poem>
+<poem>to the house of my mother<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:2" data-content="Sg 3:4"><i class="cross-ref-icon"></i></a></sup>
+    who taught me.
+    <sup class="alt-reading-note">
+        <a href="#" data-toggle="popover" title="8:2"
+           data-content=" LXX adds 'and into the chamber of the one who bore me'">
+            <i class="alt-reading-icon"></i>
+        </a>
+    </sup>
+</poem>
+<poem>I would give you spiced wine to drink</poem>
+<poem>from the juice of my pomegranate.</poem>
+</verse><verse reference="songofsongs.8.3" display-number="3">
+<poem><sup class="verse-ref" id="songofsongs.8.3">3</sup> May his left hand be under my head,
+</poem>
+<poem>and his right arm embrace me.<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:3" data-content="Sg 2:6"><i class="cross-ref-icon"></i></a></sup>
+</poem>
+</verse><verse reference="songofsongs.8.4" display-number="4">
+<poem><sup class="verse-ref" id="songofsongs.8.4">4</sup> Young women of Jerusalem, I charge you,
+</poem>
+<poem>do not stir up or awaken love</poem>
+<poem>until the appropriate time.<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:4" data-content="Sg 2:7; 3:5"><i class="cross-ref-icon"></i></a></sup>
+</poem>
+</verse></poetryblock>
+<speaker>Young Women</speaker>
+<poetryblock>
+<verse reference="songofsongs.8.5" display-number="5">
+    <poem><sup class="verse-ref" id="songofsongs.8.5">5</sup> Who is this<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:5" data-content="Sg 3:6; 6:10"><i class="cross-ref-icon"></i></a></sup>
+        coming up from the wilderness,
+    </poem>
+    <poem>leaning on the one she loves?</poem>
+</verse>
+</poetryblock>
+<speaker>Woman</speaker>
+<poetryblock>
+    <verse reference="songofsongs.8.5" display-number="5">
+<poem>I awakened you under the apricot tree.<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:5" data-content="Sg 2:3"><i class="cross-ref-icon"></i></a></sup>
+</poem>
+<poem>There your mother conceived you;</poem>
+<poem>there she conceived and gave you birth.</poem>
+    </verse>
+<verse reference="songofsongs.8.6" display-number="6">
+    <poem><sup class="verse-ref" id="songofsongs.8.6">6</sup> Set me as a seal on your heart,
+    </poem>
+    <poem>as a seal on your arm.<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:6" data-content="Sg 2:16; 6:3; 7:10"><i class="cross-ref-icon"></i></a></sup>
+    </poem>
+    <poem>For love is as strong as death;<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:6" data-content="Rm 8:38-39; 1Co 13:8"><i class="cross-ref-icon"></i></a></sup>
+    </poem>
+    <poem>jealousy is as unrelenting as Sheol.</poem>
+    <poem>Love&#8217;s flames are fiery flames<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:6" data-content="Dt 32:21-22; Pr 6:34; 27:4"><i class="cross-ref-icon"></i></a></sup>&#8201;&#8212;
+    </poem>
+    <poem>an almighty flame!
+        <sup class="translate-note"><a href="#" data-toggle="popover" title="8:6"
+                                       data-content=" Or 'the blaze of the LORD'">
+            <i class="translate-note-icon"></i>
+        </a>
+    </sup>
+</poem>
+</verse><verse reference="songofsongs.8.7" display-number="7">
+<poem><sup class="verse-ref" id="songofsongs.8.7">7</sup> A huge torrent cannot extinguish love;
+</poem>
+<poem>rivers cannot sweep it away.</poem>
+<poem>If a man were to give all his wealth
+    <sup class="translate-note">
+        <a href="#" data-toggle="popover" title="8:7" data-content=" Lit' all the wealth of his house'">
+            <i class="translate-note-icon"></i>
+        </a>
+    </sup>
+    for love,<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:7" data-content="Pr 6:35"><i class="cross-ref-icon"></i></a></sup>
+</poem>
+<poem>it would be utterly scorned.</poem>
+</verse></poetryblock>
+<speaker>Brothers</speaker>
+<poetryblock>
+<verse reference="songofsongs.8.8" display-number="8">
+    <poem><sup class="verse-ref" id="songofsongs.8.8">8</sup> Our sister is young;
+    </poem>
+    <poem>she has no breasts.<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:8" data-content="Ezk 16:7"><i class="cross-ref-icon"></i></a></sup>
+    </poem>
+    <poem>What will we do for our sister</poem>
+    <poem>on the day she is spoken for?</poem>
+</verse>
+<verse reference="songofsongs.8.9" display-number="9">
+    <poem><sup class="verse-ref" id="songofsongs.8.9">9</sup> If she is a wall,
+    </poem>
+    <poem>we will build a silver barricade on her.</poem>
+    <poem>If she is a door,</poem>
+    <poem>we will enclose her with cedar planks.<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:9" data-content="1Kg 6:15"><i class="cross-ref-icon"></i></a></sup>
+    </poem>
+</verse>
+</poetryblock>
+<speaker>Woman</speaker>
+<poetryblock>
+<verse reference="songofsongs.8.10" display-number="10">
+    <poem><sup class="verse-ref" id="songofsongs.8.10">10</sup> I am
+        <sup class="translate-note">
+            <a href="#" data-toggle="popover" title="8:10" data-content=" Or 'was'">
+                <i class="translate-note-icon"></i>
+            </a>
+        </sup>
+        a wall
+    </poem>
+    <poem>and my breasts like towers.</poem>
+    <poem>So to him I have become</poem>
+    <poem>like one who finds
+        <sup class="translate-note">
+            <a href="#" data-toggle="popover" title="8:10" data-content=" Or 'brings'">
+                <i class="translate-note-icon"></i>
+            </a>
+        </sup> peace.
+        <sup class="clarifying-note">
+            <a href="#" data-toggle="popover" title="8:10"
+               data-content=" In Hb, the word for 'peace' sounds similar to Solomon and Shulammite.">
+                <i class="clarifying-icon"></i>
+            </a>
+        </sup>
+    </poem>
+</verse>
+</poetryblock>
+<poetryblock>
+<verse reference="songofsongs.8.11" display-number="11">
+    <poem><sup class="verse-ref" id="songofsongs.8.11">11</sup> Solomon owned a vineyard in Baal-hamon.<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:11" data-content="Ec 2:4"><i class="cross-ref-icon"></i></a></sup>
+    </poem>
+    <poem>He leased the vineyard to tenants.<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:11" data-content="Mt 21:33"><i class="cross-ref-icon"></i></a></sup>
+    </poem>
+    <poem>Each was to bring for his fruit</poem>
+    <poem>one thousand pieces of silver.<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:11" data-content="Is 7:23"><i class="cross-ref-icon"></i></a></sup>
+    </poem>
+</verse>
+<verse reference="songofsongs.8.12" display-number="12">
+    <poem><sup class="verse-ref" id="songofsongs.8.12">12</sup> I have my own vineyard.
+        <sup class="translate-note">
+            <a href="#" data-toggle="popover" title="8:12"
+               data-content=" Lit 'My vineyard, which is mine, is before me'&#8201;; Sg 1:6">
+                <i class="translate-note-icon"></i>
+            </a>
+        </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="8:12" data-content="Sg 1:6"><i class="cross-ref-icon"></i></a></sup>
+    </poem>
+    <poem>The one thousand are for you, Solomon,</poem>
+    <poem>but two hundred for those who take care of its fruits.</poem>
+</verse>
+</poetryblock>
+<speaker>Man</speaker>
+<poetryblock>
+<verse reference="songofsongs.8.13" display-number="13">
+    <poem><sup class="verse-ref" id="songofsongs.8.13">13</sup> You
+        <sup class="clarifying-note">
+            <a href="#" data-toggle="popover" title="8:13" data-content=" In Hb, the word for 'You' is feminine.">
+                <i class="clarifying-icon"></i>
+            </a>
+        </sup>
+        who dwell in the gardens,
+    </poem>
+    <poem>companions<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:13" data-content="Sg 1:7"><i class="cross-ref-icon"></i></a></sup>
+        are listening for your voice;
+    </poem>
+    <poem>let me hear you!<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:13" data-content="Sg 2:14"><i class="cross-ref-icon"></i></a></sup>
+    </poem>
+</verse>
+</poetryblock>
+<speaker>Woman</speaker>
+<poetryblock>
+<verse reference="songofsongs.8.14" display-number="14">
+    <poem><sup class="verse-ref" id="songofsongs.8.14">14</sup> Run away with me,
+        <sup class="translate-note">
+            <a href="#" data-toggle="popover" title="8:14" data-content=" Lit 'Flee'">
+                <i class="translate-note-icon"></i>
+            </a>
+        </sup>
+        my love,
+    </poem>
+    <poem>and be like a gazelle</poem>
+    <poem>or a young stag</poem>
+    <poem>on the mountains of spices.<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:14" data-content="Sg 2:17"><i class="cross-ref-icon"></i></a></sup>
+    </poem>
+</verse>
+</poetryblock>
+        </chapter></book>

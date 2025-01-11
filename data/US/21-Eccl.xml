@@ -1,0 +1,1626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="hcsb.xsd" id="bk.21">
+    <bookname>Ecclesiastes</bookname>
+    <chapter id="ecclesiastes.1" display="1">
+        <head1>Everything Is Futile</head1>
+        <p type="noind">
+            <verse reference="ecclesiastes.1.1" display-number="1"><sup class="verse-ref" id="ecclesiastes.1.1">1</sup>
+                The words of the Teacher,
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="1:1"
+                       data-content=" Or 'of Qoheleth', or 'of the Leader of the Assembly'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="1:1" data-content="Ec 1:12; 7:27; 12:8-10"><i class="cross-ref-icon"></i></a></sup>
+                son of David, king in Jerusalem.<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:1" data-content="1Kg 2:12; Pr 1:1"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+        </p>
+        <poetryblock>
+            <verse reference="ecclesiastes.1.2" display-number="2">
+                <poem><sup class="verse-ref" id="ecclesiastes.1.2">2</sup> &#8220;Absolute futility,&#8221; says the Teacher.
+                </poem>
+                <poem>&#8220;Absolute futility. Everything is futile.&#8221;<sup class="cross-ref">
+                    <a href="#" data-toggle="popover" title="1:2"
+                       data-content="Ps 39:5-6; 62:9; 144:4; Ec 12:8; Rm 8:20">
+                        <i class="cross-ref-icon"></i>
+                    </a>
+                </sup>
+                </poem>
+            </verse>
+            <verse reference="ecclesiastes.1.3" display-number="3">
+                <poem><sup class="verse-ref" id="ecclesiastes.1.3">3</sup> What does a person gain for all his efforts
+                </poem>
+                <poem>that he labors at under the sun?<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:3" data-content="Ec 2:11,22; 3:9; 5:16"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+            </verse>
+            <verse reference="ecclesiastes.1.4" display-number="4">
+                <poem><sup class="verse-ref" id="ecclesiastes.1.4">4</sup> A generation goes and a generation
+                    comes,
+                </poem>
+                <poem>but the earth remains forever.<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:4" data-content="Ps 104:5; 119:90; 1Jn 2:17"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+            </verse>
+            <verse reference="ecclesiastes.1.5" display-number="5">
+                <poem><sup class="verse-ref" id="ecclesiastes.1.5">5</sup> The sun rises and the sun sets;
+                </poem>
+                <poem>panting, it hurries back to the place<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:5" data-content="Ps 19:6"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>where it rises.</poem>
+            </verse>
+            <verse reference="ecclesiastes.1.6" display-number="6">
+                <poem><sup class="verse-ref" id="ecclesiastes.1.6">6</sup> Gusting to the south,
+                </poem>
+                <poem>turning to the north,</poem>
+                <poem>turning, turning, goes the wind,<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:6" data-content="Ec 11:5; Jn 3:8"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>and the wind returns in its cycles.</poem>
+            </verse>
+            <verse reference="ecclesiastes.1.7" display-number="7">
+                <poem><sup class="verse-ref" id="ecclesiastes.1.7">7</sup> All the streams flow to the sea,
+                </poem>
+                <poem>yet the sea is never full;</poem>
+                <poem>to the place where the streams flow,</poem>
+                <poem>there they flow again.</poem>
+            </verse>
+            <verse reference="ecclesiastes.1.8" display-number="8">
+                <poem><sup class="verse-ref" id="ecclesiastes.1.8">8</sup> All things
+                    <sup class="translate-note">
+                        <a href="#" data-toggle="popover" title="1:8" data-content=" Or 'words'">
+                            <i class="translate-note-icon"></i>
+                        </a>
+                    </sup>
+                    are wearisome,
+                </poem>
+                <poem>more than anyone can say.</poem>
+                <poem>The eye is not satisfied by seeing<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:8" data-content="Pr 27:20; Ec 4:8"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>or the ear filled with hearing.</poem>
+            </verse>
+            <verse reference="ecclesiastes.1.9" display-number="9">
+                <poem><sup class="verse-ref" id="ecclesiastes.1.9">9</sup> What has been is what will be,
+                </poem>
+                <poem>and what has been done is what will be done;</poem>
+                <poem>there is nothing new under the sun.</poem>
+            </verse>
+            <verse reference="ecclesiastes.1.10" display-number="10">
+                <poem><sup class="verse-ref" id="ecclesiastes.1.10">10</sup> Can one say about anything,
+                </poem>
+                <poem>&#8220;Look, this is new&#8221;?</poem>
+                <poem>It has already existed in the ages before us.</poem>
+            </verse>
+            <verse reference="ecclesiastes.1.11" display-number="11">
+                <poem><sup class="verse-ref" id="ecclesiastes.1.11">11</sup> There is no remembrance of those who
+                    <sup class="translate-note">
+                        <a href="#" data-toggle="popover" title="1:11" data-content=" Or 'of the things that'">
+                            <i class="translate-note-icon"></i>
+                        </a>
+                    </sup> came before;<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:11" data-content="Dt 9:14; Ec 2:16; 9:5"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>and of those who will come after</poem>
+                <poem>there will also be no remembrance</poem>
+                <poem>by those who follow them.</poem>
+            </verse>
+        </poetryblock>
+        <head1>The Limitations of Wisdom</head1>
+        <p type="noind">
+            <verse reference="ecclesiastes.1.12" display-number="12"><sup class="verse-ref" id="ecclesiastes.1.12">
+                12</sup> I, the Teacher,<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:12" data-content="Ec 1:1; 7:27; 12:8-10"><i class="cross-ref-icon"></i></a></sup>
+                have been
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="1:12" data-content=" Or 'Teacher, was'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup>
+                king over Israel in Jerusalem.
+            </verse>
+            <verse reference="ecclesiastes.1.13" display-number="13"><sup class="verse-ref" id="ecclesiastes.1.13">
+                13</sup> I applied my mind to examine<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:13" data-content="Ec 1:17"><i class="cross-ref-icon"></i></a></sup>
+                and explore through wisdom all that is done under heaven.<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:13" data-content="1Kg 4:29-34; Ec 3:10-11; 7:25; 8:17"><i class="cross-ref-icon"></i></a></sup>
+                God has given people
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="1:13" data-content=" Or 'given the descendants of Adam'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup>
+                this miserable task to keep them occupied.<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:13" data-content="Gn 3:19; Ec 2:23,26; 3:10; 4:8"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="ecclesiastes.1.14" display-number="14"><sup class="verse-ref" id="ecclesiastes.1.14">
+                14</sup> I have seen all the things that are done under the sun and have found everything to be futile, a
+                pursuit of the wind.
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="1:14"
+                       data-content=" Or 'a feeding on wind', or 'an affliction of spirit'&#8201;; also in v. 17">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="1:14" data-content="Pr 27:16; Ec 2:11,17; 4:4; 6:9"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+        </p>
+        <poetryblock>
+            <verse reference="ecclesiastes.1.15" display-number="15">
+                <poem><sup class="verse-ref" id="ecclesiastes.1.15">15</sup> What is crooked cannot be straightened;<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:15" data-content="Ec 7:13"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>what is lacking cannot be counted.</poem>
+            </verse>
+        </poetryblock>
+        <p>
+            <verse reference="ecclesiastes.1.16" display-number="16"><sup class="verse-ref" id="ecclesiastes.1.16">
+                16</sup> I said to myself, &#8220;See, I have amassed wisdom far beyond all those who were over Jerusalem
+                before me,<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:16" data-content="1Kg 3:12; 4:30; 10:23; Ec 2:9"><i class="cross-ref-icon"></i></a></sup>
+                and my mind has thoroughly grasped
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="1:16" data-content=" Or 'discerned'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup>
+                wisdom and knowledge.&#8221;
+            </verse>
+            <verse reference="ecclesiastes.1.17" display-number="17"><sup class="verse-ref" id="ecclesiastes.1.17">
+                17</sup> I applied my mind to know wisdom and knowledge,<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:17" data-content="Ec 1:13"><i class="cross-ref-icon"></i></a></sup>
+                madness and folly;<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:17" data-content="Ec 2:12; 7:25"><i class="cross-ref-icon"></i></a></sup>
+                I learned that this too is a pursuit of the wind.<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:17" data-content="Ec 2:11,17; 4:4,6,16; 6:9"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+        </p>
+        <poetryblock>
+            <verse reference="ecclesiastes.1.18" display-number="18">
+                <poem><sup class="verse-ref" id="ecclesiastes.1.18">18</sup> For with much wisdom is much sorrow;<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:18" data-content="Ec 2:23; 12:12"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>as knowledge increases, grief increases.</poem>
+            </verse>
+        </poetryblock>
+    </chapter>
+    <chapter id="ecclesiastes.2" display="2">
+        <head1>The Emptiness of Pleasure</head1>
+        <p type="noind">
+            <verse reference="ecclesiastes.2.1" display-number="1"><sup class="verse-ref" id="ecclesiastes.2.1">1</sup> I
+                said to myself, &#8220;Go ahead, I will test you with pleasure;<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:1" data-content="Ec 7:4; 8:15; Lk 12:19"><i class="cross-ref-icon"></i></a></sup>
+                enjoy what is good.&#8221; But it turned out to be futile.
+            </verse>
+            <verse reference="ecclesiastes.2.2" display-number="2"><sup class="verse-ref" id="ecclesiastes.2.2">2</sup> I
+                said about laughter,<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:2" data-content="Pr 14:13; Ec 7:3,6"><i class="cross-ref-icon"></i></a></sup> &#8220;It is madness,&#8221; and about pleasure, &#8220;What does this accomplish?&#8201;&#8221;
+            </verse>
+            <verse reference="ecclesiastes.2.3" display-number="3"><sup class="verse-ref" id="ecclesiastes.2.3">3</sup> I
+                explored with my mind the pull of wine<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:3" data-content="Ps 104:15; Ec 10:19"><i class="cross-ref-icon"></i></a></sup>
+                on my body&#8201;&#x200B;&#8212;&#8201;&#x200B;my mind still guiding me with wisdom&#8201;&#8212; and
+                how to grasp folly,<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:3" data-content="Ec 7:25"><i class="cross-ref-icon"></i></a></sup>
+                until I could see what is good for people to do under heaven
+                <sup class="alt-reading-note">
+                    <a href="#" data-toggle="popover" title="2:3" data-content=" Two Hb mss, LXX, Syr read 'the sun'">
+                        <i class="alt-reading-icon"></i>
+                    </a>
+                </sup>
+                during the few days of their lives.<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:3" data-content="Ec 2:24; 3:12,13; 5:18; 8:15"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+        </p>
+        <head1>The Emptiness of Possessions</head1>
+        <p type="noind">
+            <verse reference="ecclesiastes.2.4" display-number="4"><sup class="verse-ref" id="ecclesiastes.2.4">4</sup> I
+                increased my achievements. I built houses<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:4" data-content="1Kg 7:1-12"><i class="cross-ref-icon"></i></a></sup>
+                and planted vineyards<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:4" data-content="Sg 8:11"><i class="cross-ref-icon"></i></a></sup>
+                for myself.
+            </verse>
+            <verse reference="ecclesiastes.2.5" display-number="5"><sup class="verse-ref" id="ecclesiastes.2.5">5</sup> I
+                made gardens<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:5" data-content="Sg 4:16"><i class="cross-ref-icon"></i></a></sup>
+                and parks for myself and planted every kind of fruit tree in them.
+            </verse>
+            <verse reference="ecclesiastes.2.6" display-number="6"><sup class="verse-ref" id="ecclesiastes.2.6">6</sup> I
+                constructed reservoirs for myself from which to irrigate a grove of flourishing trees.<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:6" data-content="Neh 2:14; 3:15-16"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="ecclesiastes.2.7" display-number="7"><sup class="verse-ref" id="ecclesiastes.2.7">7</sup> I
+                acquired male and female servants and had slaves who were born in my house.<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:7" data-content="Gn 14:14; 15:3"><i class="cross-ref-icon"></i></a></sup>
+                I also owned livestock&#8201;&#x200B;&#8212;&#8201;&#x200B;large herds and flocks&#8201;&#x200B;&#8212;&#8201;&#x200B;more
+                than all who were before me in Jerusalem.<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:7" data-content="1Kg 4:23"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="ecclesiastes.2.8" display-number="8"><sup class="verse-ref" id="ecclesiastes.2.8">8</sup> I
+                also amassed silver and gold for myself, and the treasure of kings and provinces.<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:8" data-content="1Kg 9:28; 10:10,14,21"><i class="cross-ref-icon"></i></a></sup>
+                I gathered male and female singers for myself,<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:8" data-content="2Sm 19:35"><i class="cross-ref-icon"></i></a></sup>
+                and many concubines, the delights of men.
+                <sup class="alt-reading-note">
+                    <a href="#" data-toggle="popover" title="2:8"
+                       data-content=" LXX, Theod, Syr read 'and male cupbearers and female cupbearers'&#8201;; Aq, Tg, Vg read 'a cup and cups'&#8201;; Hb obscure">
+                        <i class="alt-reading-icon"></i>
+                    </a>
+                </sup>
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="2:8"
+                       data-content=" Or 'many treasures that people delight in'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup>
+            </verse>
+            <verse reference="ecclesiastes.2.9" display-number="9"><sup class="verse-ref" id="ecclesiastes.2.9">9</sup>
+                So I became great and surpassed all who were before me in Jerusalem;<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:9" data-content="1Ch 29:25; Ec 1:16"><i class="cross-ref-icon"></i></a></sup>
+                my wisdom also remained with me.
+            </verse>
+            <verse reference="ecclesiastes.2.10" display-number="10"><sup class="verse-ref" id="ecclesiastes.2.10">
+                10</sup> All that my eyes desired, I did not deny them.<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:10" data-content="Ec 6:2"><i class="cross-ref-icon"></i></a></sup>
+                I did not refuse myself any pleasure, for I took pleasure in all my struggles. This was my reward for
+                all my struggles.<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:10" data-content="Ec 3:22; 5:18; 9:9"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="ecclesiastes.2.11" display-number="11"><sup class="verse-ref" id="ecclesiastes.2.11">
+                11</sup> When I considered all that I had accomplished
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="2:11"
+                       data-content=" Lit 'all my works that my hands had done'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup>
+                and what I had labored to achieve, I found everything to be futile and a pursuit of the wind.
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="2:11"
+                       data-content=" Or 'a feeding on wind', or 'an affliction of spirit'&#8201;; also in vv. 17,26">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="2:11" data-content="Ec 1:14; 2:22-23"><i class="cross-ref-icon"></i></a></sup>
+                There was nothing to be gained under the sun.<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:11" data-content="Ec 1:3; 3:9; 5:16"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+        </p>
+        <head1>The Relative Value of Wisdom</head1>
+        <p type="noind">
+            <verse reference="ecclesiastes.2.12" display-number="12"><sup class="verse-ref" id="ecclesiastes.2.12">
+                12</sup> Then I turned to consider wisdom,<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:12" data-content="Ec 1:17"><i class="cross-ref-icon"></i></a></sup>
+                madness, and folly, for what will the king&#8217;s successor
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="2:12"
+                       data-content=" Lit 'the man who comes after the king'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup>
+                be like? He
+                <sup class="alt-reading-note">
+                    <a href="#" data-toggle="popover" title="2:12" data-content=" Some Hb mss read 'They'">
+                        <i class="alt-reading-icon"></i>
+                    </a>
+                </sup>
+                will do what has already been done.<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:12" data-content="Ec 1:9-10; 3:15"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="ecclesiastes.2.13" display-number="13"><sup class="verse-ref" id="ecclesiastes.2.13">
+                13</sup> And I realized that there is an advantage to wisdom over folly, like the advantage of light over
+                darkness.<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:13" data-content="Ec 7:11-12,19; 9:18; 10:10"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+        </p>
+        <poetryblock>
+            <verse reference="ecclesiastes.2.14" display-number="14">
+                <poem><sup class="verse-ref" id="ecclesiastes.2.14">14</sup> The wise person has eyes in his head,
+                </poem>
+                <poem>but the fool walks in darkness.<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:14" data-content="Pr 2:10-13; 1Jn 2:11"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+            </verse>
+        </poetryblock>
+        <p type="noind">
+            <verse reference="ecclesiastes.2.14" display-number="14">
+            Yet I also knew that one fate comes to them both.<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:14" data-content="Ps 49:10; Ec 3:19; 6:6; 7:2; 9:2-3"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="ecclesiastes.2.15" display-number="15"><sup class="verse-ref" id="ecclesiastes.2.15">
+                15</sup> So I said to myself, &#8220;What happens to the fool will also happen to me. Why then have I
+                been overly wise?&#8201;&#8221;<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:15" data-content="Ec 6:8,11; 7:16"><i class="cross-ref-icon"></i></a></sup>
+                And I said to myself that this is also futile.
+            </verse>
+            <verse reference="ecclesiastes.2.16" display-number="16"><sup class="verse-ref" id="ecclesiastes.2.16">
+                16</sup> For, just like the fool, there is no lasting remembrance of the wise,<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:16" data-content="Dt 32:26; 2Sm 18:18; Ec 1:11; 9:5"><i class="cross-ref-icon"></i></a></sup>
+                since in the days to come both will be forgotten. How is it that the wise person dies just like the
+                fool?
+            </verse>
+            <verse reference="ecclesiastes.2.17" display-number="17"><sup class="verse-ref" id="ecclesiastes.2.17">
+                17</sup> Therefore, I hated life because the work that was done under the sun was distressing to me. For
+                everything is futile and a pursuit of the wind.
+            </verse>
+        </p>
+        <head1>The Emptiness of Work</head1>
+        <p type="noind">
+            <verse reference="ecclesiastes.2.18" display-number="18"><sup class="verse-ref" id="ecclesiastes.2.18">
+                18</sup> I hated all my work that I labored at under the sun<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:18" data-content="Ec 1:3; 2:11"><i class="cross-ref-icon"></i></a></sup>
+                because I must leave it to the one who comes after me.<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:18" data-content="Ps 39:6; 49:10; Pr 13:22"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="ecclesiastes.2.19" display-number="19"><sup class="verse-ref" id="ecclesiastes.2.19">
+                19</sup> And who knows whether he will be wise or a fool?<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:19" data-content="Ezk 18:9-10"><i class="cross-ref-icon"></i></a></sup>
+                Yet he will take over all my work that I labored at skillfully under the sun. This too is futile.
+            </verse>
+            <verse reference="ecclesiastes.2.20" display-number="20"><sup class="verse-ref" id="ecclesiastes.2.20">
+                20</sup> So I began to give myself over
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="2:20" data-content=" Lit 'And I turned to cause my heart'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup>
+                to despair concerning all my work that I had labored at under the sun.
+            </verse>
+            <verse reference="ecclesiastes.2.21" display-number="21"><sup class="verse-ref" id="ecclesiastes.2.21">
+                21</sup> When there is a person whose work was done with wisdom, knowledge, and skill,<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:21" data-content="Ec 4:4"><i class="cross-ref-icon"></i></a></sup>
+                and he must give his portion to a person who has not worked for it, this too is futile and a great
+                wrong.
+            </verse>
+            <verse reference="ecclesiastes.2.22" display-number="22"><sup class="verse-ref" id="ecclesiastes.2.22">
+                22</sup> For what does a person get with all his work and all his efforts<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:22" data-content="Ec 1:3; 2:11"><i class="cross-ref-icon"></i></a></sup>
+                that he labors at under the sun?
+            </verse>
+            <verse reference="ecclesiastes.2.23" display-number="23"><sup class="verse-ref" id="ecclesiastes.2.23">
+                23</sup> For all his days are filled with grief, and his occupation is sorrowful;<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:23" data-content="Jb 5:7; 14:1"><i class="cross-ref-icon"></i></a></sup>
+                even at night, his mind does not rest.<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:23" data-content="Ps 127:2"><i class="cross-ref-icon"></i></a></sup>
+                This too is futile.
+            </verse>
+        </p>
+        <p>
+            <verse reference="ecclesiastes.2.24" display-number="24"><sup class="verse-ref" id="ecclesiastes.2.24">
+                24</sup> There is nothing better for a person than to eat, drink, and enjoy
+                <sup class="alt-reading-note">
+                    <a href="#" data-toggle="popover" title="2:24"
+                       data-content=" Syr, Tg; MT reads 'There is no good in a person who eats and drinks and enjoys'">
+                        <i class="alt-reading-icon"></i>
+                    </a>
+                </sup>
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="2:24" data-content=" Lit 'and his soul sees good'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup>
+                his work.<sup class="cross-ref">
+                    <a href="#" data-toggle="popover" title="2:24"
+                       data-content="Ec 2:3; 3:12-13,22; 5:18; 6:12; 8:15; 9:7; Is 56:12; Lk 12:19; 1Co 15:32; 1Tm 6:17">
+                        <i class="cross-ref-icon"></i>
+                    </a>
+                </sup>
+                I have seen that even this is from God&#8217;s hand,<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:24" data-content="Ec 3:13"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="ecclesiastes.2.25" display-number="25"><sup class="verse-ref" id="ecclesiastes.2.25">
+                25</sup> because who can eat and who can enjoy life
+                <sup class="alt-reading-note">
+                    <a href="#" data-toggle="popover" title="2:25" data-content=" LXX, Theod, Syr read 'can drink'">
+                        <i class="alt-reading-icon"></i>
+                    </a>
+                </sup>
+                apart from him?
+                <sup class="alt-reading-note">
+                    <a href="#" data-toggle="popover" title="2:25" data-content=" Some Hb mss, LXX, Syr read 'me'">
+                        <i class="alt-reading-icon"></i>
+                    </a>
+                </sup>
+            </verse>
+            <verse reference="ecclesiastes.2.26" display-number="26"><sup class="verse-ref" id="ecclesiastes.2.26">
+                26</sup> For to the person who is pleasing in his sight, he gives wisdom, knowledge, and joy;<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:26" data-content="Jb 32:8; Pr 2:6"><i class="cross-ref-icon"></i></a></sup>
+                but to the sinner he gives the task of gathering and accumulating in order to give to the one who is
+                pleasing in God&#8217;s sight.<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:26" data-content="Jb 27:16-17; Pr 13:22; 28:8"><i class="cross-ref-icon"></i></a></sup>
+                This too is futile and a pursuit of the wind.<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:26" data-content="Ec 1:14"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+        </p>
+    </chapter>
+    <chapter id="ecclesiastes.3" display="3">
+        <head1>The Mystery of Time</head1>
+        <poetryblock>
+            <verse reference="ecclesiastes.3.1" display-number="1">
+                <poem><sup class="verse-ref" id="ecclesiastes.3.1">1</sup> There is an occasion for everything,
+                </poem>
+                <poem>and a time for every activity under heaven:<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:1" data-content="Ec 3:17; 8:6"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+            </verse>
+            <verse reference="ecclesiastes.3.2" display-number="2">
+                <poem><sup class="verse-ref" id="ecclesiastes.3.2">2</sup> a time to give birth and a time
+                    to die;<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:2" data-content="Jb 14:5; Heb 9:27"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>a time to plant and a time to uproot;
+                    <sup class="translate-note">
+                        <a href="#" data-toggle="popover" title="3:2" data-content=" Lit 'uproot what is planted'">
+                            <i class="translate-note-icon"></i>
+                        </a>
+                    </sup>
+                </poem>
+            </verse>
+            <verse reference="ecclesiastes.3.3" display-number="3">
+                <poem><sup class="verse-ref" id="ecclesiastes.3.3">3</sup> a time to kill and a time to heal;
+                </poem>
+                <poem>a time to tear down and a time to build;</poem>
+            </verse>
+            <verse reference="ecclesiastes.3.4" display-number="4">
+                <poem><sup class="verse-ref" id="ecclesiastes.3.4">4</sup> a time to weep and a time to laugh;<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:4" data-content="Rm 12:15"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>a time to mourn and a time to dance;<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:4" data-content="Ex 15:20"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+            </verse>
+            <verse reference="ecclesiastes.3.5" display-number="5">
+                <poem><sup class="verse-ref" id="ecclesiastes.3.5">5</sup> a time to throw stones and a time
+                    to gather stones;<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:5" data-content="2Kg 3:19,25; Is 5:2"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>a time to embrace and a time to avoid embracing;<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:5" data-content="1Co 7:5"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+            </verse>
+            <verse reference="ecclesiastes.3.6" display-number="6">
+                <poem><sup class="verse-ref" id="ecclesiastes.3.6">6</sup> a time to search and a time to count
+                    as lost;
+                </poem>
+                <poem>a time to keep and a time to throw away;</poem>
+            </verse>
+            <verse reference="ecclesiastes.3.7" display-number="7">
+                <poem><sup class="verse-ref" id="ecclesiastes.3.7">7</sup> a time to tear and a time to sew;
+                </poem>
+                <poem>a time to be silent and a time to speak;<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:7" data-content="Am 5:13; 1Co 14:26-32"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+            </verse>
+            <verse reference="ecclesiastes.3.8" display-number="8">
+                <poem><sup class="verse-ref" id="ecclesiastes.3.8">8</sup> a time to love and a time to hate;
+                </poem>
+                <poem>a time for war and a time for peace.<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:8" data-content="Mt 5:9; 10:34"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+            </verse>
+        </poetryblock>
+        <p>
+            <verse reference="ecclesiastes.3.9" display-number="9"><sup class="verse-ref" id="ecclesiastes.3.9">9</sup>
+                What does the worker gain from his struggles?<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:9" data-content="Ec 1:3"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="ecclesiastes.3.10" display-number="10"><sup class="verse-ref" id="ecclesiastes.3.10">
+                10</sup> I have seen the task that God has given the children of Adam to keep them occupied.<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:10" data-content="Ec 1:13; 2:26"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="ecclesiastes.3.11" display-number="11"><sup class="verse-ref" id="ecclesiastes.3.11">
+                11</sup> He has made everything appropriate
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="3:11" data-content=" Or 'beautiful'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup>
+                in its time.<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:11" data-content="Gn 1:31"><i class="cross-ref-icon"></i></a></sup>
+                He has also put eternity in their hearts,
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="3:11"
+                       data-content=" Or 'has put a sense of past and future into their minds', or 'has placed ignorance in their hearts'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup>
+                but no one can discover the work God has done from beginning to end.<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:11" data-content="Jb 5:9; Ec 7:23; 8:17; Rm 11:33"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="ecclesiastes.3.12" display-number="12"><sup class="verse-ref" id="ecclesiastes.3.12">
+                12</sup> I know that there is nothing better for them than to rejoice and enjoy the
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="3:12" data-content=" Lit 'his'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup>
+                good life.
+            </verse>
+            <verse reference="ecclesiastes.3.13" display-number="13"><sup class="verse-ref" id="ecclesiastes.3.13">
+                13</sup> It is also the gift of God whenever anyone eats, drinks, and enjoys all his efforts.<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:13" data-content="Ec 2:24; 5:19"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="ecclesiastes.3.14" display-number="14"><sup class="verse-ref" id="ecclesiastes.3.14">
+                14</sup> I know that everything God does will last forever; there is no adding to it or taking from it.<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:14" data-content="Rv 22:18-19"><i class="cross-ref-icon"></i></a></sup>
+                God works so that people will be in awe of him.<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:14" data-content="Ex 7:5; Ezk 36:23"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="ecclesiastes.3.15" display-number="15"><sup class="verse-ref" id="ecclesiastes.3.15">
+                15</sup> Whatever is, has already been,<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:15" data-content="Ec 1:9; 6:10"><i class="cross-ref-icon"></i></a></sup>
+                and whatever will be, already is. However, God seeks justice for the persecuted.
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="3:15" data-content=" Lit 'God seeks what is pursued'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup>
+            </verse>
+        </p>
+        <head1>The Mystery of Injustice and Death</head1>
+        <p type="noind">
+            <verse reference="ecclesiastes.3.16" display-number="16"><sup class="verse-ref" id="ecclesiastes.3.16">
+                16</sup> I also observed under the sun: there is wickedness at the place of judgment and there is
+                wickedness at the place of righteousness.<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:16" data-content="Ec 4:1; 5:8; 8:9"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="ecclesiastes.3.17" display-number="17"><sup class="verse-ref" id="ecclesiastes.3.17">
+                17</sup> I said to myself, &#8220;God will judge the righteous and the wicked,<sup class="cross-ref">
+                    <a href="#" data-toggle="popover" title="3:17"
+                       data-content="Ec 11:9; Mt 16:27; Rm 2:6-10; 2Th 1:6-9">
+                        <i class="cross-ref-icon"></i>
+                    </a>
+                </sup>
+                since there is a time for every activity and every work.&#8221;<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:17" data-content="Ec 3:1"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="ecclesiastes.3.18" display-number="18"><sup class="verse-ref" id="ecclesiastes.3.18">
+                18</sup> I said to myself, &#8220;This happens so that God may test the children of Adam and they may see
+                for themselves that they are like animals.&#8221;<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:18" data-content="Ps 49:12,20; 73:22"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="ecclesiastes.3.19" display-number="19"><sup class="verse-ref" id="ecclesiastes.3.19">
+                19</sup> For the fate of the children of Adam and the fate of animals is the same.<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:19" data-content="Ec 9:12"><i class="cross-ref-icon"></i></a></sup>
+                As one dies, so dies the other; they all have the same breath. People have no advantage over animals
+                since everything is futile.
+            </verse>
+            <verse reference="ecclesiastes.3.20" display-number="20"><sup class="verse-ref" id="ecclesiastes.3.20">
+                20</sup> All are going to the same place; all come from dust, and all return to dust.<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:20" data-content="Gn 3:19; Ec 12:7"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="ecclesiastes.3.21" display-number="21"><sup class="verse-ref" id="ecclesiastes.3.21">
+                21</sup> Who knows if the spirits of the children of Adam go upward and the spirits of animals go
+                downward to the earth?
+            </verse>
+            <verse reference="ecclesiastes.3.22" display-number="22"><sup class="verse-ref" id="ecclesiastes.3.22">
+                22</sup> I have seen that there is nothing better than for a person to enjoy his activities<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:22" data-content="Ec 2:24"><i class="cross-ref-icon"></i></a></sup>
+                because that is his reward. For who can enable him to see what will happen after he dies?
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="3:22" data-content=" Lit 'after him'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="3:22" data-content="Ec 2:18; 6:12; 8:7; 10:14"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+        </p>
+    </chapter>
+    <chapter id="ecclesiastes.4" display="4">
+        <p type="noind">
+            <verse reference="ecclesiastes.4.1" display-number="1"><sup class="verse-ref" id="ecclesiastes.4.1">1</sup>
+                Again, I observed all the acts of oppression being done under the sun.<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:1" data-content="Jb 35:9; Ec 3:16; 5:8"><i class="cross-ref-icon"></i></a></sup>
+                Look at the tears of those who are oppressed; they have no one to comfort them. Power is with those who
+                oppress them; they have no one to comfort them.
+            </verse>
+            <verse reference="ecclesiastes.4.2" display-number="2"><sup class="verse-ref" id="ecclesiastes.4.2">2</sup>
+                So I commended the dead,<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:2" data-content="Jb 3:11-26"><i class="cross-ref-icon"></i></a></sup>
+                who have already died, more than the living, who are still alive.
+            </verse>
+            <verse reference="ecclesiastes.4.3" display-number="3"><sup class="verse-ref" id="ecclesiastes.4.3">3</sup>
+                But better than either of them is the one who has not yet existed,<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:3" data-content="Ec 6:3; Lk 23:29"><i class="cross-ref-icon"></i></a></sup>
+                who has not seen the evil activity that is done under the sun.
+            </verse>
+        </p>
+        <head1>The Loneliness of Wealth</head1>
+        <p type="noind">
+            <verse reference="ecclesiastes.4.4" display-number="4"><sup class="verse-ref" id="ecclesiastes.4.4">4</sup> I
+                saw that all labor and all skillful work is due to one person&#8217;s jealousy of another.<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:4" data-content="1Sm 18:9; Ec 2:21; Ac 13:45; 2Co 12:20"><i class="cross-ref-icon"></i></a></sup>
+                This too is futile and a pursuit of the wind.
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="4:4"
+                       data-content=" Or 'a feeding on wind', or 'an affliction of spirit'&#8201;; also in vv. 6,16">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="4:4" data-content="Ec 1:14"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+        </p>
+        <poetryblock>
+            <verse reference="ecclesiastes.4.5" display-number="5">
+                <poem><sup class="verse-ref" id="ecclesiastes.4.5">5</sup> The fool folds his arms<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:5" data-content="Pr 6:10; 24:33"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>and consumes his own flesh.<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:5" data-content="Is 9:20"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+            </verse>
+            <verse reference="ecclesiastes.4.6" display-number="6">
+                <poem><sup class="verse-ref" id="ecclesiastes.4.6">6</sup> Better one handful with rest
+                </poem>
+                <poem>than two handfuls with effort and a pursuit of the wind.<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:6" data-content="Pr 15:16-17"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+            </verse>
+        </poetryblock>
+        <p>
+            <verse reference="ecclesiastes.4.7" display-number="7"><sup class="verse-ref" id="ecclesiastes.4.7">7</sup>
+                Again, I saw futility under the sun:
+            </verse>
+            <verse reference="ecclesiastes.4.8" display-number="8"><sup class="verse-ref" id="ecclesiastes.4.8">8</sup>
+                There is a person without a companion,
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="4:8"
+                       data-content=" Lit 'person, but there is not a second,'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup>
+                without even a son or brother, and though there is no end to all his struggles, his eyes are still not
+                content with riches.<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:8" data-content="Pr 27:20; Ec 1:8; 5:10"><i class="cross-ref-icon"></i></a></sup> &#8220;Who am I struggling for,&#8221; he asks, &#8220;and depriving myself of good things?&#8201;&#8221;
+                This too is futile and a miserable task.
+            </verse>
+        </p>
+        <p>
+            <verse reference="ecclesiastes.4.9" display-number="9"><sup class="verse-ref" id="ecclesiastes.4.9">9</sup>
+                Two are better than one because they have a good reward for their efforts.
+            </verse>
+            <verse reference="ecclesiastes.4.10" display-number="10"><sup class="verse-ref" id="ecclesiastes.4.10">
+                10</sup> For if either falls, his companion can lift him up; but pity the one who falls without another
+                to lift him up.
+            </verse>
+            <verse reference="ecclesiastes.4.11" display-number="11"><sup class="verse-ref" id="ecclesiastes.4.11">
+                11</sup> Also, if two lie down together, they can keep warm; but how can one person alone keep warm?<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:11" data-content="1Kg 1:1-4"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="ecclesiastes.4.12" display-number="12"><sup class="verse-ref" id="ecclesiastes.4.12">
+                12</sup> And if someone overpowers one person, two can resist him. A cord of three strands is not easily
+                broken.
+            </verse>
+        </p>
+        <p>
+            <verse reference="ecclesiastes.4.13" display-number="13"><sup class="verse-ref" id="ecclesiastes.4.13">
+                13</sup> Better is a poor but wise youth than an old but foolish king who no longer pays attention to
+                warnings.<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:13" data-content="Ec 9:15"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="ecclesiastes.4.14" display-number="14"><sup class="verse-ref" id="ecclesiastes.4.14">
+                14</sup> For he came from prison to be king,<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:14" data-content="Gn 41:14,41-43"><i class="cross-ref-icon"></i></a></sup>
+                even though he was born poor in his kingdom.
+            </verse>
+            <verse reference="ecclesiastes.4.15" display-number="15"><sup class="verse-ref" id="ecclesiastes.4.15">
+                15</sup> I saw all the living, who move about under the sun, follow
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="4:15" data-content=" Lit 'with'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup>
+                a second youth who succeeds him.
+            </verse>
+            <verse reference="ecclesiastes.4.16" display-number="16"><sup class="verse-ref" id="ecclesiastes.4.16">
+                16</sup> There is no limit to all the people who were before them, yet those who come later will not
+                rejoice in him. This too is futile and a pursuit of the wind.<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:16" data-content="Ec 1:14"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+        </p>
+    </chapter>
+    <chapter id="ecclesiastes.5" display="5">
+        <head1>Caution in God&#8217;s Presence</head1>
+        <p type="noind">
+            <verse reference="ecclesiastes.5.1" display-number="1"><sup class="verse-ref" id="ecclesiastes.5.1">1</sup>
+                Guard your steps when you go to the house of God. Better to approach in obedience than to offer the
+                sacrifice as fools do,<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:1" data-content="1Sm 15:22; Mt 5:23-24"><i class="cross-ref-icon"></i></a></sup>
+                for they ignorantly do wrong.
+            </verse>
+            <verse reference="ecclesiastes.5.2" display-number="2"><sup class="verse-ref" id="ecclesiastes.5.2">2</sup>
+                Do not be hasty to speak, and do not be impulsive to make a speech before God. God is in heaven and you
+                are on earth, so let your words be few.<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:2" data-content="Pr 10:19; Mt 6:7"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="ecclesiastes.5.3" display-number="3"><sup class="verse-ref" id="ecclesiastes.5.3">3</sup>
+                Just as dreams accompany much labor, so also a fool&#8217;s voice comes with many words.<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:3" data-content="Jb 11:2"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="ecclesiastes.5.4" display-number="4"><sup class="verse-ref" id="ecclesiastes.5.4">4</sup>
+                When you make a vow to God,<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:4" data-content="Nm 30:2; Dt 6:13; 23:21-22; Pr 20:25"><i class="cross-ref-icon"></i></a></sup>
+                don&#8217;t delay fulfilling it, because he does not delight in fools. Fulfill what you vow.
+            </verse>
+            <verse reference="ecclesiastes.5.5" display-number="5"><sup class="verse-ref" id="ecclesiastes.5.5">5</sup>
+                Better that you do not vow than that you vow and not fulfill it.<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:5" data-content="Pr 20:25; Mt 5:33-37; Ac 5:4; Jms 5:12"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="ecclesiastes.5.6" display-number="6"><sup class="verse-ref" id="ecclesiastes.5.6">6</sup>
+                Do not let your mouth bring guilt on you,<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:6" data-content="Jdg 11:30-31,34"><i class="cross-ref-icon"></i></a></sup>
+                and do not say in the presence of the messenger that it was a mistake.<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:6" data-content="Nm 15:25"><i class="cross-ref-icon"></i></a></sup>
+                Why should God be angry with your words and destroy the work of your hands?
+            </verse>
+            <verse reference="ecclesiastes.5.7" display-number="7"><sup class="verse-ref" id="ecclesiastes.5.7">7</sup>
+                For many dreams bring futility; so do many words.<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:7" data-content="Ec 6:11"><i class="cross-ref-icon"></i></a></sup>
+                Therefore, fear God.
+            </verse>
+        </p>
+        <head1>The Realities of Wealth</head1>
+        <p type="noind">
+            <verse reference="ecclesiastes.5.8" display-number="8"><sup class="verse-ref" id="ecclesiastes.5.8">8</sup>
+                If you see oppression of the poor<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:8" data-content="Ec 4:1"><i class="cross-ref-icon"></i></a></sup>
+                and perversion of justice and righteousness in the province, don&#8217;t be astonished at the situation,<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:8" data-content="1Pt 4:12"><i class="cross-ref-icon"></i></a></sup>
+                because one official protects another official, and higher officials protect them.
+            </verse>
+            <verse reference="ecclesiastes.5.9" display-number="9"><sup class="verse-ref" id="ecclesiastes.5.9">9</sup>
+                The profit from the land is taken by all; the king is served by the field.
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="5:9" data-content=" Hb obscure">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="5:9" data-content="Pr 27:23-27"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+        </p>
+        <p>
+            <verse reference="ecclesiastes.5.10" display-number="10"><sup class="verse-ref" id="ecclesiastes.5.10">
+                10</sup> The one who loves silver is never satisfied with silver, and whoever loves wealth is never
+                satisfied with income. This too is futile.
+            </verse>
+            <verse reference="ecclesiastes.5.11" display-number="11"><sup class="verse-ref" id="ecclesiastes.5.11">
+                11</sup> When good things increase, the ones who consume them multiply; what, then, is the profit to the
+                owner, except to gaze at them with his eyes?
+            </verse>
+            <verse reference="ecclesiastes.5.12" display-number="12"><sup class="verse-ref" id="ecclesiastes.5.12">
+                12</sup> The sleep of the worker is sweet, whether he eats little or much, but the abundance of the rich
+                permits him no sleep.
+            </verse>
+        </p>
+        <p>
+            <verse reference="ecclesiastes.5.13" display-number="13"><sup class="verse-ref" id="ecclesiastes.5.13">
+                13</sup> There is a sickening tragedy I have seen under the sun: wealth kept by its owner to his harm.<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:13" data-content="Ec 6:1-2"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="ecclesiastes.5.14" display-number="14"><sup class="verse-ref" id="ecclesiastes.5.14">
+                14</sup> That wealth was lost in a bad venture, so when he fathered a son, he was empty-handed.
+            </verse>
+            <verse reference="ecclesiastes.5.15" display-number="15"><sup class="verse-ref" id="ecclesiastes.5.15">
+                15</sup> As he came from his mother&#8217;s womb, so he will go again, naked as he came;<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:15" data-content="Jb 1:21"><i class="cross-ref-icon"></i></a></sup>
+                he will take nothing for his efforts that he can carry in his hands.
+            </verse>
+            <verse reference="ecclesiastes.5.16" display-number="16"><sup class="verse-ref" id="ecclesiastes.5.16">
+                16</sup> This too is a sickening tragedy: exactly as he comes, so he will go. What does the one gain<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:16" data-content="Ec 1:3"><i class="cross-ref-icon"></i></a></sup>
+                who struggles for the wind?<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:16" data-content="Pr 11:29"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="ecclesiastes.5.17" display-number="17"><sup class="verse-ref" id="ecclesiastes.5.17">
+                17</sup> What is more, he eats in darkness all his days,<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:17" data-content="Ps 127:2"><i class="cross-ref-icon"></i></a></sup>
+                with much frustration, sickness, and anger.
+            </verse>
+        </p>
+        <p>
+            <verse reference="ecclesiastes.5.18" display-number="18"><sup class="verse-ref" id="ecclesiastes.5.18">
+                18</sup> Here is what I have seen to be good:<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:18" data-content="Ec 2:24"><i class="cross-ref-icon"></i></a></sup>
+                It is appropriate to eat, drink, and experience good in all the labor one does under the sun during the
+                few days of his life God has given him, because that is his reward.<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:18" data-content="Ec 2:10"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="ecclesiastes.5.19" display-number="19"><sup class="verse-ref" id="ecclesiastes.5.19">
+                19</sup> Furthermore, everyone to whom God has given riches and wealth,<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:19" data-content="2Ch 1:12"><i class="cross-ref-icon"></i></a></sup>
+                he has also allowed him to enjoy them, take his reward, and rejoice in his labor.<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:19" data-content="Ec 6:2"><i class="cross-ref-icon"></i></a></sup>
+                This is a gift of God,<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:19" data-content="Ec 3:13"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="ecclesiastes.5.20" display-number="20"><sup class="verse-ref" id="ecclesiastes.5.20">
+                20</sup> for he does not often consider the days of his life because God keeps him occupied with the joy
+                of his heart.
+            </verse>
+        </p>
+    </chapter>
+    <chapter id="ecclesiastes.6" display="6">
+        <p>
+            <verse reference="ecclesiastes.6.1" display-number="1"><sup class="verse-ref" id="ecclesiastes.6.1">1</sup>
+                Here is a tragedy I have observed under the sun,<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:1" data-content="Ec 5:13"><i class="cross-ref-icon"></i></a></sup>
+                and it weighs heavily on humanity:
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="6:1" data-content=" Or 'it is common among men'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup>
+            </verse>
+            <verse reference="ecclesiastes.6.2" display-number="2"><sup class="verse-ref" id="ecclesiastes.6.2">2</sup>
+                God gives a person riches, wealth, and honor<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:2" data-content="1Kg 3:13"><i class="cross-ref-icon"></i></a></sup>
+                so that he lacks nothing of all he desires for himself,<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:2" data-content="Ps 17:14; 73:7"><i class="cross-ref-icon"></i></a></sup>
+                but God does not allow him to enjoy them. Instead, a stranger will enjoy them. This is futile and a
+                sickening tragedy.
+            </verse>
+            <verse reference="ecclesiastes.6.3" display-number="3"><sup class="verse-ref" id="ecclesiastes.6.3">3</sup> A
+                man may father a hundred children and live many years. No matter how long he lives,
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="6:3" data-content=" Lit 'how many years'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup>
+                if he is not satisfied by good things and does not even have a proper burial,<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:3" data-content="Is 14:20; Jr 8:2; 22:19"><i class="cross-ref-icon"></i></a></sup>
+                I say that a stillborn child is better off than he.<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:3" data-content="Jb 3:16; Ec 4:3"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="ecclesiastes.6.4" display-number="4"><sup class="verse-ref" id="ecclesiastes.6.4">4</sup>
+                For he comes in futility and he goes in darkness, and his name is shrouded in darkness.
+            </verse>
+            <verse reference="ecclesiastes.6.5" display-number="5"><sup class="verse-ref" id="ecclesiastes.6.5">5</sup>
+                Though a stillborn child does not see the sun and is not conscious, it has more rest than he.
+            </verse>
+            <verse reference="ecclesiastes.6.6" display-number="6"><sup class="verse-ref" id="ecclesiastes.6.6">6</sup>
+                And if a person lives a thousand years twice, but does not experience happiness, do not both go to the
+                same place?
+            </verse>
+        </p>
+        <poetryblock>
+            <verse reference="ecclesiastes.6.7" display-number="7">
+                <poem><sup class="verse-ref" id="ecclesiastes.6.7">7</sup> All of a person&#8217;s labor is for his stomach,
+                    <sup class="translate-note">
+                        <a href="#" data-toggle="popover" title="6:7" data-content=" Lit 'mouth'">
+                            <i class="translate-note-icon"></i>
+                        </a>
+                    </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="6:7" data-content="Pr 16:26"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>yet the appetite is never satisfied.</poem>
+            </verse>
+        </poetryblock>
+        <p>
+            <verse reference="ecclesiastes.6.8" display-number="8"><sup class="verse-ref" id="ecclesiastes.6.8">8</sup>
+                What advantage then does the wise person have over the fool?<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:8" data-content="Ec 2:15"><i class="cross-ref-icon"></i></a></sup>
+                What advantage is there for the poor person who knows how to conduct himself before others?
+            </verse>
+            <verse reference="ecclesiastes.6.9" display-number="9"><sup class="verse-ref" id="ecclesiastes.6.9">9</sup>
+                Better what the eyes see than wandering desire.<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:9" data-content="Ec 11:9"><i class="cross-ref-icon"></i></a></sup>
+                This too is futile and a pursuit of the wind.
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="6:9"
+                       data-content=" Or 'a feeding on wind', or 'an affliction of spirit'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="6:9" data-content="Ec 1:14"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+        </p>
+        <p>
+            <verse reference="ecclesiastes.6.10" display-number="10"><sup class="verse-ref" id="ecclesiastes.6.10">
+                10</sup> Whatever exists was given its name long ago,
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="6:10" data-content=" Lit 'name already'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="6:10" data-content="Gn 2:19; Ec 1:9-10; 3:15"><i class="cross-ref-icon"></i></a></sup>
+                and it is known what mankind is. But he is not able to contend with the one stronger than he.<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:10" data-content="Jb 9:32; Is 45:9"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="ecclesiastes.6.11" display-number="11"><sup class="verse-ref" id="ecclesiastes.6.11">
+                11</sup> For when there are many words, they increase futility.<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:11" data-content="Pr 10:19; Mt 6:7"><i class="cross-ref-icon"></i></a></sup>
+                What is the advantage for mankind?
+            </verse>
+            <verse reference="ecclesiastes.6.12" display-number="12"><sup class="verse-ref" id="ecclesiastes.6.12">
+                12</sup> For who knows what is good for anyone in life, in the few days of his futile life that he spends
+                like a shadow?<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:12" data-content="Ec 3:22"><i class="cross-ref-icon"></i></a></sup>
+                Who can tell anyone what will happen after him under the sun?
+            </verse>
+        </p>
+    </chapter>
+    <chapter id="ecclesiastes.7" display="7">
+        <head1>Wise Sayings</head1>
+        <poetryblock>
+            <verse reference="ecclesiastes.7.1" display-number="1">
+                <poem><sup class="verse-ref" id="ecclesiastes.7.1">1</sup> A good name is better than fine perfume,<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:1" data-content="Pr 22:1; Ezk 36:21"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>and the day of one&#8217;s death is better than the day of one&#8217;s birth.<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:1" data-content="Ec 4:2"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+            </verse>
+            <verse reference="ecclesiastes.7.2" display-number="2">
+                <poem><sup class="verse-ref" id="ecclesiastes.7.2">2</sup> It is better to go to a house
+                    of mourning
+                </poem>
+                <poem>than to go to a house of feasting,</poem>
+                <poem>since that is the end of all mankind,</poem>
+                <poem>and the living should take it to heart.<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:2" data-content="Ps 90:12"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+            </verse>
+            <verse reference="ecclesiastes.7.3" display-number="3">
+                <poem><sup class="verse-ref" id="ecclesiastes.7.3">3</sup> Grief is better than laughter,
+                </poem>
+                <poem>for when a face is sad, a heart may be glad.<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:3" data-content="Pr 14:13"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+            </verse>
+            <verse reference="ecclesiastes.7.4" display-number="4">
+                <poem><sup class="verse-ref" id="ecclesiastes.7.4">4</sup> The heart of the wise is in a house
+                    of mourning,
+                </poem>
+                <poem>but the heart of fools is in a house of pleasure.</poem>
+            </verse>
+            <verse reference="ecclesiastes.7.5" display-number="5">
+                <poem><sup class="verse-ref" id="ecclesiastes.7.5">5</sup> It is better to listen to rebuke
+                    from a wise person
+                </poem>
+                <poem>than to listen to the song of fools,<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:5" data-content="Pr 13:1"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+            </verse>
+            <verse reference="ecclesiastes.7.6" display-number="6">
+                <poem><sup class="verse-ref" id="ecclesiastes.7.6">6</sup> for like the crackling of burning thorns
+                    under the pot,<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:6" data-content="Ps 58:9; 118:12"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>so is the laughter of the fool.</poem>
+                <poem>This too is futile.</poem>
+            </verse>
+            <verse reference="ecclesiastes.7.7" display-number="7">
+                <poem><sup class="verse-ref" id="ecclesiastes.7.7">7</sup> Surely, the practice of extortion turns a wise person
+                    into a fool,<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:7" data-content="Ec 4:1"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>and a bribe corrupts the mind.<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:7" data-content="Dt 16:19; Pr 17:8"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+            </verse>
+            <verse reference="ecclesiastes.7.8" display-number="8">
+                <poem><sup class="verse-ref" id="ecclesiastes.7.8">8</sup> The end of a matter is better
+                    than its beginning;
+                </poem>
+                <poem>a patient spirit is better than a proud spirit.<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:8" data-content="Pr 14:29"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+            </verse>
+            <verse reference="ecclesiastes.7.9" display-number="9">
+                <poem><sup class="verse-ref" id="ecclesiastes.7.9">9</sup> Don&#8217;t let your spirit rush to be angry,
+                </poem>
+                <poem>for anger abides in the heart of fools.<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:9" data-content="Pr 14:17; Jms 1:19"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+            </verse>
+            <verse reference="ecclesiastes.7.10" display-number="10">
+                <poem><sup class="verse-ref" id="ecclesiastes.7.10">10</sup> Don&#8217;t say, &#8220;Why were the former days
+                    better than these?&#8201;&#8221;<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:10" data-content="Jdg 6:13"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>since it is not wise of you to ask this.</poem>
+            </verse>
+            <verse reference="ecclesiastes.7.11" display-number="11">
+                <poem><sup class="verse-ref" id="ecclesiastes.7.11">11</sup> Wisdom is as good as an inheritance
+                </poem>
+                <poem>and an advantage to those who see the sun,</poem>
+            </verse>
+            <verse reference="ecclesiastes.7.12" display-number="12">
+                <poem><sup class="verse-ref" id="ecclesiastes.7.12">12</sup> because wisdom is protection as silver
+                    is protection;
+                </poem>
+                <poem>but the advantage of knowledge</poem>
+                <poem>is that wisdom preserves the life of its owner.<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:12" data-content="Pr 3:18"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+            </verse>
+            <verse reference="ecclesiastes.7.13" display-number="13">
+                <poem><sup class="verse-ref" id="ecclesiastes.7.13">13</sup> Consider the work of God,<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:13" data-content="Ec 3:11"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>for who can straighten out</poem>
+                <poem>what he has made crooked?<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:13" data-content="Ec 1:15"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+            </verse>
+        </poetryblock>
+        <p>
+            <verse reference="ecclesiastes.7.14" display-number="14"><sup class="verse-ref" id="ecclesiastes.7.14">
+                14</sup> In the day of prosperity be joyful,<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:14" data-content="Ec 3:22"><i class="cross-ref-icon"></i></a></sup>
+                but in the day of adversity, consider: God has made the one as well as the other,<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:14" data-content="Lm 3:38"><i class="cross-ref-icon"></i></a></sup>
+                so that no one can discover anything that will come after him.
+            </verse>
+        </p>
+        <head1>Avoiding Extremes</head1>
+        <p type="noind">
+            <verse reference="ecclesiastes.7.15" display-number="15"><sup class="verse-ref" id="ecclesiastes.7.15">
+                15</sup> In my futile life
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="7:15" data-content=" Lit 'days'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup>
+                I have seen everything:<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:15" data-content="Ec 6:12; 9:9"><i class="cross-ref-icon"></i></a></sup>
+                someone righteous perishes in spite of his righteousness,<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:15" data-content="Ec 8:14"><i class="cross-ref-icon"></i></a></sup>
+                and someone wicked lives long in spite of his evil.<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:15" data-content="Ec 8:12-13"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="ecclesiastes.7.16" display-number="16"><sup class="verse-ref" id="ecclesiastes.7.16">
+                16</sup> Don&#8217;t be excessively righteous, and don&#8217;t be overly wise.<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:16" data-content="Ec 2:15; Rm 12:3"><i class="cross-ref-icon"></i></a></sup>
+                Why should you destroy yourself?
+            </verse>
+            <verse reference="ecclesiastes.7.17" display-number="17"><sup class="verse-ref" id="ecclesiastes.7.17">
+                17</sup> Don&#8217;t be excessively wicked, and don&#8217;t be foolish. Why should you die before your
+                time?<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:17" data-content="Jb 22:16; Ps 55:23; Pr 10:27"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="ecclesiastes.7.18" display-number="18"><sup class="verse-ref" id="ecclesiastes.7.18">
+                18</sup> It is good that you grasp the one and do not let the other slip from your hand. For the one who
+                fears God will end up with both of them.
+            </verse>
+        </p>
+        <poetryblock>
+            <verse reference="ecclesiastes.7.19" display-number="19">
+                <poem><sup class="verse-ref" id="ecclesiastes.7.19">19</sup> Wisdom makes the wise person
+                    stronger
+                </poem>
+                <poem>than ten rulers of a city.<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:19" data-content="Ec 9:13-18"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+            </verse>
+            <verse reference="ecclesiastes.7.20" display-number="20">
+                <poem><sup class="verse-ref" id="ecclesiastes.7.20">20</sup> There is certainly no one righteous on the earth
+                </poem>
+                <poem>who does good and never sins.<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:20" data-content="1Kg 8:46; Rm 3:23"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+            </verse>
+        </poetryblock>
+        <p>
+            <verse reference="ecclesiastes.7.21" display-number="21"><sup class="verse-ref" id="ecclesiastes.7.21">
+                21</sup> Don&#8217;t pay attention
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="7:21" data-content=" Lit 'Don&#8217;t give your heart'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup>
+                to everything people say, or you may hear your servant cursing you,<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:21" data-content="Pr 30:10"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="ecclesiastes.7.22" display-number="22"><sup class="verse-ref" id="ecclesiastes.7.22">
+                22</sup> for in your heart you know that many times you yourself have cursed others.
+            </verse>
+        </p>
+        <head1>What the Teacher Found</head1>
+        <p type="noind">
+            <verse reference="ecclesiastes.7.23" display-number="23"><sup class="verse-ref" id="ecclesiastes.7.23">
+                23</sup> I have tested all this by wisdom. I resolved, &#8220;I will be wise,&#8221; but it was beyond
+                me.
+            </verse>
+            <verse reference="ecclesiastes.7.24" display-number="24"><sup class="verse-ref" id="ecclesiastes.7.24">
+                24</sup> What exists is beyond reach and very deep.<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:24" data-content="Rm 11:33"><i class="cross-ref-icon"></i></a></sup>
+                Who can discover it?
+            </verse>
+            <verse reference="ecclesiastes.7.25" display-number="25"><sup class="verse-ref" id="ecclesiastes.7.25">
+                25</sup> I turned my thoughts to know, explore, and examine wisdom<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:25" data-content="Ec 1:15,17"><i class="cross-ref-icon"></i></a></sup>
+                and an explanation for things, and to know that wickedness is stupidity and folly is madness.
+            </verse>
+            <verse reference="ecclesiastes.7.26" display-number="26"><sup class="verse-ref" id="ecclesiastes.7.26">
+                26</sup> And I find more bitter than death<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:26" data-content="Pr 5:4"><i class="cross-ref-icon"></i></a></sup>
+                the woman who is a trap:<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:26" data-content="Pr 6:25"><i class="cross-ref-icon"></i></a></sup>
+                her heart a net and her hands chains. The one who pleases God will escape her, but the sinner will be
+                captured by her.
+            </verse>
+            <verse reference="ecclesiastes.7.27" display-number="27"><sup class="verse-ref" id="ecclesiastes.7.27">
+                27</sup>&#8220;Look,&#8221; says the Teacher, &#8220;I have discovered this by adding one thing to
+                another to find out the explanation,
+            </verse>
+            <verse reference="ecclesiastes.7.28" display-number="28"><sup class="verse-ref" id="ecclesiastes.7.28">
+                28</sup> which my soul continually searches for but does not find: I found one person in a thousand, but
+                none of those was a woman.<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:28" data-content="1Kg 11:3"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="ecclesiastes.7.29" display-number="29"><sup class="verse-ref" id="ecclesiastes.7.29">
+                29</sup> Only see this: I have discovered that God made people upright,<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:29" data-content="Gn 1:27"><i class="cross-ref-icon"></i></a></sup>
+                but they pursued many schemes.&#8221;
+            </verse>
+        </p>
+    </chapter>
+    <chapter id="ecclesiastes.8" display="8">
+        <head1>Wisdom, Authorities, and Inequities</head1>
+        <p type="noind">
+            <verse reference="ecclesiastes.8.1" display-number="1"><sup class="verse-ref" id="ecclesiastes.8.1">1</sup>
+                Who is like the wise person, and who knows the interpretation of a matter? A person&#8217;s wisdom
+                brightens his face, and the sternness of his face is changed.<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:1" data-content="Dt 28:50"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+        </p>
+        <p>
+            <verse reference="ecclesiastes.8.2" display-number="2"><sup class="verse-ref" id="ecclesiastes.8.2">2</sup>
+                Keep
+                <sup class="alt-reading-note">
+                    <a href="#" data-toggle="popover" title="8:2"
+                       data-content=" Some Hb mss, LXX, Vg, Tg, Syr; other Hb mss read 'As for me, keep'">
+                        <i class="alt-reading-icon"></i>
+                    </a>
+                </sup>
+                the king&#8217;s command because of your oath made before God.<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:2" data-content="Ex 22:11; 2Sm 21:7; Ezk 17:18"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="ecclesiastes.8.3" display-number="3"><sup class="verse-ref" id="ecclesiastes.8.3">3</sup>
+                Do not be in a hurry; leave his presence,<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:3" data-content="Ec 10:4"><i class="cross-ref-icon"></i></a></sup>
+                and don&#8217;t persist in a bad cause, since he will do whatever he wants.
+            </verse>
+            <verse reference="ecclesiastes.8.4" display-number="4"><sup class="verse-ref" id="ecclesiastes.8.4">4</sup>
+                For the king&#8217;s word is authoritative, and who can say to him, &#8220;What are you doing?&#8201;&#8221;<sup
+                        class="cross-ref">
+                    <a href="#" data-toggle="popover" title="8:4" data-content="Jb 9:12; Dn 4:35">
+                        <i class="cross-ref-icon"></i>
+                    </a>
+                </sup>
+            </verse>
+            <verse reference="ecclesiastes.8.5" display-number="5"><sup class="verse-ref" id="ecclesiastes.8.5">5</sup>
+                The one who keeps a command will not experience anything harmful,<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:5" data-content="Rm 13:3"><i class="cross-ref-icon"></i></a></sup>
+                and a wise heart knows the right time and procedure.
+            </verse>
+            <verse reference="ecclesiastes.8.6" display-number="6"><sup class="verse-ref" id="ecclesiastes.8.6">6</sup>
+                For every activity there is a right time and procedure,<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:6" data-content="Ec 3:1,17"><i class="cross-ref-icon"></i></a></sup>
+                even though a person&#8217;s troubles are heavy on him.
+            </verse>
+            <verse reference="ecclesiastes.8.7" display-number="7"><sup class="verse-ref" id="ecclesiastes.8.7">7</sup>
+                Yet no one knows what will happen<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:7" data-content="Ec 3:22; 6:12; 9:12; 10:14"><i class="cross-ref-icon"></i></a></sup>
+                because who can tell him what will happen?
+            </verse>
+            <verse reference="ecclesiastes.8.8" display-number="8"><sup class="verse-ref" id="ecclesiastes.8.8">8</sup>
+                No one has authority over the wind
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="8:8" data-content=" Or 'life-breath'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup>
+                to restrain it,<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:8" data-content="Ps 148:8; Pr 30:4; Mk 4:39"><i class="cross-ref-icon"></i></a></sup>
+                and there is no authority over the day of death;<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:8" data-content="Jn 10:18; 2Tm 1:10"><i class="cross-ref-icon"></i></a></sup>
+                no one is discharged during battle, and wickedness will not allow those who practice it to escape.
+            </verse>
+            <verse reference="ecclesiastes.8.9" display-number="9"><sup class="verse-ref" id="ecclesiastes.8.9">9</sup>
+                All this I have seen, applying my mind to all the work that is done under the sun, at a time when one
+                person has authority over another to his harm.
+            </verse>
+        </p>
+        <p>
+            <verse reference="ecclesiastes.8.10" display-number="10"><sup class="verse-ref" id="ecclesiastes.8.10">
+                10</sup> In such circumstances, I saw the wicked buried. They came and went from the holy place,<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:10" data-content="Ec 9:5"><i class="cross-ref-icon"></i></a></sup>
+                and they were praised
+                <sup class="alt-reading-note">
+                    <a href="#" data-toggle="popover" title="8:10"
+                       data-content=" Some Hb mss, LXX, Aq, Theod, Sym; other Hb mss read 'forgotten'">
+                        <i class="alt-reading-icon"></i>
+                    </a>
+                </sup>
+                in the city where they did those things. This too is futile.
+            </verse>
+            <verse reference="ecclesiastes.8.11" display-number="11"><sup class="verse-ref" id="ecclesiastes.8.11">
+                11</sup> Because the sentence against an evil act is not carried out quickly,<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:11" data-content="Rm 2:4; 2Pt 3:9"><i class="cross-ref-icon"></i></a></sup>
+                the heart of people is filled with the desire to commit evil.
+            </verse>
+            <verse reference="ecclesiastes.8.12" display-number="12"><sup class="verse-ref" id="ecclesiastes.8.12">
+                12</sup> Although a sinner does evil a hundred times and prolongs his life,<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:12" data-content="Ec 7:15"><i class="cross-ref-icon"></i></a></sup>
+                I also know that it will go well with God-fearing people,<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:12" data-content="Dt 12:25; Ps 37:11; Pr 1:33; Is 3:10"><i class="cross-ref-icon"></i></a></sup>
+                for they are reverent before him.
+            </verse>
+            <verse reference="ecclesiastes.8.13" display-number="13"><sup class="verse-ref" id="ecclesiastes.8.13">
+                13</sup> However, it will not go well with the wicked,<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:13" data-content="Is 3:11"><i class="cross-ref-icon"></i></a></sup>
+                and they will not lengthen their days like a shadow,<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:13" data-content="Jb 14:2; Ec 6:12"><i class="cross-ref-icon"></i></a></sup>
+                for they are not reverent before God.
+            </verse>
+        </p>
+        <p>
+            <verse reference="ecclesiastes.8.14" display-number="14"><sup class="verse-ref" id="ecclesiastes.8.14">
+                14</sup> There is a futility that is done on the earth: there are righteous people who get what the
+                actions of the wicked deserve,<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:14" data-content="Ec 7:15"><i class="cross-ref-icon"></i></a></sup>
+                and there are wicked people who get what the actions of the righteous deserve.<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:14" data-content="Jb 21:7; Ps 73:3; Jr 12:1"><i class="cross-ref-icon"></i></a></sup>
+                I say that this too is futile.
+            </verse>
+            <verse reference="ecclesiastes.8.15" display-number="15"><sup class="verse-ref" id="ecclesiastes.8.15">
+                15</sup> So I commended enjoyment because there is nothing better for a person under the sun than to eat,
+                drink, and enjoy himself,<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:15" data-content="Ec 2:24"><i class="cross-ref-icon"></i></a></sup>
+                for this will accompany him in his labor during the days of his life that God gives him under the sun.
+            </verse>
+        </p>
+        <p>
+            <verse reference="ecclesiastes.8.16" display-number="16"><sup class="verse-ref" id="ecclesiastes.8.16">
+                16</sup> When I applied my mind to know wisdom<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:16" data-content="Ec 1:13-14"><i class="cross-ref-icon"></i></a></sup>
+                and to observe the activity that is done on the earth (even though one&#8217;s eyes do not close in
+                sleep day or night),
+            </verse>
+            <verse reference="ecclesiastes.8.17" display-number="17"><sup class="verse-ref" id="ecclesiastes.8.17">
+                17</sup> I observed all the work of God and concluded that a person is unable to discover the work that
+                is done under the sun. Even though a person labors hard to explore it, he cannot find it;<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:17" data-content="Ec 3:11; 7:25-29; 11:5"><i class="cross-ref-icon"></i></a></sup>
+                even if a wise person claims to know it, he is unable to discover it.
+            </verse>
+        </p>
+    </chapter>
+    <chapter id="ecclesiastes.9" display="9">
+        <head1>Enjoy Life Despite Death</head1>
+        <p type="noind">
+            <verse reference="ecclesiastes.9.1" display-number="1"><sup class="verse-ref" id="ecclesiastes.9.1">1</sup>
+                Indeed, I took all this to heart and explained it all: The righteous, the wise, and their works are in
+                God&#8217;s hands.<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:1" data-content="Dt 33:3"><i class="cross-ref-icon"></i></a></sup>
+                People don&#8217;t know whether to expect love or hate. Everything lies ahead of them.
+            </verse>
+            <verse reference="ecclesiastes.9.2" display-number="2"><sup class="verse-ref" id="ecclesiastes.9.2">2</sup>
+                Everything is the same for everyone:<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:2" data-content="Jb 9:22"><i class="cross-ref-icon"></i></a></sup>
+                There is one fate for the righteous and the wicked,<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:2" data-content="Ec 2:14"><i class="cross-ref-icon"></i></a></sup>
+                for the good and the bad,
+                <sup class="alt-reading-note">
+                    <a href="#" data-toggle="popover" title="9:2"
+                       data-content=" LXX, Aq, Syr, Vg; MT omits 'and the bad'">
+                        <i class="alt-reading-icon"></i>
+                    </a>
+                </sup>
+                for the clean and the unclean, for the one who sacrifices and the one who does not sacrifice. As it is
+                for the good, so also it is for the sinner; as it is for the one who takes an oath, so also for the one
+                who fears an oath.
+            </verse>
+            <verse reference="ecclesiastes.9.3" display-number="3"><sup class="verse-ref" id="ecclesiastes.9.3">3</sup>
+                This is an evil in all that is done under the sun: there is one fate for everyone. In addition, the
+                hearts of people are full of evil, and madness is in their hearts while they live;<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:3" data-content="Ec 1:17"><i class="cross-ref-icon"></i></a></sup>
+                after that they go to the dead.
+            </verse>
+            <verse reference="ecclesiastes.9.4" display-number="4"><sup class="verse-ref" id="ecclesiastes.9.4">4</sup>
+                But there is hope for whoever is joined
+                <sup class="alt-reading-note">
+                    <a href="#" data-toggle="popover" title="9:4" data-content=" Alt Hb tradition reads 'chosen'">
+                        <i class="alt-reading-icon"></i>
+                    </a>
+                </sup>
+                with all the living, since a live dog is better than a dead lion.
+            </verse>
+            <verse reference="ecclesiastes.9.5" display-number="5"><sup class="verse-ref" id="ecclesiastes.9.5">5</sup>
+                For the living know that they will die, but the dead don&#8217;t know anything. There is no longer a
+                reward for them because the memory of them is forgotten.<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:5" data-content="Ec 2:16"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="ecclesiastes.9.6" display-number="6"><sup class="verse-ref" id="ecclesiastes.9.6">6</sup>
+                Their love, their hate, and their envy have already disappeared, and there is no longer a portion for
+                them in all that is done under the sun.
+            </verse>
+        </p>
+        <p>
+            <verse reference="ecclesiastes.9.7" display-number="7"><sup class="verse-ref" id="ecclesiastes.9.7">7</sup>
+                Go, eat your bread with pleasure, and drink your wine with a cheerful heart, for God has already
+                accepted your works.<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:7" data-content="Ec 2:24; 3:13; 5:18; 8:15"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="ecclesiastes.9.8" display-number="8"><sup class="verse-ref" id="ecclesiastes.9.8">8</sup>
+                Let your clothes be white all the time, and never let oil be lacking on your head.<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:8" data-content="Ps 23:5"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="ecclesiastes.9.9" display-number="9"><sup class="verse-ref" id="ecclesiastes.9.9">9</sup>
+                Enjoy life with the wife you love all the days of your fleeting
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="9:9" data-content=" Or 'futile'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup>
+                life,<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:9" data-content="Ec 6:12; 7:15"><i class="cross-ref-icon"></i></a></sup>
+                which has been given to you under the sun, all your fleeting days. For that is your portion in life and
+                in your struggle<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:9" data-content="Ec 2:10"><i class="cross-ref-icon"></i></a></sup>
+                under the sun.
+            </verse>
+            <verse reference="ecclesiastes.9.10" display-number="10"><sup class="verse-ref" id="ecclesiastes.9.10">
+                10</sup> Whatever your hands find to do, do with all your strength,<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:10" data-content="Rm 12:11; Col 3:23"><i class="cross-ref-icon"></i></a></sup>
+                because there is no work, planning, knowledge, or wisdom<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:10" data-content="Ec 9:5"><i class="cross-ref-icon"></i></a></sup>
+                in Sheol where you are going.
+            </verse>
+        </p>
+        <head1>The Limitations of Wisdom</head1>
+        <p type="noind">
+            <verse reference="ecclesiastes.9.11" display-number="11"><sup class="verse-ref" id="ecclesiastes.9.11">
+                11</sup> Again I saw under the sun that the race is not to the swift,<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:11" data-content="Am 2:14-15"><i class="cross-ref-icon"></i></a></sup>
+                or the battle to the strong,<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:11" data-content="2Ch 20:15"><i class="cross-ref-icon"></i></a></sup>
+                or bread to the wise, or riches to the discerning, or favor to the skillful; rather, time and chance
+                happen to all of them.
+            </verse>
+            <verse reference="ecclesiastes.9.12" display-number="12"><sup class="verse-ref" id="ecclesiastes.9.12">
+                12</sup> For certainly no one knows his time:<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:12" data-content="Ec 8:7"><i class="cross-ref-icon"></i></a></sup>
+                like fish caught in a cruel net or like birds caught in a trap,<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:12" data-content="Pr 7:23"><i class="cross-ref-icon"></i></a></sup>
+                so people are trapped in an evil time<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:12" data-content="Pr 29:6"><i class="cross-ref-icon"></i></a></sup>
+                as it suddenly falls on them.<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:12" data-content="Lk 21:34-35"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+        </p>
+        <p>
+            <verse reference="ecclesiastes.9.13" display-number="13"><sup class="verse-ref" id="ecclesiastes.9.13">
+                13</sup> I have observed that this also is wisdom under the sun, and it is significant to me:
+            </verse>
+            <verse reference="ecclesiastes.9.14" display-number="14"><sup class="verse-ref" id="ecclesiastes.9.14">
+                14</sup> There was a small city with few men in it. A great king came against it, surrounded it, and
+                built large siege works against it.
+            </verse>
+            <verse reference="ecclesiastes.9.15" display-number="15"><sup class="verse-ref" id="ecclesiastes.9.15">
+                15</sup> Now a poor wise man was found in the city,<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:15" data-content="Ec 4:13"><i class="cross-ref-icon"></i></a></sup>
+                and he delivered the city by his wisdom.<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:15" data-content="2Sm 20:22"><i class="cross-ref-icon"></i></a></sup>
+                Yet no one remembered that poor man.
+            </verse>
+            <verse reference="ecclesiastes.9.16" display-number="16"><sup class="verse-ref" id="ecclesiastes.9.16">
+                16</sup> And I said, &#8220;Wisdom is better than strength,<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:16" data-content="Ec 7:19"><i class="cross-ref-icon"></i></a></sup>
+                but the wisdom of the poor man is despised, and his words are not heeded.&#8221;
+            </verse>
+        </p>
+        <poetryblock>
+            <verse reference="ecclesiastes.9.17" display-number="17">
+                <poem><sup class="verse-ref" id="ecclesiastes.9.17">17</sup> The calm words of the wise are heeded
+                </poem>
+                <poem>more than the shouts of a ruler over fools.</poem>
+            </verse>
+            <verse reference="ecclesiastes.9.18" display-number="18">
+                <poem><sup class="verse-ref" id="ecclesiastes.9.18">18</sup> Wisdom is better than weapons of war,
+                </poem>
+                <poem>but one sinner can destroy much good.<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:18" data-content="Jos 7:1"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+            </verse>
+        </poetryblock>
+    </chapter>
+    <chapter id="ecclesiastes.10" display="10">
+        <head1>The Burden of Folly</head1>
+        <poetryblock>
+            <verse reference="ecclesiastes.10.1" display-number="1">
+                <poem><sup class="verse-ref" id="ecclesiastes.10.1">1</sup> Dead flies make a perfumer&#8217;s oil
+                    ferment and stink;<sup class="cross-ref"><a href="#" data-toggle="popover" title="10:1" data-content="Ex 30:25"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>so a little folly outweighs wisdom and honor.</poem>
+            </verse>
+            <verse reference="ecclesiastes.10.2" display-number="2">
+                <poem><sup class="verse-ref" id="ecclesiastes.10.2">2</sup> A wise person&#8217;s heart goes to the
+                    <sup class="translate-note">
+                        <a href="#" data-toggle="popover" title="10:2" data-content=" Lit 'his'">
+                            <i class="translate-note-icon"></i>
+                        </a>
+                    </sup> right,
+                </poem>
+                <poem>but a fool&#8217;s heart to the left.</poem>
+            </verse>
+            <verse reference="ecclesiastes.10.3" display-number="3">
+                <poem><sup class="verse-ref" id="ecclesiastes.10.3">3</sup> Even when the fool walks along the road,
+                    his heart lacks sense,
+                </poem>
+                <poem>and he shows everyone he is a fool.<sup class="cross-ref"><a href="#" data-toggle="popover" title="10:3" data-content="Pr 13:16; 18:2"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+            </verse>
+            <verse reference="ecclesiastes.10.4" display-number="4">
+                <poem><sup class="verse-ref" id="ecclesiastes.10.4">4</sup> If the ruler&#8217;s anger rises against you,
+                    don&#8217;t leave your post,<sup class="cross-ref"><a href="#" data-toggle="popover" title="10:4" data-content="Ec 8:3"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>for calmness puts great offenses to rest.<sup class="cross-ref"><a href="#" data-toggle="popover" title="10:4" data-content="1Sm 25:24-33; Pr 25:15"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+            </verse>
+        </poetryblock>
+        <p>
+            <verse reference="ecclesiastes.10.5" display-number="5"><sup class="verse-ref" id="ecclesiastes.10.5">
+                5</sup> There is an evil I have seen under the sun, an error proceeding from the presence of the ruler:
+            </verse>
+        </p>
+        <poetryblock>
+            <verse reference="ecclesiastes.10.6" display-number="6">
+                <poem><sup class="verse-ref" id="ecclesiastes.10.6">6</sup> The fool is appointed to great heights,<sup class="cross-ref"><a href="#" data-toggle="popover" title="10:6" data-content="Est 3:1; Pr 28:12; 29:2"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>but the rich remain in lowly positions.</poem>
+            </verse>
+            <verse reference="ecclesiastes.10.7" display-number="7">
+                <poem><sup class="verse-ref" id="ecclesiastes.10.7">7</sup> I have seen slaves on horses,<sup class="cross-ref"><a href="#" data-toggle="popover" title="10:7" data-content="Pr 19:10"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>but princes walking on the ground like slaves.<sup class="cross-ref"><a href="#" data-toggle="popover" title="10:7" data-content="Est 6:8-10"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+            </verse>
+        </poetryblock>
+        <poetryblock>
+            <verse reference="ecclesiastes.10.8" display-number="8">
+                <poem><sup class="verse-ref" id="ecclesiastes.10.8">8</sup> The one who digs a pit may fall
+                    into it,<sup class="cross-ref"><a href="#" data-toggle="popover" title="10:8" data-content="Ps 7:15"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>and the one who breaks through a wall may be bitten by a snake.<sup class="cross-ref"><a href="#" data-toggle="popover" title="10:8" data-content="Am 5:19"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+            </verse>
+            <verse reference="ecclesiastes.10.9" display-number="9">
+                <poem><sup class="verse-ref" id="ecclesiastes.10.9">9</sup> The one who quarries stones may be hurt
+                    by them;
+                </poem>
+                <poem>the one who splits logs may be endangered by them.</poem>
+            </verse>
+            <verse reference="ecclesiastes.10.10" display-number="10">
+                <poem><sup class="verse-ref" id="ecclesiastes.10.10">10</sup> If the ax is dull, and one does not
+                    sharpen its edge,
+                </poem>
+                <poem>then one must exert more strength;</poem>
+                <poem>however, the advantage of wisdom is that it brings success.</poem>
+            </verse>
+            <verse reference="ecclesiastes.10.11" display-number="11">
+                <poem><sup class="verse-ref" id="ecclesiastes.10.11">11</sup> If the snake bites before it is charmed,<sup class="cross-ref"><a href="#" data-toggle="popover" title="10:11" data-content="Jr 8:17"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>then there is no advantage for the charmer.
+                    <sup class="translate-note">
+                        <a href="#" data-toggle="popover" title="10:11" data-content=" Lit 'master of the tongue'">
+                            <i class="translate-note-icon"></i>
+                        </a>
+                    </sup>
+                </poem>
+            </verse>
+            <verse reference="ecclesiastes.10.12" display-number="12">
+                <poem><sup class="verse-ref" id="ecclesiastes.10.12">12</sup> The words from the mouth of a wise person
+                    are gracious,<sup class="cross-ref"><a href="#" data-toggle="popover" title="10:12" data-content="Pr 10:32; 22:11; Lk 4:22"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>but the lips of a fool consume him.<sup class="cross-ref"><a href="#" data-toggle="popover" title="10:12" data-content="Pr 18:7"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+            </verse>
+            <verse reference="ecclesiastes.10.13" display-number="13">
+                <poem><sup class="verse-ref" id="ecclesiastes.10.13">13</sup> The beginning of the words from his mouth
+                    is folly,
+                </poem>
+                <poem>but the end of his speaking is evil madness;</poem>
+            </verse>
+            <verse reference="ecclesiastes.10.14" display-number="14">
+                <poem><sup class="verse-ref" id="ecclesiastes.10.14">14</sup> yet the fool multiplies words.
+                </poem>
+                <poem>No one knows what will happen,</poem>
+                <poem>and who can tell anyone what will happen after him?<sup class="cross-ref"><a href="#" data-toggle="popover" title="10:14" data-content="Ec 8:7,17"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+            </verse>
+            <verse reference="ecclesiastes.10.15" display-number="15">
+                <poem><sup class="verse-ref" id="ecclesiastes.10.15">15</sup> The struggles of fools weary them,
+                </poem>
+                <poem>for they don&#8217;t know how to go to the city.</poem>
+            </verse>
+            <verse reference="ecclesiastes.10.16" display-number="16">
+                <poem><sup class="verse-ref" id="ecclesiastes.10.16">16</sup> Woe to you, land, when your king
+                    is a youth<sup class="cross-ref"><a href="#" data-toggle="popover" title="10:16" data-content="Pr 30:21-22; Is 3:4,12"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>and your princes feast in the morning.</poem>
+            </verse>
+            <verse reference="ecclesiastes.10.17" display-number="17">
+                <poem><sup class="verse-ref" id="ecclesiastes.10.17">17</sup> Blessed are you, land, when your king
+                    is a son of nobles
+                </poem>
+                <poem>and your princes feast at the proper time&#8201;&#8212;</poem>
+                <poem>for strength and not for drunkenness.<sup class="cross-ref"><a href="#" data-toggle="popover" title="10:17" data-content="Pr 31:4; Is 5:11"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+            </verse>
+            <verse reference="ecclesiastes.10.18" display-number="18">
+                <poem><sup class="verse-ref" id="ecclesiastes.10.18">18</sup> Because of laziness the roof caves in,
+                </poem>
+                <poem>and because of negligent hands the house leaks.</poem>
+            </verse>
+            <verse reference="ecclesiastes.10.19" display-number="19">
+                <poem><sup class="verse-ref" id="ecclesiastes.10.19">19</sup> A feast is prepared for laughter,
+                </poem>
+                <poem>and wine makes life happy,<sup class="cross-ref"><a href="#" data-toggle="popover" title="10:19" data-content="Ps 104:15"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>and money
+                    <sup class="translate-note">
+                        <a href="#" data-toggle="popover" title="10:19" data-content=" Lit 'silver'">
+                            <i class="translate-note-icon"></i>
+                        </a>
+                    </sup>
+                    is the answer for everything.<sup class="cross-ref"><a href="#" data-toggle="popover" title="10:19" data-content="Ec 7:12"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+            </verse>
+            <verse reference="ecclesiastes.10.20" display-number="20">
+                <poem><sup class="verse-ref" id="ecclesiastes.10.20">20</sup> Do not curse the king even in your thoughts,<sup class="cross-ref"><a href="#" data-toggle="popover" title="10:20" data-content="Ex 22:28"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>and do not curse a rich person even in your bedroom,<sup class="cross-ref"><a href="#" data-toggle="popover" title="10:20" data-content="2Kg 6:12; Lk 12:3"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>for a bird of the sky may carry the message,</poem>
+                <poem>and a winged creature may report the matter.</poem>
+            </verse>
+        </poetryblock>
+    </chapter>
+    <chapter id="ecclesiastes.11" display="11">
+        <head1>Invest in Life</head1>
+        <poetryblock>
+            <verse reference="ecclesiastes.11.1" display-number="1">
+                <poem><sup class="verse-ref" id="ecclesiastes.11.1">1</sup> Send your bread on the surface of the water,<sup class="cross-ref">
+                        <a href="#" data-toggle="popover" title="11:1"
+                           data-content="Dt 15:10; Pr 19:17; Mt 10:42; Gl 6:9-10; Heb 6:10">
+                            <i class="cross-ref-icon"></i>
+                        </a>
+                    </sup>
+                </poem>
+                <poem>for after many days you may find it.</poem>
+            </verse>
+            <verse reference="ecclesiastes.11.2" display-number="2">
+                <poem><sup class="verse-ref" id="ecclesiastes.11.2">2</sup> Give a portion to seven or even to eight,<sup class="cross-ref">
+                        <a href="#" data-toggle="popover" title="11:2"
+                           data-content="Ps 112:9; Mt 5:42; Lk 6:30; 1Tm 6:18-19">
+                            <i class="cross-ref-icon"></i>
+                        </a>
+                    </sup>
+                </poem>
+                <poem>for you don&#8217;t know what disaster may happen on earth.</poem>
+            </verse>
+            <verse reference="ecclesiastes.11.3" display-number="3">
+                <poem><sup class="verse-ref" id="ecclesiastes.11.3">3</sup> If the clouds are full, they will pour out
+                    rain on the earth;
+                </poem>
+                <poem>whether a tree falls to the south or the north,</poem>
+                <poem>the place where the tree falls, there it will lie.</poem>
+            </verse>
+            <verse reference="ecclesiastes.11.4" display-number="4">
+                <poem><sup class="verse-ref" id="ecclesiastes.11.4">4</sup> One who watches the wind will not sow,
+                </poem>
+                <poem>and the one who looks at the clouds will not reap.</poem>
+            </verse>
+            <verse reference="ecclesiastes.11.5" display-number="5">
+                <poem><sup class="verse-ref" id="ecclesiastes.11.5">5</sup> Just as you don&#8217;t know the path
+                    of the wind,
+                </poem>
+                <poem>or how bones develop in
+                    <sup class="translate-note">
+                        <a href="#" data-toggle="popover" title="11:5"
+                           data-content=" Or 'know how the life-breath comes to the bones in'">
+                            <i class="translate-note-icon"></i>
+                        </a>
+                    </sup> the womb of a pregnant woman,
+                </poem>
+                <poem>so also you don&#8217;t know the work of God who makes everything.<sup class="cross-ref">
+                        <a href="#" data-toggle="popover" title="11:5"
+                           data-content="Jb 10:10-11; Ps 139:14-16; Is 55:9; Jn 3:6-8; Rm 11:33">
+                            <i class="cross-ref-icon"></i>
+                        </a>
+                    </sup>
+                </poem>
+            </verse>
+            <verse reference="ecclesiastes.11.6" display-number="6">
+                <poem><sup class="verse-ref" id="ecclesiastes.11.6">6</sup> In the morning sow your seed,
+                </poem>
+                <poem>and at evening do not let your hand rest,</poem>
+                <poem>because you don&#8217;t know which will succeed,</poem>
+                <poem>whether one or the other,</poem>
+                <poem>or if both of them will be equally good.</poem>
+            </verse>
+            <verse reference="ecclesiastes.11.7" display-number="7">
+                <poem><sup class="verse-ref" id="ecclesiastes.11.7">7</sup> Light is sweet,
+                </poem>
+                <poem>and it is pleasing for the eyes to see the sun.<sup class="cross-ref"><a href="#" data-toggle="popover" title="11:7" data-content="Ec 6:5; 7:11"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+            </verse>
+            <verse reference="ecclesiastes.11.8" display-number="8">
+                <poem><sup class="verse-ref" id="ecclesiastes.11.8">8</sup> Indeed, if someone lives many years,
+                </poem>
+                <poem>let him rejoice in them all,</poem>
+                <poem>and let him remember the days of darkness,<sup class="cross-ref"><a href="#" data-toggle="popover" title="11:8" data-content="Ec 12:1"><i class="cross-ref-icon"></i></a></sup>
+                    since they will be many.
+                </poem>
+                <poem>All that comes is futile.</poem>
+            </verse>
+            <verse reference="ecclesiastes.11.9" display-number="9">
+                <poem><sup class="verse-ref" id="ecclesiastes.11.9">9</sup> Rejoice, young person, while you are young,
+                </poem>
+                <poem>and let your heart be glad in the days of your youth.</poem>
+                <poem>And walk in the ways of your heart</poem>
+                <poem>and in the desire of your eyes;<sup class="cross-ref">
+                        <a href="#" data-toggle="popover" title="11:9"
+                           data-content="Ec 2:24; 3:12-13,22; 5:18; 8:15; 9:7-9">
+                            <i class="cross-ref-icon"></i>
+                        </a>
+                    </sup>
+                </poem>
+                <poem>but know that for all of these things God will bring you to judgment.</poem>
+            </verse>
+            <verse reference="ecclesiastes.11.10" display-number="10">
+                <poem><sup class="verse-ref" id="ecclesiastes.11.10">10</sup> Remove sorrow from your heart,
+                </poem>
+                <poem>and put away pain from your flesh,<sup class="cross-ref"><a href="#" data-toggle="popover" title="11:10" data-content="2Co 7:1; 2Tm 2:22"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>because youth and the prime of life are fleeting.</poem>
+            </verse>
+        </poetryblock>
+    </chapter>
+    <chapter id="ecclesiastes.12" display="12">
+        <head1>The Twilight of Life</head1>
+        <p type="noind">
+            <verse reference="ecclesiastes.12.1" display-number="1"><sup class="verse-ref" id="ecclesiastes.12.1">
+                1</sup> So remember your Creator in the days of your youth:
+            </verse>
+        </p>
+        <poetryblock>
+            <verse reference="ecclesiastes.12.1" class="no-dropcap" display-number="1">
+            <poem>Before the days of adversity come,</poem>
+            <poem>and the years approach when you will say,<sup class="cross-ref"><a href="#" data-toggle="popover" title="12:1" data-content="Ec 11:8"><i class="cross-ref-icon"></i></a></sup>
+            </poem>
+            <poem>&#8220;I have no delight in them&#8221;;</poem>
+            </verse>
+            <verse reference="ecclesiastes.12.2" display-number="2">
+                <poem><sup class="verse-ref" id="ecclesiastes.12.2">2</sup> before the sun and the light are darkened,<sup class="cross-ref"><a href="#" data-toggle="popover" title="12:2" data-content="Is 5:30; Ezk 32:7-8"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>and the moon and the stars,</poem>
+                <poem>and the clouds return after
+                    <sup class="translate-note">
+                        <a href="#" data-toggle="popover" title="12:2" data-content=" Or 'with'">
+                            <i class="translate-note-icon"></i>
+                        </a>
+                    </sup> the rain;
+                </poem>
+            </verse>
+            <verse reference="ecclesiastes.12.3" display-number="3">
+                <poem><sup class="verse-ref" id="ecclesiastes.12.3">3</sup> on the day when the guardians of the house
+                    tremble,
+                </poem>
+                <poem>and the strong men stoop,</poem>
+                <poem>the women who grind grain cease because they are few,</poem>
+                <poem>and the ones who watch through the windows see dimly,<sup class="cross-ref"><a href="#" data-toggle="popover" title="12:3" data-content="Gn 27:1; 48:10; 1Sm 3:2"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+            </verse>
+            <verse reference="ecclesiastes.12.4" display-number="4">
+                <poem><sup class="verse-ref" id="ecclesiastes.12.4">4</sup> the doors at the street are shut
+                </poem>
+                <poem>while the sound of the mill fades;<sup class="cross-ref"><a href="#" data-toggle="popover" title="12:4" data-content="Jr 25:10; Rv 18:22"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>when one rises at the sound of a bird,</poem>
+                <poem>and all the daughters of song grow faint.</poem>
+            </verse>
+            <verse reference="ecclesiastes.12.5" display-number="5">
+                <poem><sup class="verse-ref" id="ecclesiastes.12.5">5</sup> Also, they are afraid of heights
+                    and dangers on the road;
+                </poem>
+                <poem>the almond tree blossoms,</poem>
+                <poem>the grasshopper loses its spring,
+                    <sup class="translate-note">
+                        <a href="#" data-toggle="popover" title="12:5"
+                           data-content=" Or 'grasshopper is weighed down', or 'grasshopper drags itself along'">
+                            <i class="translate-note-icon"></i>
+                        </a>
+                    </sup>
+                </poem>
+                <poem>and the caper berry has no effect;</poem>
+                <poem>for the mere mortal is headed to his eternal home,<sup class="cross-ref"><a href="#" data-toggle="popover" title="12:5" data-content="Jb 17:13; 30:23"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>and mourners will walk around in the street;<sup class="cross-ref"><a href="#" data-toggle="popover" title="12:5" data-content="Jr 9:17"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+            </verse>
+            <verse reference="ecclesiastes.12.6" display-number="6">
+                <poem><sup class="verse-ref" id="ecclesiastes.12.6">6</sup> before the silver cord is snapped,
+                    <sup class="alt-reading-note">
+                        <a href="#" data-toggle="popover" title="12:6" data-content=" Alt Hb tradition reads 'removed'">
+                            <i class="alt-reading-icon"></i>
+                        </a>
+                    </sup>
+                </poem>
+                <poem>and the gold bowl is broken,<sup class="cross-ref"><a href="#" data-toggle="popover" title="12:6" data-content="Zch 4:2-3"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+                <poem>and the jar is shattered at the spring,</poem>
+                <poem>and the wheel is broken into the well;</poem>
+            </verse>
+            <verse reference="ecclesiastes.12.7" display-number="7">
+                <poem><sup class="verse-ref" id="ecclesiastes.12.7">7</sup> and the dust returns to the earth
+                    as it once was,
+                </poem>
+                <poem>and the spirit returns to God who gave it.<sup class="cross-ref"><a href="#" data-toggle="popover" title="12:7" data-content="Gn 2:7; 3:19; Ec 3:21"><i class="cross-ref-icon"></i></a></sup>
+                </poem>
+            </verse>
+        </poetryblock>
+        <p type="noind">
+            <verse reference="ecclesiastes.12.8" display-number="8"><sup class="verse-ref" id="ecclesiastes.12.8">
+                8</sup>&#8220;Absolute futility,&#8221; says the Teacher. &#8220;Everything is futile.&#8221;<sup
+                    class="cross-ref">
+                <a href="#" data-toggle="popover" title="12:8" data-content="Ec 1:2">
+                    <i class="cross-ref-icon"></i>
+                </a>
+            </sup>
+            </verse>
+        </p>
+        <head1>The Teacher&#8217;s Objectives and Conclusion</head1>
+        <p type="noind">
+            <verse reference="ecclesiastes.12.9" display-number="9"><sup class="verse-ref" id="ecclesiastes.12.9">
+                9</sup> In addition to the Teacher being a wise man, he constantly taught the people knowledge; he
+                weighed, explored, and arranged many proverbs.<sup class="cross-ref"><a href="#" data-toggle="popover" title="12:9" data-content="1Kg 4:32; Pr 1:1"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="ecclesiastes.12.10" display-number="10"><sup class="verse-ref" id="ecclesiastes.12.10">
+                10</sup> The Teacher sought to find delightful sayings and write words of truth accurately.
+            </verse>
+            <verse reference="ecclesiastes.12.11" display-number="11"><sup class="verse-ref" id="ecclesiastes.12.11">
+                11</sup> The sayings of the wise are like cattle prods,<sup class="cross-ref"><a href="#" data-toggle="popover" title="12:11" data-content="Pr 1:6; 22:17"><i class="cross-ref-icon"></i></a></sup>
+                and those from masters of collections are like firmly embedded nails.<sup class="cross-ref"><a href="#" data-toggle="popover" title="12:11" data-content="Ezr 9:8; Is 22:23"><i class="cross-ref-icon"></i></a></sup>
+                The sayings are given by one Shepherd.
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="12:11" data-content=" Or 'by a shepherd'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup>
+            </verse>
+        </p>
+        <p>
+            <verse reference="ecclesiastes.12.12" display-number="12"><sup class="verse-ref" id="ecclesiastes.12.12">
+                12</sup> But beyond these, my son, be warned: there is no end to the making of many books,<sup class="cross-ref"><a href="#" data-toggle="popover" title="12:12" data-content="1Kg 4:32-33; Jn 21:25"><i class="cross-ref-icon"></i></a></sup>
+                and much study wearies the body.<sup class="cross-ref"><a href="#" data-toggle="popover" title="12:12" data-content="Ec 1:18"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="ecclesiastes.12.13" display-number="13"><sup class="verse-ref" id="ecclesiastes.12.13">
+                13</sup> When all has been heard, the conclusion of the matter is this: fear God<sup class="cross-ref"><a href="#" data-toggle="popover" title="12:13" data-content="Pr 1:7; Ec 3:14; 5:7; 7:18; 8:12-13"><i class="cross-ref-icon"></i></a></sup>
+                and keep his commands, because this is for all
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="12:13" data-content=" Or 'is the whole duty of'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup>
+                humanity.<sup class="cross-ref"><a href="#" data-toggle="popover" title="12:13" data-content="Ps 97:5; Ac 4:12; Rm 10:12"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="ecclesiastes.12.14" display-number="14"><sup class="verse-ref" id="ecclesiastes.12.14">
+                14</sup> For God will bring every act to judgment,<sup class="cross-ref"><a href="#" data-toggle="popover" title="12:14" data-content="Ec 3:17; 11:9; Rv 20:12"><i class="cross-ref-icon"></i></a></sup>
+                including every hidden thing, whether good or evil.
+            </verse>
+        </p>
+    </chapter>
+</book>

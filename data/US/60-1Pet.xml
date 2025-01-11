@@ -1,0 +1,1112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="hcsb.xsd" id="bk.60">
+    <bookname>1 Peter</bookname>
+    <chapter id="1peter.1" display="1">
+        <head1>Greeting</head1>
+
+
+
+        <p type="noind">
+            <verse reference="1peter.1.1" display-number="1"><sup class="verse-ref" id="1peter.1.1">1</sup> Peter,<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:1" data-content="Lk 6:14; Ac 10:32"><i class="cross-ref-icon"></i></a></sup>
+                an apostle of Jesus Christ:
+            </verse>
+        </p>
+        <p>
+            <verse class="no-dropcap" reference="1peter.1.1" display-number="1">
+            To those chosen, living as exiles<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:1" data-content="Gn 23:4; Ps 39:12; Heb 11:9,13; 1Pt 2:11"><i class="cross-ref-icon"></i></a></sup>
+            dispersed<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:1" data-content="Jn 7:35; Jms 1:1"><i class="cross-ref-icon"></i></a></sup>
+            abroad
+            in Pontus, Galatia, Cappadocia, Asia, and Bithynia,<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:1" data-content="Ac 2:9; 6:9; 16:6-7; Gl 1:2"><i class="cross-ref-icon"></i></a></sup>
+            chosen<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:1" data-content="Mt 22:14; 24:22; Ti 1:1"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="1peter.1.2" display-number="2"><sup class="verse-ref" id="1peter.1.2">2</sup> according to
+                the foreknowledge<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:2" data-content="Rm 8:29; 1Pt 1:20"><i class="cross-ref-icon"></i></a></sup>
+                of God the Father, through the sanctifying work of the Spirit,<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:2" data-content="2Th 2:13"><i class="cross-ref-icon"></i></a></sup>
+                to be obedient<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:2" data-content="1Pt 1:14,22"><i class="cross-ref-icon"></i></a></sup>
+                and to be sprinkled with the blood<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:2" data-content="Heb 9:12; 10:22; 12:24"><i class="cross-ref-icon"></i></a></sup>
+                of Jesus Christ.
+            </verse>
+        </p>
+
+
+
+        <verse reference="1peter.1.2" display-number="2">
+        <p>May grace and peace be multiplied to you.</p>
+        </verse>
+        <head1>A Living Hope</head1>
+        <p type="noind">
+            <verse reference="1peter.1.3" display-number="3"><sup class="verse-ref" id="1peter.1.3">3</sup> Blessed be
+                the God and Father of our Lord Jesus Christ.<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:3" data-content="2Co 1:3; Eph 1:3"><i class="cross-ref-icon"></i></a></sup>
+                Because of his great mercy<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:3" data-content="Gl 6:16; Ti 3:5"><i class="cross-ref-icon"></i></a></sup>
+                he has given us new birth<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:3" data-content="Jn 1:13; 3:3,7; Jms 1:18; 1Pt 1:23"><i class="cross-ref-icon"></i></a></sup>
+                into a living hope<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:3" data-content="Ac 23:6; 1Th 1:3"><i class="cross-ref-icon"></i></a></sup>
+                through the resurrection of Jesus Christ from the dead<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:3" data-content="1Co 15:20; 1Pt 3:21"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="1peter.1.4" display-number="4"><sup class="verse-ref" id="1peter.1.4">4</sup> and into an
+                inheritance that is imperishable,<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:4" data-content="Ac 20:32; Rm 8:17; Col 3:24"><i class="cross-ref-icon"></i></a></sup>
+                undefiled, and unfading, kept in heaven<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:4" data-content="2Tm 4:8"><i class="cross-ref-icon"></i></a></sup>
+                for you.
+            </verse>
+            <verse reference="1peter.1.5" display-number="5"><sup class="verse-ref" id="1peter.1.5">5</sup> You are being
+                guarded by God&#8217;s power<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:5" data-content="Jn 10:28; Php 4:7"><i class="cross-ref-icon"></i></a></sup>
+                through faith for a salvation that is ready to be revealed in the last time.<sup class="cross-ref">
+                    <a href="#" data-toggle="popover" title="1:5"
+                       data-content="Rm 8:18; 2Co 4:17; Heb 12:11; 1Pt 4:13; 5:1,10; Rv 15:1; 21:9">
+                        <i class="cross-ref-icon"></i>
+                    </a>
+                </sup>
+            </verse>
+            <verse reference="1peter.1.6" display-number="6"><sup class="verse-ref" id="1peter.1.6">6</sup> You rejoice
+                in this,
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="1:6" data-content=" Or 'In this fact rejoice'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup>
+                even though now for a short time, if necessary, you suffer grief in various trials<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:6" data-content="Jms 1:2; 1Pt 4:12"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="1peter.1.7" display-number="7"><sup class="verse-ref" id="1peter.1.7">7</sup> so that the
+                proven character of your faith<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:7" data-content="Jms 1:3"><i class="cross-ref-icon"></i></a></sup>&#8201;&#x200B;&#8212;&#8201;&#x200B;more valuable than gold which, though perishable, is refined
+                by fire<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:7" data-content="Is 48:10; Zch 13:9; Mal 3:3; 1Co 3:13"><i class="cross-ref-icon"></i></a></sup>&#8201;&#x200B;&#8212;&#8201;&#x200B;may result<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:7" data-content="2Co 5:3; Php 3:9; Rv 14:5"><i class="cross-ref-icon"></i></a></sup>
+                in praise, glory, and honor<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:7" data-content="Rm 2:7,10,29; 1Co 4:5"><i class="cross-ref-icon"></i></a></sup>
+                at the revelation of Jesus Christ.<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:7" data-content="Lk 17:30"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="1peter.1.8" display-number="8"><sup class="verse-ref" id="1peter.1.8">8</sup> Though you
+                have not seen<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:8" data-content="Ex 33:20; Rm 8:24"><i class="cross-ref-icon"></i></a></sup>
+                him, you love him;<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:8" data-content="1Jn 4:20"><i class="cross-ref-icon"></i></a></sup>
+                though not seeing him now, you believe in him, and you rejoice<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:8" data-content="Jn 15:11; 2Co 6:10"><i class="cross-ref-icon"></i></a></sup>
+                with inexpressible and glorious joy,
+            </verse>
+            <verse reference="1peter.1.9" display-number="9"><sup class="verse-ref" id="1peter.1.9">9</sup> because you
+                are receiving the goal of your faith, the salvation of your souls.
+            </verse>
+        </p>
+        <p>
+            <verse reference="1peter.1.10" display-number="10"><sup class="verse-ref" id="1peter.1.10">10</sup>
+                Concerning this salvation, the prophets,<sup class="cross-ref">
+                    <a href="#" data-toggle="popover" title="1:10"
+                       data-content="Lk 1:70; 10:24; 16:16,29; 18:31; 24:25,27,44">
+                        <i class="cross-ref-icon"></i>
+                    </a>
+                </sup>
+                who prophesied about the grace that would come to you, searched and carefully investigated.
+            </verse>
+            <verse reference="1peter.1.11" display-number="11"><sup class="verse-ref" id="1peter.1.11">11</sup> They
+                inquired into what time or what circumstances the Spirit of Christ<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:11" data-content="Rm 8:9"><i class="cross-ref-icon"></i></a></sup>
+                within them was indicating when he testified in advance<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:11" data-content="Mt 26:24"><i class="cross-ref-icon"></i></a></sup>
+                to the sufferings of Christ<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:11" data-content="Mk 8:31; Lk 24:26; Php 3:10"><i class="cross-ref-icon"></i></a></sup>
+                and the glories<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:11" data-content="Lk 24:26"><i class="cross-ref-icon"></i></a></sup>
+                that would follow.
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="1:11" data-content=" Or 'the glories after that'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup>
+            </verse>
+            <verse reference="1peter.1.12" display-number="12"><sup class="verse-ref" id="1peter.1.12">12</sup> It was
+                revealed to them that they were not serving themselves but you. These things have now been announced to
+                you through those who preached the gospel to you<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:12" data-content="Mk 16:15; 1Co 9:14; 2Co 10:16"><i class="cross-ref-icon"></i></a></sup>
+                by the Holy Spirit sent from heaven<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:12" data-content="Jn 14:26; 15:26; Ac 1:8; 2:2-4; 13:4"><i class="cross-ref-icon"></i></a></sup>&#8201;&#x200B;&#8212;&#8201;&#x200B;angels long to catch a glimpse of these things.
+            </verse>
+        </p>
+        <head1>A Call to Holy Living</head1>
+        <p type="noind">
+            <verse reference="1peter.1.13" display-number="13"><sup class="verse-ref" id="1peter.1.13">13</sup>
+                Therefore, with your minds ready for action,<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:13" data-content="Ex 12:11"><i class="cross-ref-icon"></i></a></sup>
+                be sober-minded<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:13" data-content="1Pt 5:8"><i class="cross-ref-icon"></i></a></sup>
+                and set your hope<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:13" data-content="Mt 12:21; Rm 8:24; 1Th 1:3"><i class="cross-ref-icon"></i></a></sup>
+                completely on the grace to be brought to you at the revelation<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:13" data-content="1Pt 4:13; 5:4"><i class="cross-ref-icon"></i></a></sup>
+                of Jesus Christ.
+            </verse>
+            <verse reference="1peter.1.14" display-number="14"><sup class="verse-ref" id="1peter.1.14">14</sup> As
+                obedient children,<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:14" data-content="Heb 2:13"><i class="cross-ref-icon"></i></a></sup>
+                do not be conformed to the desires of your former ignorance.
+            </verse>
+            <verse reference="1peter.1.15" display-number="15"><sup class="verse-ref" id="1peter.1.15">15</sup> But as
+                the one who called you<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:15" data-content="Gl 1:6; 5:8; 1Th 2:12; 5:24; 1Pt 5:10"><i class="cross-ref-icon"></i></a></sup>
+                is holy,<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:15" data-content="Lk 1:49; 1Co 7:14"><i class="cross-ref-icon"></i></a></sup>
+                you also are to be holy in all your conduct;
+            </verse>
+            <verse reference="1peter.1.16" display-number="16"><sup class="verse-ref" id="1peter.1.16">16</sup> for it is
+                written,
+                <otquote>Be holy, because I am holy.</otquote>
+                <sup class="ot-quote">
+                    <a href="#" data-toggle="popover" title="1:16" data-content=" Lv 11:44-45; 19:2; 20:7">
+                        <i class="ot-quote-icon"></i>
+                    </a>
+                </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="1:16" data-content="Lv 11:44-45; 19:2; 20:7"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="1peter.1.17" display-number="17"><sup class="verse-ref" id="1peter.1.17">17</sup> If you
+                appeal to the Father who judges impartially<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:17" data-content="Ac 10:34; Rm 2:11; Gl 2:6; Eph 6:9"><i class="cross-ref-icon"></i></a></sup>
+                according to each one&#8217;s work,<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:17" data-content="1Co 3:12"><i class="cross-ref-icon"></i></a></sup>
+                you are to conduct yourselves in reverence<sup class="cross-ref">
+                    <a href="#" data-toggle="popover" title="1:17"
+                       data-content="Ac 9:31; Rm 3:18; 2Co 5:11; 7:1; Eph 5:21; Php 2:12">
+                        <i class="cross-ref-icon"></i>
+                    </a>
+                </sup>
+                during your time living as strangers.
+            </verse>
+            <verse reference="1peter.1.18" display-number="18"><sup class="verse-ref" id="1peter.1.18">18</sup> For you
+                know that you were redeemed from your empty way of life<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:18" data-content="2Pt 3:11"><i class="cross-ref-icon"></i></a></sup>
+                inherited from your ancestors, not with perishable things like silver or gold,<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:18" data-content="Is 52:3; 1Co 6:20; Ti 2:14; Heb 9:12"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="1peter.1.19" display-number="19"><sup class="verse-ref" id="1peter.1.19">19</sup> but with
+                the precious blood of Christ,<sup class="cross-ref">
+                    <a href="#" data-toggle="popover" title="1:19"
+                       data-content="Jn 6:53; Ac 20:28; 1Co 10:16; Eph 2:13; Heb 10:19">
+                        <i class="cross-ref-icon"></i>
+                    </a>
+                </sup>
+                like that of an unblemished and spotless lamb.<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:19" data-content="Ex 12:5; Lv 4:32; Is 53:7; Jn 1:29"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="1peter.1.20" display-number="20"><sup class="verse-ref" id="1peter.1.20">20</sup> He was
+                foreknown<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:20" data-content="Ac 2:23; Eph 1:4; 1Pt 1:2; Rv 13:8"><i class="cross-ref-icon"></i></a></sup>
+                before the foundation of the world but was revealed in these last times<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:20" data-content="2Pt 3:3; Jd 18"><i class="cross-ref-icon"></i></a></sup>
+                for you.
+            </verse>
+            <verse reference="1peter.1.21" display-number="21"><sup class="verse-ref" id="1peter.1.21">21</sup> Through
+                him you believe in God,<sup class="cross-ref">
+                    <a href="#" data-toggle="popover" title="1:21"
+                       data-content="Ac 10:45; Rm 4:24; 10:9; Eph 1:1; 1Tm 4:12; 6:2">
+                        <i class="cross-ref-icon"></i>
+                    </a>
+                </sup>
+                who raised him from the dead<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:21" data-content="Ac 2:24; Rm 10:9"><i class="cross-ref-icon"></i></a></sup>
+                and gave him glory,<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:21" data-content="Jn 17:5,24; 1Tm 3:16; Heb 2:9"><i class="cross-ref-icon"></i></a></sup>
+                so that your faith and hope are in God.
+            </verse>
+        </p>
+        <p>
+            <verse reference="1peter.1.22" display-number="22"><sup class="verse-ref" id="1peter.1.22">22</sup> Since you
+                have purified yourselves by your obedience to the truth,
+                <sup class="alt-reading-note">
+                    <a href="#" data-toggle="popover" title="1:22" data-content=" Other mss add 'through the Spirit'">
+                        <i class="alt-reading-icon"></i>
+                    </a>
+                </sup>
+                so that you show sincere brotherly love for each other,<sup class="cross-ref">
+                    <a href="#" data-toggle="popover" title="1:22"
+                       data-content="Zch 7:9; Jn 13:34; Rm 12:10; 1Th 4:9; 1Jn 4:7">
+                        <i class="cross-ref-icon"></i>
+                    </a>
+                </sup>
+                from a pure
+                <sup class="alt-reading-note">
+                    <a href="#" data-toggle="popover" title="1:22" data-content=" Other mss omit 'pure'">
+                        <i class="alt-reading-icon"></i>
+                    </a>
+                </sup>
+                heart love one another constantly,
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="1:22" data-content=" Or 'fervently'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="1:22" data-content="1Tm 1:5"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="1peter.1.23" display-number="23"><sup class="verse-ref" id="1peter.1.23">23</sup> because
+                you have been born again<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:23" data-content="1Pt 1:3"><i class="cross-ref-icon"></i></a></sup>&#8201;&#x200B;&#8212;&#8201;&#x200B;not of perishable seed<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:23" data-content="1Jn 3:9"><i class="cross-ref-icon"></i></a></sup>
+                but of imperishable&#8201;&#x200B;&#8212;&#8201;&#x200B;through the living and enduring word of God.<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:23" data-content="Lk 8:21; Heb 4:12"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="1peter.1.24" display-number="24"><sup class="verse-ref" id="1peter.1.24">24</sup> For
+            </verse>
+        </p>
+        <otdynprose>
+            <verse reference="1peter.1.24" display-number="24">
+            <p>
+                <otquote>All flesh is like grass,</otquote>
+            </p>
+            <p>
+                <otquote>and all its glory</otquote><sup class="cross-ref"><a href="#" data-toggle="popover" title="1:24" data-content="1Pt 5:4"><i class="cross-ref-icon"></i></a></sup>
+                <otquote>like a flower of the grass.</otquote>
+            </p>
+            <p>
+                <otquote>The grass withers, and the flower falls,</otquote>
+            </p>
+            </verse>
+            <p>
+                <verse reference="1peter.1.25" display-number="25">
+                    <sup class="verse-ref" id="1peter.1.25">25</sup>
+                    <otquote>but the word of the Lord endures forever.</otquote>
+                    <sup class="ot-quote">
+                        <a href="#" data-toggle="popover" title="1:24-25" data-content=" Is 40:6-8">
+                            <i class="ot-quote-icon"></i>
+                        </a>
+                    </sup><sup class="cross-ref">
+                        <a href="#" data-toggle="popover" title="1:24-25"
+                           data-content="Is 40:6-8; Lk 21:33; Jms 1:10-11; 1Jn 2:17">
+                            <i class="cross-ref-icon"></i>
+                        </a>
+                    </sup>
+                </verse>
+            </p>
+        </otdynprose>
+        <verse reference="1peter.1.25" display-number="25">
+        <p type="noind">And this word is the gospel that was proclaimed to you.</p>
+        </verse>
+    </chapter>
+    <chapter id="1peter.2" display="2">
+        <head1>The Living Stone and a Holy People</head1>
+        <p type="noind">
+            <verse reference="1peter.2.1" display-number="1"><sup class="verse-ref" id="1peter.2.1">1</sup> Therefore,
+                rid yourselves of<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:1" data-content="Rm 13:12"><i class="cross-ref-icon"></i></a></sup>
+                all malice, all deceit, hypocrisy, envy, and all slander.<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:1" data-content="2Co 12:20"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="1peter.2.2" display-number="2"><sup class="verse-ref" id="1peter.2.2">2</sup> Like newborn
+                infants, desire the pure milk of the word,
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="2:2" data-content=" Or 'desire pure spiritual milk'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="2:2" data-content="1Co 3:2; 9:7; Heb 5:12-13"><i class="cross-ref-icon"></i></a></sup>
+                so that by it you may grow up into your salvation,
+            </verse>
+            <verse reference="1peter.2.3" display-number="3"><sup class="verse-ref" id="1peter.2.3">3</sup> if
+                <otquote>you have tasted</otquote><sup class="cross-ref"><a href="#" data-toggle="popover" title="2:3" data-content="Heb 6:4-5"><i class="cross-ref-icon"></i></a></sup>
+                <otquote>that the Lord is good.</otquote>
+                <sup class="ot-quote">
+                    <a href="#" data-toggle="popover" title="2:3" data-content=" Ps 34:8">
+                        <i class="ot-quote-icon"></i>
+                    </a>
+                </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="2:3" data-content="Ps 34:8; Ti 3:4"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="1peter.2.4" display-number="4"><sup class="verse-ref" id="1peter.2.4">4</sup> As you come
+                to him, a living stone&#8201;&#x200B;&#8212;&#8201;&#x200B;rejected by people but chosen and honored by
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="2:4" data-content=" Or 'precious to'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup>
+                God&#8201;&#x200B;&#8212;&#8201;&#x200B;
+            </verse>
+            <verse reference="1peter.2.5" display-number="5"><sup class="verse-ref" id="1peter.2.5">5</sup> you
+                yourselves, as living stones, a spiritual house, are being built to be a holy priesthood
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="2:5"
+                       data-content=" Or 'you yourselves, as living stones, are being built into a spiritual house for a holy priesthood'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup>
+                to offer spiritual sacrifices acceptable to God<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:5" data-content="Rm 12:1; Heb 13:15"><i class="cross-ref-icon"></i></a></sup>
+                through Jesus Christ.
+            </verse>
+            <verse reference="1peter.2.6" display-number="6"><sup class="verse-ref" id="1peter.2.6">6</sup> For it stands
+                in Scripture:
+            </verse>
+        </p>
+        <otdynprose>
+            <verse reference="1peter.2.6" display-number="6">
+            <p>
+                <otquote>See, I lay a stone in Zion,</otquote><sup class="cross-ref"><a href="#" data-toggle="popover" title="2:6" data-content="Ps 9:11; Heb 12:22"><i class="cross-ref-icon"></i></a></sup>
+            </p>
+            <p>
+                <otquote>a chosen and honored</otquote>
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="2:6" data-content=" Or 'precious'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup>
+                <otquote> cornerstone,</otquote><sup class="cross-ref"><a href="#" data-toggle="popover" title="2:6" data-content="Eph 2:20"><i class="cross-ref-icon"></i></a></sup>
+            </p>
+            <p>
+                <otquote>and the one who believes in him</otquote>
+            </p>
+            <p>
+                <otquote>will never be put to shame.</otquote>
+                <sup class="ot-quote">
+                    <a href="#" data-toggle="popover" title="2:6" data-content=" Is 28:16 LXX">
+                        <i class="ot-quote-icon"></i>
+                    </a>
+                </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="2:6" data-content="Is 28:16; Rm 9:33; 10:11"><i class="cross-ref-icon"></i></a></sup>
+            </p>
+            </verse>
+        </otdynprose>
+        <p type="noind">
+            <verse reference="1peter.2.7" display-number="7"><sup class="verse-ref" id="1peter.2.7">7</sup> So honor will
+                come to you who believe; but for the unbelieving,
+            </verse>
+        </p>
+        <verse reference="1peter.2.7" display-number="7">
+        <otdynprose>
+            <p>
+                <otquote>The stone that the builders rejected&#8201;&#8212;</otquote>
+            </p>
+            <p>
+                <otquote>this one has become the cornerstone,</otquote>
+                <sup class="ot-quote">
+                    <a href="#" data-toggle="popover" title="2:7" data-content=" Ps 118:22">
+                        <i class="ot-quote-icon"></i>
+                    </a>
+                </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="2:7" data-content="Ps 118:22; Mt 21:42; Lk 20:17; Ac 4:11"><i class="cross-ref-icon"></i></a></sup>
+            </p>
+        </otdynprose>
+        </verse>
+        <p type="noind">
+            <verse reference="1peter.2.8" display-number="8"><sup class="verse-ref" id="1peter.2.8">8</sup> and
+            </verse>
+        </p>
+        <verse reference="1peter.2.8" display-number="8">
+        <otdynprose>
+            <p>
+                <otquote>A stone to stumble over,</otquote>
+            </p>
+            <p>
+                <otquote>and a rock to trip over.</otquote>
+                <sup class="ot-quote">
+                    <a href="#" data-toggle="popover" title="2:8" data-content=" Is 8:14">
+                        <i class="ot-quote-icon"></i>
+                    </a>
+                </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="2:8" data-content="Is 8:14; Rm 9:33; 14:20"><i class="cross-ref-icon"></i></a></sup>
+            </p>
+        </otdynprose>
+        <p type="noind">They stumble because they disobey the word; they were destined<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:8" data-content="Ac 2:23; 4:27-28; Rm 9:22; 11:7; Jd 4"><i class="cross-ref-icon"></i></a></sup>
+            for this.
+        </p>
+        </verse>
+        <p>
+            <verse reference="1peter.2.9" display-number="9"><sup class="verse-ref" id="1peter.2.9">9</sup> But you are
+                <otquote>a chosen race,</otquote>
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="2:9" data-content=" Or 'generation', or 'nation'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup>
+                <sup class="ot-quote">
+                    <a href="#" data-toggle="popover" title="2:9" data-content=" Dt 7:6; 10:15; Is 43:20 LXX">
+                        <i class="ot-quote-icon"></i>
+                    </a>
+                </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="2:9" data-content="Dt 7:6; 10:15; Is 43:20"><i class="cross-ref-icon"></i></a></sup>
+                <otquote>a royal priesthood,</otquote>
+                <sup class="ot-quote">
+                    <a href="#" data-toggle="popover" title="2:9" data-content=" Ex 19:6; 23:22 LXX; Is 61:6">
+                        <i class="ot-quote-icon"></i>
+                    </a>
+                </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="2:9" data-content="Is 61:6; Rv 1:6; 5:10; 20:6"><i class="cross-ref-icon"></i></a></sup>
+                <otquote>a holy nation,</otquote>
+                <sup class="ot-quote">
+                    <a href="#" data-toggle="popover" title="2:9" data-content=" Ex 19:6; 23:22 LXX">
+                        <i class="ot-quote-icon"></i>
+                    </a>
+                </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="2:9" data-content="Ex 19:6"><i class="cross-ref-icon"></i></a></sup>
+                <otquote>a people for his possession,</otquote>
+                <sup class="ot-quote">
+                    <a href="#" data-toggle="popover" title="2:9"
+                       data-content=" Ex 19:5; 23:22 LXX; Dt 4:20; 7:6; Is 43:21 LXX">
+                        <i class="ot-quote-icon"></i>
+                    </a>
+                </sup><sup class="cross-ref">
+                    <a href="#" data-toggle="popover" title="2:9"
+                       data-content="Ex 34:9; Dt 7:6; Ps 33:12; Is 43:21; Ti 2:14">
+                        <i class="cross-ref-icon"></i>
+                    </a>
+                </sup>
+                <otquote>so that you may proclaim the praises</otquote>
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="2:9" data-content=" Or 'the mighty deeds'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup>
+                <sup class="ot-quote">
+                    <a href="#" data-toggle="popover" title="2:9" data-content=" Is 42:12; 43:21">
+                        <i class="ot-quote-icon"></i>
+                    </a>
+                </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="2:9" data-content="Is 42:12; 43:21"><i class="cross-ref-icon"></i></a></sup>
+                of the one who called you out of darkness into his marvelous light.<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:9" data-content="Is 9:2; Ac 26:18; Eph 5:8; Col 1:12-13"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="1peter.2.10" display-number="10"><sup class="verse-ref" id="1peter.2.10">10</sup> Once you
+                were not a people, but now you are God&#8217;s people; you had not received mercy,<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:10" data-content="Mt 5:7; Mk 5:19; Lk 1:50"><i class="cross-ref-icon"></i></a></sup>
+                but now you have received mercy.
+            </verse>
+        </p>
+        <head1>A Call to Good Works</head1>
+        <p type="noind">
+            <verse reference="1peter.2.11" display-number="11"><sup class="verse-ref" id="1peter.2.11">11</sup> Dear
+                friends, I urge you as strangers and exiles<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:11" data-content="1Pt 1:1"><i class="cross-ref-icon"></i></a></sup>
+                to abstain<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:11" data-content="1Tm 4:3"><i class="cross-ref-icon"></i></a></sup>
+                from sinful<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:11" data-content="Rm 7:23; Php 3:3"><i class="cross-ref-icon"></i></a></sup>
+                desires that wage war against the soul.<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:11" data-content="Gl 5:17; Jms 4:1"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="1peter.2.12" display-number="12"><sup class="verse-ref" id="1peter.2.12">12</sup> Conduct<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:12" data-content="2Pt 3:11"><i class="cross-ref-icon"></i></a></sup>
+                yourselves honorably among the Gentiles,
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="2:12"
+                       data-content=" Or 'among the nations', or 'among the pagans'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup>
+                so that when they slander you as evildoers, they will observe your good works and will glorify God on
+                the day he visits.<sup class="cross-ref">
+                    <a href="#" data-toggle="popover" title="2:12"
+                       data-content="Is 10:3; Jr 6:15; 8:12; 10:15; Lk 1:68; 7:16; 19:44">
+                        <i class="cross-ref-icon"></i>
+                    </a>
+                </sup>
+            </verse>
+        </p>
+        <p>
+            <verse reference="1peter.2.13" display-number="13"><sup class="verse-ref" id="1peter.2.13">13</sup> Submit<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:13-14" data-content="Rm 13:1-7; Ti 3:1"><i class="cross-ref-icon"></i></a></sup>
+                to every human authority because of the Lord, whether to the emperor
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="2:13" data-content=" Or 'king'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup>
+                as the supreme authority<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:13" data-content="Rm 13:1"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="1peter.2.14" display-number="14"><sup class="verse-ref" id="1peter.2.14">14</sup> or to
+                governors as those sent out by him to punish those who do what is evil and to praise those who do what
+                is good.
+            </verse>
+            <verse reference="1peter.2.15" display-number="15"><sup class="verse-ref" id="1peter.2.15">15</sup> For it is
+                God&#8217;s will<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:15" data-content="Gl 1:4; Eph 1:9"><i class="cross-ref-icon"></i></a></sup>
+                that you silence the ignorance<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:15" data-content="1Pt 3:16"><i class="cross-ref-icon"></i></a></sup>
+                of foolish people by doing good.
+            </verse>
+            <verse reference="1peter.2.16" display-number="16"><sup class="verse-ref" id="1peter.2.16">16</sup> Submit as
+                free people, not using your freedom as a cover-up for evil,<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:16" data-content="1Co 14:20"><i class="cross-ref-icon"></i></a></sup>
+                but as God&#8217;s slaves.<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:16" data-content="Rm 1:1; Ti 1:1; Rv 2:20"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="1peter.2.17" display-number="17"><sup class="verse-ref" id="1peter.2.17">17</sup> Honor
+                everyone. Love<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:17" data-content="Rv 12:11"><i class="cross-ref-icon"></i></a></sup>
+                the brothers and sisters.<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:17" data-content="Heb 13:1; 1Pt 5:9"><i class="cross-ref-icon"></i></a></sup>
+                Fear God.<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:17" data-content="Pr 1:7; 24:21; Ac 10:2; Rv 14:7"><i class="cross-ref-icon"></i></a></sup>
+                Honor the emperor.
+            </verse>
+        </p>
+        <head1>Submission of Slaves to Masters</head1>
+        <p type="noind">
+            <verse reference="1peter.2.18" display-number="18"><sup class="verse-ref" id="1peter.2.18">18</sup> Household
+                slaves, submit to your masters<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:18" data-content="Eph 6:5; Col 3:22; Ti 2:9; Jd 4"><i class="cross-ref-icon"></i></a></sup>
+                with all reverence<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:18" data-content="Rm 13:3,7"><i class="cross-ref-icon"></i></a></sup>
+                not only to the good and gentle ones but also to the cruel.<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:18" data-content="Php 2:15"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="1peter.2.19" display-number="19"><sup class="verse-ref" id="1peter.2.19">19</sup> For it
+                brings favor if, because of a consciousness of God, someone endures grief from suffering unjustly.
+            </verse>
+            <verse reference="1peter.2.20" display-number="20"><sup class="verse-ref" id="1peter.2.20">20</sup> For what
+                credit is there if when you do wrong and are beaten, you endure it? But when you do what is good and
+                suffer,<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:20" data-content="1Pt 4:14"><i class="cross-ref-icon"></i></a></sup>
+                if you endure it, this brings favor with God.
+            </verse>
+        </p>
+        <p>
+            <verse reference="1peter.2.21" display-number="21"><sup class="verse-ref" id="1peter.2.21">21</sup> For you
+                were called to this, because Christ also suffered<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:21" data-content="Mk 8:31; 1Pt 3:18; 1Jn 3:16"><i class="cross-ref-icon"></i></a></sup>
+                for you, leaving you an example,<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:21" data-content="Jn 13:15"><i class="cross-ref-icon"></i></a></sup>
+                that you should follow<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:21" data-content="Jn 8:12"><i class="cross-ref-icon"></i></a></sup>
+                in his steps.
+            </verse>
+            <verse reference="1peter.2.22" display-number="22"><sup class="verse-ref" id="1peter.2.22">22</sup> He did
+                not commit sin,<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:22" data-content="1Pt 4:1; 1Jn 3:5"><i class="cross-ref-icon"></i></a></sup>
+                <otquote>and no deceit</otquote><sup class="cross-ref"><a href="#" data-toggle="popover" title="2:22" data-content="2Pt 2:1"><i class="cross-ref-icon"></i></a></sup>
+                <otquote>was found in his mouth;</otquote>
+                <sup class="ot-quote">
+                    <a href="#" data-toggle="popover" title="2:22" data-content=" Is 53:9">
+                        <i class="ot-quote-icon"></i>
+                    </a>
+                </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="2:22" data-content="Is 53:9"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="1peter.2.23" display-number="23"><sup class="verse-ref" id="1peter.2.23">23</sup> when he
+                was insulted, he did not insult in return; when he suffered, he did not threaten but entrusted himself
+                to the one who judges<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:23" data-content="Rv 18:8; 19:11"><i class="cross-ref-icon"></i></a></sup>
+                justly.
+            </verse>
+            <verse reference="1peter.2.24" display-number="24"><sup class="verse-ref" id="1peter.2.24">24</sup> He
+                himself bore our sins<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:24" data-content="Heb 7:27-28; 9:27-28"><i class="cross-ref-icon"></i></a></sup>
+                in his body<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:24" data-content="Is 53:4-5,12; Jn 2:21"><i class="cross-ref-icon"></i></a></sup>
+                on the tree;<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:24" data-content="Ac 5:30; 10:39; 13:29; Gl 3:13"><i class="cross-ref-icon"></i></a></sup>
+                so that, having died to sins,<sup class="cross-ref">
+                    <a href="#" data-toggle="popover" title="2:24"
+                       data-content="Rm 6:2,8-11; 7:6; Gl 2:19; Col 2:20; 3:3">
+                        <i class="cross-ref-icon"></i>
+                    </a>
+                </sup>
+                we might live for righteousness.<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:24" data-content="Rm 6:2,11; Ti 2:12"><i class="cross-ref-icon"></i></a></sup>
+                <otquote>By his wounds</otquote>
+                <sup class="ot-quote">
+                    <a href="#" data-toggle="popover" title="2:24" data-content=" Is 53:5">
+                        <i class="ot-quote-icon"></i>
+                    </a>
+                </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="2:24" data-content="Is 53:5; Mt 13:15; Jn 12:40; Ac 28:27"><i class="cross-ref-icon"></i></a></sup>
+                <otquote>you have been healed.</otquote>
+            </verse>
+            <verse reference="1peter.2.25" display-number="25"><sup class="verse-ref" id="1peter.2.25">25</sup> For you
+                <otquote>were like sheep going astray,</otquote>
+                <sup class="ot-quote">
+                    <a href="#" data-toggle="popover" title="2:25" data-content=" Is 53:6">
+                        <i class="ot-quote-icon"></i>
+                    </a>
+                </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="2:25" data-content="Ps 119:176; Is 53:6"><i class="cross-ref-icon"></i></a></sup>
+                but you have now returned to the Shepherd<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:25" data-content="Gn 48:15; 49:24; Ps 23:1; Jr 31:10"><i class="cross-ref-icon"></i></a></sup>
+                and Overseer
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="2:25" data-content=" Or 'Guardian'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup>
+                of your souls.
+            </verse>
+        </p>
+    </chapter>
+    <chapter id="1peter.3" display="3">
+        <head1>Wives and Husbands</head1>
+        <p type="noind">
+            <verse reference="1peter.3.1" display-number="1"><sup class="verse-ref" id="1peter.3.1">1</sup> In the same
+                way, wives,<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:1" data-content="Eph 5:22-33; Col 3:18-19; 1Tm 3:11"><i class="cross-ref-icon"></i></a></sup>
+                submit yourselves to your own husbands so that, even if some disobey the word,<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:1" data-content="1Co 7:16; 1Pt 1:24-25"><i class="cross-ref-icon"></i></a></sup>
+                they may be won over<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:1" data-content="1Co 9:19-22; Php 3:8"><i class="cross-ref-icon"></i></a></sup>
+                without a word by the way their wives live<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:1" data-content="2Pt 3:11"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="1peter.3.2" display-number="2"><sup class="verse-ref" id="1peter.3.2">2</sup> when they
+                observe your pure, reverent lives.<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:2" data-content="Ti 2:5"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="1peter.3.3" display-number="3"><sup class="verse-ref" id="1peter.3.3">3</sup> Don&#8217;t
+                let your beauty consist of outward things like elaborate hairstyles and wearing gold jewelry or fine
+                clothes,<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:3" data-content="Is 3:18-24; 1Tm 2:9"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="1peter.3.4" display-number="4"><sup class="verse-ref" id="1peter.3.4">4</sup> but rather
+                what is inside the heart
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="3:4"
+                       data-content=" Or 'rather, the hidden person of the heart'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="3:4" data-content="Rm 2:29; 7:22"><i class="cross-ref-icon"></i></a></sup>&#8201;&#x200B;&#8212;&#8201;&#x200B;the imperishable quality of a gentle<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:4" data-content="Mt 5:5"><i class="cross-ref-icon"></i></a></sup>
+                and quiet<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:4" data-content="1Tm 2:2"><i class="cross-ref-icon"></i></a></sup>
+                spirit, which is of great worth in God&#8217;s sight.
+            </verse>
+            <verse reference="1peter.3.5" display-number="5"><sup class="verse-ref" id="1peter.3.5">5</sup> For in the
+                past, the holy<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:5" data-content="Ps 20:6; 1Co 7:14"><i class="cross-ref-icon"></i></a></sup>
+                women who put their hope<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:5" data-content="1Tm 5:5; 1Pt 1:3"><i class="cross-ref-icon"></i></a></sup>
+                in God also adorned themselves in this way, submitting to their own husbands,
+            </verse>
+            <verse reference="1peter.3.6" display-number="6"><sup class="verse-ref" id="1peter.3.6">6</sup> just as Sarah<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:6" data-content="Gn 17:15-21; 18:6-15; Heb 11:11"><i class="cross-ref-icon"></i></a></sup>
+                obeyed Abraham, calling him lord. You have become her children when you do what is good and do not fear
+                any intimidation.<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:6" data-content="Pr 3:25"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+        </p>
+        <p>
+            <verse reference="1peter.3.7" display-number="7"><sup class="verse-ref" id="1peter.3.7">7</sup> Husbands,<sup class="cross-ref">
+                    <a href="#" data-toggle="popover" title="3:7"
+                       data-content="Mt 1:19; 1Co 14:35; Eph 5:22-28; Col 3:18-19; Ti 2:4-5">
+                        <i class="cross-ref-icon"></i>
+                    </a>
+                </sup>
+                in the same way, live with your wives in an understanding way, as with a weaker partner,<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:7" data-content="1Th 4:4"><i class="cross-ref-icon"></i></a></sup>
+                showing them honor as coheirs of the grace of life, so that your prayers will not be hindered.
+            </verse>
+        </p>
+        <head1>Do No Evil</head1>
+        <p type="noind">
+            <verse reference="1peter.3.8" display-number="8"><sup class="verse-ref" id="1peter.3.8">8</sup> Finally, all
+                of you be like-minded and sympathetic, love one another,<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:8" data-content="Heb 13:1"><i class="cross-ref-icon"></i></a></sup>
+                and be compassionate<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:8" data-content="Eph 4:32"><i class="cross-ref-icon"></i></a></sup>
+                and humble,
+                <sup class="alt-reading-note">
+                    <a href="#" data-toggle="popover" title="3:8" data-content=" Other mss read 'courteous'">
+                        <i class="alt-reading-icon"></i>
+                    </a>
+                </sup>
+            </verse>
+            <verse reference="1peter.3.9" display-number="9"><sup class="verse-ref" id="1peter.3.9">9</sup> not paying
+                back evil for evil<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:9" data-content="Rm 12:17"><i class="cross-ref-icon"></i></a></sup>
+                or insult for insult but, on the contrary, giving a blessing,<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:9" data-content="Lk 6:28; Rm 12:14; 1Co 4:12"><i class="cross-ref-icon"></i></a></sup>
+                since you were called for this, so that you may inherit a blessing.
+            </verse>
+        </p>
+        <otdynprose>
+            <p>
+                <verse reference="1peter.3.10" display-number="10"><sup class="verse-ref" id="1peter.3.10">10</sup> For
+                    <otquote>the</otquote><sup class="cross-ref"><a href="#" data-toggle="popover" title="3:10-12" data-content="Ps 34:12-16"><i class="cross-ref-icon"></i></a></sup>
+                    <otquote>one who wants to love life</otquote>
+                </verse>
+            </p>
+            <verse reference="1peter.3.10" display-number="10">
+            <p>
+                <otquote>and to see good days,</otquote>
+            </p>
+            <p>
+                <otquote>let him keep his tongue from evil</otquote><sup class="cross-ref"><a href="#" data-toggle="popover" title="3:10" data-content="Jms 1:26"><i class="cross-ref-icon"></i></a></sup>
+            </p>
+            <p>
+                <otquote>and his lips from speaking deceit,</otquote><sup class="cross-ref"><a href="#" data-toggle="popover" title="3:10" data-content="Rm 3:13; Jms 3:5-8"><i class="cross-ref-icon"></i></a></sup>
+            </p>
+            </verse>
+            <p>
+                <verse reference="1peter.3.11" display-number="11">
+                    <sup class="verse-ref" id="1peter.3.11">11</sup>
+                    <otquote>and let him turn away</otquote><sup class="cross-ref"><a href="#" data-toggle="popover" title="3:11" data-content="Ps 37:27"><i class="cross-ref-icon"></i></a></sup>
+                    <otquote>from evil</otquote>
+                </verse>
+            </p>
+            <verse reference="1peter.3.11" display-number="11">
+            <p>
+                <otquote>and do what is good.</otquote>
+            </p>
+            <p>
+                <otquote>Let him seek peace</otquote><sup class="cross-ref"><a href="#" data-toggle="popover" title="3:11" data-content="Lk 12:51; 2Tm 1:2; Heb 12:14; 3Jn 14"><i class="cross-ref-icon"></i></a></sup>
+                <otquote>and pursue it,</otquote>
+            </p>
+            </verse>
+            <p>
+                <verse reference="1peter.3.12" display-number="12">
+                    <sup class="verse-ref" id="1peter.3.12">12</sup>
+                    <otquote>because the eyes of the Lord are on the righteous</otquote>
+                </verse>
+            </p>
+            <verse reference="1peter.3.12" display-number="12">
+            <p>
+                <otquote>and his ears are open to their prayer.</otquote>
+            </p>
+            <p>
+                <otquote>But the face of the Lord is against</otquote>
+            </p>
+            <p>
+                <otquote>those who do what is evil.</otquote>
+                <sup class="ot-quote">
+                    <a href="#" data-toggle="popover" title="3:10-12" data-content=" Ps 34:12-16">
+                        <i class="ot-quote-icon"></i>
+                    </a>
+                </sup>
+            </p>
+            </verse>
+        </otdynprose>
+        <head1>Undeserved Suffering</head1>
+        <p type="noind">
+            <verse reference="1peter.3.13" display-number="13"><sup class="verse-ref" id="1peter.3.13">13</sup> Who then
+                will harm you if you are devoted to what is good?
+            </verse>
+            <verse reference="1peter.3.14" display-number="14"><sup class="verse-ref" id="1peter.3.14">14</sup> But even
+                if you should suffer for righteousness,<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:14" data-content="Mt 6:33; Rm 1:17; 2Pt 1:1"><i class="cross-ref-icon"></i></a></sup>
+                you are blessed.
+                <otquote>Do not fear them</otquote>
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="3:14" data-content=" Or 'Do not fear what they fear'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="3:14" data-content="Jn 6:20; 7:13"><i class="cross-ref-icon"></i></a></sup>
+                <otquote>or be intimidated,</otquote>
+                <sup class="ot-quote">
+                    <a href="#" data-toggle="popover" title="3:14" data-content=" Is 8:12">
+                        <i class="ot-quote-icon"></i>
+                    </a>
+                </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="3:14-15" data-content="Is 8:12-13"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="1peter.3.15" display-number="15"><sup class="verse-ref" id="1peter.3.15">15</sup> but in
+                your hearts regard
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="3:15" data-content=" Or 'sanctify', or 'set apart'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup>
+                Christ
+                <sup class="alt-reading-note">
+                    <a href="#" data-toggle="popover" title="3:15" data-content=" Other mss read 'set God'">
+                        <i class="alt-reading-icon"></i>
+                    </a>
+                </sup>
+                the Lord as holy, ready at any time to give a defense to anyone who asks you for a reason for the hope
+                that is in you.<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:15" data-content="1Jn 4:4"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="1peter.3.16" display-number="16"><sup class="verse-ref" id="1peter.3.16">16</sup> Yet do
+                this with gentleness and reverence, keeping a clear conscience,<sup class="cross-ref">
+                    <a href="#" data-toggle="popover" title="3:16"
+                       data-content="Ac 23:1; 24:16; Rm 9:1; 2Co 1:12; 1Tm 1:5,19; 3:9; Heb 10:22; 1Pt 3:21">
+                        <i class="cross-ref-icon"></i>
+                    </a>
+                </sup>
+                so that when you are accused,
+                <sup class="alt-reading-note">
+                    <a href="#" data-toggle="popover" title="3:16"
+                       data-content=" Other mss read 'when they speak against you as evildoers'">
+                        <i class="alt-reading-icon"></i>
+                    </a>
+                </sup>
+                those who disparage your good conduct in Christ will be put to shame.
+            </verse>
+            <verse reference="1peter.3.17" display-number="17"><sup class="verse-ref" id="1peter.3.17">17</sup> For it is
+                better to suffer<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:17" data-content="Php 1:29; 1Pt 2:19"><i class="cross-ref-icon"></i></a></sup>
+                for doing good, if that should be God&#8217;s will, than for doing evil.
+            </verse>
+        </p>
+        <p>
+            <verse reference="1peter.3.18" display-number="18"><sup class="verse-ref" id="1peter.3.18">18</sup> For
+                Christ also suffered<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:18" data-content="Mk 8:31; Rm 5:8"><i class="cross-ref-icon"></i></a></sup>
+                for sins once for all,<sup class="cross-ref">
+                    <a href="#" data-toggle="popover" title="3:18"
+                       data-content="Rm 6:10; Heb 9:28; 10:10; 1Pt 2:21; 4:1">
+                        <i class="cross-ref-icon"></i>
+                    </a>
+                </sup>
+                the righteous for the unrighteous, that he might bring you to God.<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:18" data-content="Rm 5:2"><i class="cross-ref-icon"></i></a></sup>
+                He was put to death in the flesh
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="3:18"
+                       data-content=" Or 'by the flesh', or 'in the fleshly realm'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="3:18" data-content="Eph 2:14"><i class="cross-ref-icon"></i></a></sup>
+                but made alive by the Spirit,
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="3:18"
+                       data-content=" Or 'in the spirit', or 'in the Spirit', or 'in the spiritual realm'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup>
+            </verse>
+            <verse reference="1peter.3.19" display-number="19"><sup class="verse-ref" id="1peter.3.19">19</sup> in which
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="3:19"
+                       data-content=" Or 'by whom', or 'in whom', or 'at that time'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup>
+                he also went and made proclamation to the spirits<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:19" data-content="1Jn 4:1"><i class="cross-ref-icon"></i></a></sup>
+                in prison
+            </verse>
+            <verse reference="1peter.3.20" display-number="20"><sup class="verse-ref" id="1peter.3.20">20</sup> who in
+                the past were disobedient, when God patiently waited in the days of Noah<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:20" data-content="Gn 5:29"><i class="cross-ref-icon"></i></a></sup>
+                while the ark was being prepared. In it a few&#8201;&#x200B;&#8212;&#8201;&#x200B;that is, eight people
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="3:20" data-content=" Or 'souls'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="3:20" data-content="Gn 5:32; 6:18; 7:7,13; 8:16,18"><i class="cross-ref-icon"></i></a></sup>&#8201;&#x200B;&#8212;&#8201;&#x200B;were saved through water.
+            </verse>
+            <verse reference="1peter.3.21" display-number="21"><sup class="verse-ref" id="1peter.3.21">21</sup> Baptism,
+                which corresponds to this, now saves you (not as the removal of dirt from the body,<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:21" data-content="Heb 9:14; 10:22"><i class="cross-ref-icon"></i></a></sup>
+                but the pledge
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="3:21" data-content=" Or 'the appeal'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup>
+                of a good conscience toward God) through the resurrection of Jesus Christ,<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:21" data-content="1Pt 1:3"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="1peter.3.22" display-number="22"><sup class="verse-ref" id="1peter.3.22">22</sup> who has
+                gone into heaven<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:22" data-content="Ac 1:10,12; 1Tm 3:16; Heb 4:14; 6:20"><i class="cross-ref-icon"></i></a></sup>
+                and is at the right hand of God<sup class="cross-ref">
+                    <a href="#" data-toggle="popover" title="3:22"
+                       data-content="Ps 110:1; Mk 16:19; Ac 2:33-34; Rm 8:34; Heb 10:12">
+                        <i class="cross-ref-icon"></i>
+                    </a>
+                </sup>
+                with angels, authorities, and powers subject to him.<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:22" data-content="Eph 1:20-22"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+        </p>
+    </chapter>
+    <chapter id="1peter.4" display="4">
+        <head1>Following Christ</head1>
+        <p type="noind">
+            <verse reference="1peter.4.1" display-number="1"><sup class="verse-ref" id="1peter.4.1">1</sup> Therefore,
+                since Christ suffered
+                <sup class="alt-reading-note">
+                    <a href="#" data-toggle="popover" title="4:1" data-content=" Other mss read 'suffered for us'">
+                        <i class="alt-reading-icon"></i>
+                    </a>
+                </sup>
+                in the flesh, arm yourselves also with the same understanding
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="4:1" data-content=" Or' perspective', or 'attitude'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup>&#8201;&#x200B;&#8212;&#8201;&#x200B;because the one who suffers in the flesh is finished<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:1" data-content="Rm 6:10; Heb 4:15; 7:26; 9:28"><i class="cross-ref-icon"></i></a></sup>
+                with sin
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="4:1"
+                       data-content=" Or 'the one who suffered in the flesh has finished with sin'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup>&#8201;&#x200B;&#8212;&#8201;&#x200B;
+            </verse>
+            <verse reference="1peter.4.2" display-number="2"><sup class="verse-ref" id="1peter.4.2">2</sup> in order to
+                live the remaining time in the flesh no longer for human desires, but for God&#8217;s will.<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:2" data-content="Mk 3:35; Rm 6:11; 12:2"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="1peter.4.3" display-number="3"><sup class="verse-ref" id="1peter.4.3">3</sup> For there has
+                already been enough time spent in doing what the Gentiles choose to do: carrying on in unrestrained
+                behavior, evil desires,<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:3" data-content="Mk 7:22"><i class="cross-ref-icon"></i></a></sup>
+                drunkenness, orgies,<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:3" data-content="Rm 13:13; Gl 5:21"><i class="cross-ref-icon"></i></a></sup>
+                carousing, and lawless idolatry.
+            </verse>
+            <verse reference="1peter.4.4" display-number="4"><sup class="verse-ref" id="1peter.4.4">4</sup> They are
+                surprised that you don&#8217;t join them in the same flood of wild living&#8201;&#x200B;&#8212;&#8201;&#x200B;and
+                they slander
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="4:4" data-content=" Or 'blaspheme'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup>
+                you.
+            </verse>
+            <verse reference="1peter.4.5" display-number="5"><sup class="verse-ref" id="1peter.4.5">5</sup> They will
+                give an account to the one who stands ready to judge the living and the dead.<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:5" data-content="Ac 10:42; Rm 14:9; 2Tm 4:1"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="1peter.4.6" display-number="6"><sup class="verse-ref" id="1peter.4.6">6</sup> For this
+                reason the gospel was also preached to those who are now dead,
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="4:6" data-content=" Or 'those who are dead'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="4:6" data-content="Jn 5:25"><i class="cross-ref-icon"></i></a></sup>
+                so that, although they might be judged in the flesh according to human standards,<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:6" data-content="1Pt 3:18"><i class="cross-ref-icon"></i></a></sup>
+                they might live<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:6" data-content="Php 1:21"><i class="cross-ref-icon"></i></a></sup>
+                in the spirit according to God&#8217;s standards.
+            </verse>
+        </p>
+        <head1>End-Time Ethics</head1>
+        <p type="noind">
+            <verse reference="1peter.4.7" display-number="7"><sup class="verse-ref" id="1peter.4.7">7</sup> The end of
+                all things is near;<sup class="cross-ref">
+                    <a href="#" data-toggle="popover" title="4:7"
+                       data-content="Rm 13:11-12; Heb 9:26; Jms 5:8; 1Jn 2:18; Rv 1:3">
+                        <i class="cross-ref-icon"></i>
+                    </a>
+                </sup>
+                therefore, be alert and sober-minded<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:7" data-content="1Pt 5:8"><i class="cross-ref-icon"></i></a></sup>
+                for prayer.
+            </verse>
+            <verse reference="1peter.4.8" display-number="8"><sup class="verse-ref" id="1peter.4.8">8</sup> Above all,
+                maintain constant love<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:8" data-content="1Pt 1:22"><i class="cross-ref-icon"></i></a></sup>
+                for one another, since
+                <otquote>love covers a multitude of sins.</otquote>
+                <sup class="ot-quote">
+                    <a href="#" data-toggle="popover" title="4:8" data-content=" Pr 10:12">
+                        <i class="ot-quote-icon"></i>
+                    </a>
+                </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="4:8" data-content="Pr 10:12; Jms 5:20"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="1peter.4.9" display-number="9"><sup class="verse-ref" id="1peter.4.9">9</sup> Be hospitable<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:9" data-content="1Tm 3:2; Ti 1:8"><i class="cross-ref-icon"></i></a></sup>
+                to one another without complaining.
+            </verse>
+            <verse reference="1peter.4.10" display-number="10"><sup class="verse-ref" id="1peter.4.10">10</sup> Just as
+                each one has received a gift, use it to serve others,<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:10" data-content="1Co 12:7"><i class="cross-ref-icon"></i></a></sup>
+                as good stewards of the varied grace of God.
+            </verse>
+            <verse reference="1peter.4.11" display-number="11"><sup class="verse-ref" id="1peter.4.11">11</sup> If anyone
+                speaks, let it be as one who speaks God&#8217;s words; if anyone serves, let it be from the strength God
+                provides,<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:11" data-content="Rm 12:6-8; 1Co 15:58"><i class="cross-ref-icon"></i></a></sup>
+                so that God may be glorified through Jesus Christ in everything. To him be the glory and the power
+                forever and ever. Amen.
+            </verse>
+        </p>
+        <head1>Christian Suffering</head1>
+        <p type="noind">
+            <verse reference="1peter.4.12" display-number="12"><sup class="verse-ref" id="1peter.4.12">12</sup> Dear
+                friends, don&#8217;t be surprised when the fiery ordeal comes among you to test you, as if something
+                unusual were happening to you.<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:12" data-content="1Pt 1:6-7"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="1peter.4.13" display-number="13"><sup class="verse-ref" id="1peter.4.13">13</sup> Instead,
+                rejoice as you share in the sufferings of Christ,<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:13" data-content="Gl 5:24; Php 3:10"><i class="cross-ref-icon"></i></a></sup>
+                so that you may also rejoice with great joy when his glory is revealed.<sup class="cross-ref">
+                    <a href="#" data-toggle="popover" title="4:13"
+                       data-content="1Co 1:7; Eph 1:17; 2Th 1:7; 1Pt 1:7,13">
+                        <i class="cross-ref-icon"></i>
+                    </a>
+                </sup>
+            </verse>
+            <verse reference="1peter.4.14" display-number="14"><sup class="verse-ref" id="1peter.4.14">14</sup> If you
+                are ridiculed for the name of Christ,<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:14" data-content="Ps 89:50-51; Ac 5:41; 1Pt 2:20"><i class="cross-ref-icon"></i></a></sup>
+                you are blessed, because the Spirit<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:14" data-content="Ac 4:33; Rv 3:22"><i class="cross-ref-icon"></i></a></sup>
+                of glory and of God
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="4:14" data-content=" Or 'God&#8217;s glorious Spirit'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup>
+                rests on you.
+            </verse>
+            <verse reference="1peter.4.15" display-number="15"><sup class="verse-ref" id="1peter.4.15">15</sup> Let none
+                of you suffer as a murderer, a thief, an evildoer, or a meddler.
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="4:15" data-content=" Or 'as one who defrauds others'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup>
+            </verse>
+            <verse reference="1peter.4.16" display-number="16"><sup class="verse-ref" id="1peter.4.16">16</sup> But if
+                anyone suffers as a Christian, let him not be ashamed but let him glorify God in having that name.
+                <sup class="alt-reading-note">
+                    <a href="#" data-toggle="popover" title="4:16" data-content=" Other mss read 'in that case'">
+                        <i class="alt-reading-icon"></i>
+                    </a>
+                </sup>
+            </verse>
+            <verse reference="1peter.4.17" display-number="17"><sup class="verse-ref" id="1peter.4.17">17</sup> For the
+                time has come for judgment<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:17" data-content="Mk 12:40; Jn 5:22; Heb 10:27; 13:4"><i class="cross-ref-icon"></i></a></sup>
+                to begin with God&#8217;s household,<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:17" data-content="Gl 6:10; Eph 2:19; 1Tm 3:15; Heb 3:2"><i class="cross-ref-icon"></i></a></sup>
+                and if it begins with us, what will the outcome be for those who disobey the gospel of God?
+            </verse>
+        </p>
+        <otdynprose>
+            <p>
+                <verse reference="1peter.4.18" display-number="18"><sup class="verse-ref" id="1peter.4.18">18</sup> And
+                    <otquote>if a righteous person is saved with difficulty,</otquote>
+                </verse>
+            </p>
+            <verse reference="1peter.4.18" display-number="18">
+            <p>
+                <otquote>what will become of the ungodly and the sinner?</otquote>
+                <sup class="ot-quote">
+                    <a href="#" data-toggle="popover" title="4:18" data-content=" Pr 11:31 LXX">
+                        <i class="ot-quote-icon"></i>
+                    </a>
+                </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="4:18" data-content="Pr 11:31"><i class="cross-ref-icon"></i></a></sup>
+            </p>
+            </verse>
+        </otdynprose>
+        <p type="noind">
+            <verse reference="1peter.4.19" display-number="19"><sup class="verse-ref" id="1peter.4.19">19</sup> So then,
+                let those who suffer according to God&#8217;s will entrust themselves<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:19" data-content="Ps 10:14; 2Co 1:9"><i class="cross-ref-icon"></i></a></sup>
+                to a faithful Creator while doing what is good.
+            </verse>
+        </p>
+    </chapter>
+    <chapter id="1peter.5" display="5">
+        <head1>About the Elders</head1>
+        <p type="noind">
+            <verse reference="1peter.5.1" display-number="1"><sup class="verse-ref" id="1peter.5.1">1</sup> I exhort the
+                elders among you as a fellow elder and witness<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:1" data-content="Ac 4:20"><i class="cross-ref-icon"></i></a></sup>
+                to the sufferings of Christ, as well as one who shares in the glory about to be revealed:<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:1" data-content="Rm 8:18; Col 3:4"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="1peter.5.2" display-number="2"><sup class="verse-ref" id="1peter.5.2">2</sup> Shepherd God&#8217;s
+                flock among you,<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:2" data-content="Jr 3:15; 23:1; Jn 21:16; Ac 20:28"><i class="cross-ref-icon"></i></a></sup>
+                not overseeing
+                <sup class="alt-reading-note">
+                    <a href="#" data-toggle="popover" title="5:2" data-content=" Other mss omit 'overseeing'">
+                        <i class="alt-reading-icon"></i>
+                    </a>
+                </sup>
+                out of compulsion but willingly, as God would have you;
+                <sup class="alt-reading-note">
+                    <a href="#" data-toggle="popover" title="5:2"
+                       data-content=" Other mss omit 'as God would have you'">
+                        <i class="alt-reading-icon"></i>
+                    </a>
+                </sup>
+                not out of greed for money but eagerly;
+            </verse>
+            <verse reference="1peter.5.3" display-number="3"><sup class="verse-ref" id="1peter.5.3">3</sup> not lording
+                it over those entrusted to you, but being examples to the flock.
+            </verse>
+            <verse reference="1peter.5.4" display-number="4"><sup class="verse-ref" id="1peter.5.4">4</sup> And when the
+                chief Shepherd<sup class="cross-ref">
+                    <a href="#" data-toggle="popover" title="5:4"
+                       data-content="Jn 10:11,14; 21:15-17; Heb 13:20; 1Pt 2:25">
+                        <i class="cross-ref-icon"></i>
+                    </a>
+                </sup>
+                appears, you will receive the unfading crown<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:4" data-content="1Co 9:25; Rv 12:1"><i class="cross-ref-icon"></i></a></sup>
+                of glory.
+            </verse>
+            <verse reference="1peter.5.5" display-number="5"><sup class="verse-ref" id="1peter.5.5">5</sup> In the same
+                way, you who are younger, be subject to the elders. All of you clothe yourselves with
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="5:5" data-content=" Or 'you tie around yourselves'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup>
+                humility toward one another, because
+            </verse>
+        </p>
+        <verse reference="1peter.5.5" display-number="5">
+        <otdynprose>
+            <p>
+                <otquote>God resists the proud</otquote>
+            </p>
+            <p>
+                <otquote>but gives grace to the humble.</otquote>
+                <sup class="ot-quote">
+                    <a href="#" data-toggle="popover" title="5:5" data-content=" Pr 3:34 LXX">
+                        <i class="ot-quote-icon"></i>
+                    </a>
+                </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="5:5" data-content="Pr 3:34; Jms 4:6"><i class="cross-ref-icon"></i></a></sup>
+            </p>
+        </otdynprose>
+        </verse>
+        <head1>Conclusion</head1>
+        <p type="noind">
+            <verse reference="1peter.5.6" display-number="6"><sup class="verse-ref" id="1peter.5.6">6</sup> Humble<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:6" data-content="Lk 14:11"><i class="cross-ref-icon"></i></a></sup>
+                yourselves, therefore, under the mighty hand<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:6" data-content="1Kg 8:42; 2Ch 6:32; Dn 9:15"><i class="cross-ref-icon"></i></a></sup>
+                of God, so that he may exalt you at the proper time,
+            </verse>
+            <verse reference="1peter.5.7" display-number="7"><sup class="verse-ref" id="1peter.5.7">7</sup> casting all
+                your cares on him, because he cares about you.<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:7" data-content="Ps 55:22"><i class="cross-ref-icon"></i></a></sup>
+            </verse>
+            <verse reference="1peter.5.8" display-number="8"><sup class="verse-ref" id="1peter.5.8">8</sup> Be
+                sober-minded,<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:8" data-content="1Th 5:6,8; 2Tm 4:5; 1Pt 1:13; 4:7"><i class="cross-ref-icon"></i></a></sup>
+                be alert.<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:8" data-content="Rv 16:15"><i class="cross-ref-icon"></i></a></sup>
+                Your adversary the devil<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:8" data-content="Mt 4:1,10; Ac 13:10"><i class="cross-ref-icon"></i></a></sup>
+                is prowling around like a roaring lion, looking for anyone he can devour.
+            </verse>
+            <verse reference="1peter.5.9" display-number="9"><sup class="verse-ref" id="1peter.5.9">9</sup> Resist him,<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:9" data-content="Eph 6:13-14; Jms 4:7"><i class="cross-ref-icon"></i></a></sup>
+                firm in the faith, knowing that the same kind of sufferings are being experienced by your fellow
+                believers throughout the world.
+            </verse>
+        </p>
+        <p>
+            <verse reference="1peter.5.10" display-number="10"><sup class="verse-ref" id="1peter.5.10">10</sup> The God
+                of all grace, who called you to his eternal glory<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:10" data-content="1Pt 5:1,4; 2Pt 3:18"><i class="cross-ref-icon"></i></a></sup>
+                in Christ,
+                <sup class="alt-reading-note">
+                    <a href="#" data-toggle="popover" title="5:10" data-content=" Other mss read 'in Christ Jesus'">
+                        <i class="alt-reading-icon"></i>
+                    </a>
+                </sup>
+                will himself restore, establish, strengthen, and support you after you have suffered a little while.
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="5:10" data-content=" Or 'to a small extent'">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup>
+            </verse>
+            <verse reference="1peter.5.11" display-number="11"><sup class="verse-ref" id="1peter.5.11">11</sup> To him be
+                dominion
+                <sup class="alt-reading-note">
+                    <a href="#" data-toggle="popover" title="5:11"
+                       data-content=" Some mss read 'dominion and glory'&#8201;; other mss read 'glory and dominion'">
+                        <i class="alt-reading-icon"></i>
+                    </a>
+                </sup>
+                forever.
+                <sup class="alt-reading-note">
+                    <a href="#" data-toggle="popover" title="5:11" data-content=" Other mss read 'forever and ever'">
+                        <i class="alt-reading-icon"></i>
+                    </a>
+                </sup>
+                Amen.
+            </verse>
+        </p>
+        <p>
+            <verse reference="1peter.5.12" display-number="12"><sup class="verse-ref" id="1peter.5.12">12</sup> Through
+                Silvanus,
+                <sup class="translate-note">
+                    <a href="#" data-toggle="popover" title="5:12"
+                       data-content=" Or 'Silas'&#8201;; Ac 15:22-32; 16:19-40; 17:1-16">
+                        <i class="translate-note-icon"></i>
+                    </a>
+                </sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="5:12" data-content="Ac 15:22; 1Th 1:1; 2Th 1:1"><i class="cross-ref-icon"></i></a></sup>
+                a faithful brother (as I consider him), I have written to you briefly in order to encourage you and to
+                testify that this is the true grace of God. Stand firm in it!
+            </verse>
+            <verse reference="1peter.5.13" display-number="13"><sup class="verse-ref" id="1peter.5.13">13</sup> She who
+                is in Babylon,<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:13" data-content="Rv 14:8; 16:19; 17:5,18; 18:2,10,21"><i class="cross-ref-icon"></i></a></sup>
+                chosen together with you, sends you greetings, as does Mark, my son.
+            </verse>
+            <verse reference="1peter.5.14" display-number="14"><sup class="verse-ref" id="1peter.5.14">14</sup> Greet one
+                another with a kiss of love.<sup class="cross-ref">
+                    <a href="#" data-toggle="popover" title="5:14"
+                       data-content="Rm 16:16; 1Co 16:20; 2Co 13:12; 1Th 5:26">
+                        <i class="cross-ref-icon"></i>
+                    </a>
+                </sup>
+                Peace<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:14" data-content="Eph 6:23"><i class="cross-ref-icon"></i></a></sup>
+                to all of you who are in Christ.
+                <sup class="alt-reading-note">
+                    <a href="#" data-toggle="popover" title="5:14" data-content=" Other mss read 'Christ Jesus. Amen.'">
+                        <i class="alt-reading-icon"></i>
+                    </a>
+                </sup>
+            </verse>
+        </p>
+    </chapter>
+</book>
