@@ -62,14 +62,17 @@ function findInXML(version: string, bookFilename:string): void {
                     // Swap close-single quote for close-double quote
                     else if (char === '\u2019') {
                         // WIP: Detecting if apostrophe or close-single quote
-                        // Currently checks if next character is an alpha character which works in lots of cases
-                        // However doesn't work for posessives on words ending with 's', e.g. it turns ' into ", e.g. Vipers" (Rom 3:13)
-                        // Likely can't be fixed with RegEx as requires lots of language-specific context                   
-                        if (/^[a-zA-Z]$/.test(paragraph[i+1])) {
-                            str += char;
+                        // Try detecting if it's the end of a quotation using the consistency of the language styleguide
+                        // Quotations always seem to be preceeded by a non-alpha character (space, comma, etc)           
+                        if (/^[^a-zA-Z]$/.test(paragraph[i-1])) {
+                            str += '\u201D';
+                            
                         }
                         else {
-                            str += '\u201D';
+                            // This is (supposedly) not the end of a quotation so keep the original as it was
+                            // TODO: Add logic here for the cases where the preceeding letter is an alpha character
+                            // but it is still actually a quote, e.g. paranthetical thought, question marks after quote, etc.
+                            str += char;
                         }
                     }
                     // Swap close-double quote for close-single quote
@@ -93,6 +96,9 @@ function findInXML(version: string, bookFilename:string): void {
     )
 }
 
+
+// findInXML('US', '41-Mark.xml');
+// findInXML('UK', '41-Mark.xml');
 
 findInXML('US', '45-Rom.xml');
 findInXML('UK', '45-Rom.xml');
