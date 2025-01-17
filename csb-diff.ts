@@ -3,7 +3,7 @@ import * as cheerio from 'cheerio';
 import fs from 'node:fs';
 import path from 'node:path';
 
-function findInXML(version: string, bookFilename:string): void {
+function findInXML(version: string, bookFilename:string): string {
     // Will rename later but for now it's a proof of concept for using Cheerio to find specific sections of the XML file
     const bookXMLPath = path.join(__dirname, 'data', version, bookFilename);
     let bookXML: string;
@@ -11,7 +11,7 @@ function findInXML(version: string, bookFilename:string): void {
         bookXML = fs.readFileSync(bookXMLPath, 'utf8');
     } catch (err) {
         console.error(err);
-        return;
+        return '';
     }
     const $ = cheerio.load(bookXML, {xml: true});
     // Removes all verse/footnote references and replaces with a space character
@@ -21,17 +21,19 @@ function findInXML(version: string, bookFilename:string): void {
     // $('sup').replaceWith(' ');
 
     replaceSups($);
+
+    let res = '';
     
     const $chapters = $('chapter');
-    console.log('\nCSB Version: ' + version);
-    console.log('Book: ' + bookFilename);
+    res += '\n\nCSB Version: ' + version;
+    res += '\nBook: ' + bookFilename;
     $chapters.each((i, element) => {
         // TODO: Remove if statement once debugging complete
         if (i !== 2) {
             // return;
         }
         // TODO: Remove extra linebreaks once finished debugging as the final page will use CSS to handle paragraph spacing
-        console.log('\n\nChapter: ' + (i+1));
+        res += '\n\n\nChapter: ' + (i+1);
         const paragraphs = $(element).find('p');
         paragraphs.each((i, element) => {
             // TODO: Remove if statement once debugging complete
@@ -85,7 +87,7 @@ function findInXML(version: string, bookFilename:string): void {
                             }
                             // Detect quotation pattern: single-close quote > punctuation mark
                             else if (/[^\w\s]+/.test(quoteSuffix[0])) {
-                                console.log('match found')
+                                // console.log('match found')
                                 str += '\u201D';
                             }                          
                             else {
@@ -107,7 +109,12 @@ function findInXML(version: string, bookFilename:string): void {
                 paragraph = str;
             }
             
-            console.log('\n' + paragraph);
+            res += '\n\n' + paragraph;
+                      
+            
+
+
+            // console.log('\n' + paragraph);
             // return false;
             }
             
@@ -115,6 +122,8 @@ function findInXML(version: string, bookFilename:string): void {
         
         }
     )
+    // console.log(res);
+    return res;
 }
 
 
@@ -133,7 +142,16 @@ function replaceSups($: cheerio.CheerioAPI): void {
 // findInXML('US', '41-Mark.xml');
 // findInXML('UK', '41-Mark.xml');
 
-findInXML('US', '45-Rom.xml');
-findInXML('UK', '45-Rom.xml');
+const tempUS = findInXML('US', '45-Rom.xml');
+const tempUK = findInXML('UK', '45-Rom.xml');
 
 // findInXML('UK', 'tempTest.xml');
+
+const outputString = tempUS + '\n\n\n' + tempUK; 
+
+try {
+    fs.writeFileSync(path.join(__dirname, 'tempUS.txt'), tempUS);
+    fs.writeFileSync(path.join(__dirname, 'tempUK.txt'), tempUK);
+} catch (err) {
+    console.error(err);
+}
