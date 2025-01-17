@@ -17,7 +17,11 @@ function findInXML(version: string, bookFilename:string): void {
     // Removes all verse/footnote references and replaces with a space character
     // This is required for UK XML because of the terrible formatting of the orignal file (run on sentences)
     // but makes sense to also do on US as we want both files to be as close as possible before diff
-    $('sup').replaceWith(' ');
+    
+    // $('sup').replaceWith(' ');
+
+    replaceSups($);
+    
     const $chapters = $('chapter');
     console.log('\nCSB Version: ' + version);
     console.log('Book: ' + bookFilename);
@@ -88,12 +92,25 @@ function findInXML(version: string, bookFilename:string): void {
             }
             
             console.log('\n' + paragraph);
-                
-            }
             // return false;
+            }
+            
         )
+        
         }
     )
+}
+
+
+function replaceSups($: cheerio.CheerioAPI): void {
+    // Replace all <sup>s used for verse numbers with the actual number padded by a space on each side
+    $('sup.verse-ref').each( (i, el) => {
+        const $sup = $(el);
+        const verseNum = $sup.text().trim();
+        $sup.replaceWith(` ${verseNum} `)
+    })
+    // The only <sups> remaining are ones we don't care about, e.g. cross-references, so replace with spaces
+    $('sup').replaceWith(' ');
 }
 
 
@@ -102,3 +119,5 @@ function findInXML(version: string, bookFilename:string): void {
 
 findInXML('US', '45-Rom.xml');
 findInXML('UK', '45-Rom.xml');
+
+// findInXML('UK', 'tempTest.xml');
