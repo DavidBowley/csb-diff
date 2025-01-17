@@ -27,7 +27,7 @@ function findInXML(version: string, bookFilename:string): void {
     console.log('Book: ' + bookFilename);
     $chapters.each((i, element) => {
         // TODO: Remove if statement once debugging complete
-        if (i !== 6) {
+        if (i !== 1) {
             // return;
         }
         // TODO: Remove extra linebreaks once finished debugging as the final page will use CSS to handle paragraph spacing
@@ -35,7 +35,7 @@ function findInXML(version: string, bookFilename:string): void {
         const paragraphs = $(element).find('p');
         paragraphs.each((i, element) => {
             // TODO: Remove if statement once debugging complete
-            if (i !== 6) {
+            if (i !== 2) {
                 // return;
             }
             let paragraph = $(element).text();
@@ -76,7 +76,18 @@ function findInXML(version: string, bookFilename:string): void {
                             // This is (supposedly) not the end of a quotation so keep the original as it was
                             // TODO: Add logic here for the cases where the preceeding letter is an alpha character
                             // but it is still actually a quote, e.g. paranthetical thought, question marks after quote, etc.
-                            str += char;
+                            
+                            // Detect quotation pattern: single-close quote > space > zero-width space > em-dash (paranthetical thought)
+                            const quoteSuffix = paragraph.slice(i+1, i+4);
+                            // console.log(`\n\n\n***${quoteSuffix}***\n\n\n`);
+                            if (quoteSuffix === '\u0020\u200B\u2014') {
+                                str += '\u201D';
+                            }
+                            else {
+                                str += char;
+                            }
+
+                            
                         }
                     }
                     // Swap close-double quote for close-single quote
