@@ -27,7 +27,7 @@ function findInXML(version: string, bookFilename:string): void {
     console.log('Book: ' + bookFilename);
     $chapters.each((i, element) => {
         // TODO: Remove if statement once debugging complete
-        if (i !== 1) {
+        if (i !== 2) {
             // return;
         }
         // TODO: Remove extra linebreaks once finished debugging as the final page will use CSS to handle paragraph spacing
@@ -35,7 +35,7 @@ function findInXML(version: string, bookFilename:string): void {
         const paragraphs = $(element).find('p');
         paragraphs.each((i, element) => {
             // TODO: Remove if statement once debugging complete
-            if (i !== 2) {
+            if (i !== 3) {
                 // return;
             }
             let paragraph = $(element).text();
@@ -83,6 +83,11 @@ function findInXML(version: string, bookFilename:string): void {
                             if (quoteSuffix === '\u0020\u200B\u2014') {
                                 str += '\u201D';
                             }
+                            // Detect quotation pattern: single-close quote > punctuation mark
+                            else if (/[^\w\s]+/.test(quoteSuffix[0])) {
+                                console.log('match found')
+                                str += '\u201D';
+                            }                          
                             else {
                                 str += char;
                             }
