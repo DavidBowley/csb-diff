@@ -120,7 +120,8 @@ function findInXML(version: string, bookFilename:string): string {
                 paragraph = str;
             }
             
-            res += '\n\n' + paragraph;
+            // Trimming helps remove random end of paragraph space seen in some books (that affects version diff)
+            res += '\n\n' + paragraph.trim();
                       
             // return false;
             }
@@ -146,8 +147,8 @@ function replaceSups($: cheerio.CheerioAPI): void {
 }
 
 
-const tempUS = findInXML('US', '41-Mark.xml');
-const tempUK = findInXML('UK', '41-Mark.xml');
+const tempUS = findInXML('US', '01-Gen.xml');
+const tempUK = findInXML('UK', '01-Gen.xml');
 
 // const tempUS = findInXML('US', '45-Rom.xml');
 // const tempUK = findInXML('UK', '45-Rom.xml');
