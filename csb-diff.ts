@@ -81,15 +81,26 @@ function findInXML(version: string, bookFilename:string): string {
                             
                             // Detect quotation pattern: single-close quote > space > zero-width space > em-dash (paranthetical thought)
                             const quoteSuffix = paragraph.slice(i+1, i+4);
+                            const quotePreSuffix = paragraph.slice(i-1, i+3);
                             // console.log(`\n\n\n***${quoteSuffix}***\n\n\n`);
                             if (quoteSuffix === '\u0020\u200B\u2014') {
+                                str += '\u201D';
+                            }
+                            // Detect quotation pattern: single-close quote > space > open OR close bracket
+                            else if (quoteSuffix.slice(0, 2) === '\u0020\u0028' || quoteSuffix.slice(0, 2) === '\u0020\u0029') {
+                                // console.log('open bracket pattern found');
                                 str += '\u201D';
                             }
                             // Detect quotation pattern: single-close quote > punctuation mark
                             else if (/[^\w\s]+/.test(quoteSuffix[0])) {
                                 // console.log('match found')
                                 str += '\u201D';
-                            }                          
+                            }
+                             // Detect quotation pattern: not an 's' character > single-close quote > space > alpha character
+                             else if (quotePreSuffix[0] !== 's' && quotePreSuffix[2] === ' ' && /^[a-zA-Z]$/.test(quotePreSuffix[3])) {
+                                // console.log('match found, quotePreSuffix is: ' + quotePreSuffix)
+                                str += '\u201D';
+                            }                             
                             else {
                                 str += char;
                             }
@@ -111,10 +122,6 @@ function findInXML(version: string, bookFilename:string): string {
             
             res += '\n\n' + paragraph;
                       
-            
-
-
-            // console.log('\n' + paragraph);
             // return false;
             }
             
@@ -139,11 +146,11 @@ function replaceSups($: cheerio.CheerioAPI): void {
 }
 
 
-// findInXML('US', '41-Mark.xml');
-// findInXML('UK', '41-Mark.xml');
+const tempUS = findInXML('US', '41-Mark.xml');
+const tempUK = findInXML('UK', '41-Mark.xml');
 
-const tempUS = findInXML('US', '45-Rom.xml');
-const tempUK = findInXML('UK', '45-Rom.xml');
+// const tempUS = findInXML('US', '45-Rom.xml');
+// const tempUK = findInXML('UK', '45-Rom.xml');
 
 // findInXML('UK', 'tempTest.xml');
 
