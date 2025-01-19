@@ -3,7 +3,7 @@ import * as cheerio from 'cheerio';
 import fs from 'node:fs';
 import path from 'node:path';
 
-function parseXML(version: 'UK' | 'US', bookFilename:string): string {
+function parseXML(version: 'UK' | 'US', bookFilename:string): string[][] | null {
     // Takes a CSB Bible book XML file and outputs a string which includes the text + verse numbers
     // Currently hard-codes in the meta data but likely this can be programmatically associated
     const bookXMLPath = path.join(__dirname, 'data', version, bookFilename);
@@ -12,7 +12,7 @@ function parseXML(version: 'UK' | 'US', bookFilename:string): string {
         bookXML = fs.readFileSync(bookXMLPath, 'utf8');
     } catch (err) {
         console.error(err);
-        return '';
+        return null;
     }
     const $ = cheerio.load(bookXML, {xml: true});
     
@@ -20,18 +20,16 @@ function parseXML(version: 'UK' | 'US', bookFilename:string): string {
     // or just space if a cross-reference etc.
     replaceSups($);
 
-    let res = '';
+    let res: string[][] = [];
     const $chapters = $('chapter');
-    res += '\n\nCSB Version: ' + version;
-    res += '\nBook: ' + bookFilename;
-    $chapters.each((i, element) => {
+    $chapters.each((chapterIndex, element) => {
         // TODO: Remove if statement once debugging complete
-        if (i !== 2) {
+        if (chapterIndex !== 2) {
             // return;
         }
         // TODO: Remove extra linebreaks once finished debugging as the final page will use CSS to handle paragraph spacing
         //       This might involve making the chapter markers programmatic in the data structure rather than hard-coding into the string
-        res += '\n\n\nChapter: ' + (i+1);
+        res.push([])
         const paragraphs = $(element).find('p');
         paragraphs.each((i, element) => {
             // TODO: Remove if statement once debugging complete
@@ -52,7 +50,9 @@ function parseXML(version: 'UK' | 'US', bookFilename:string): string {
             }
             
             // Trimming helps remove random end of paragraph space seen in some books (that affects version diff in char diff mode)
-            res += '\n\n' + paragraph.trim();
+            
+            res[chapterIndex].push(paragraph.trim());
+
             }   
         )
         }
@@ -151,8 +151,54 @@ function isSingleCloseQuote(paragraph: string, i: number): boolean {
     }
 }
 
-const tempUS = parseXML('US', '41-Mark.xml');
-const tempUK = parseXML('UK', '41-Mark.xml');
+function TestDataStructures() {
+    // Playground for data structures for output from parseXML()
+
+    const array = [ ["Chapter 1", "Paragraphs", "Go", "Here"],  ["Chapter 2", "Paragraphs", "Go", "Here"],  ]
+}
+
+function testArrayOfArrayOfStrings() {
+    const res: string[][] = []
+    for (let chapterIndex = 0; chapterIndex < 5; chapterIndex++) {
+        res.push([]);
+        for (let index = 0; index < 10; index++) {
+            res[chapterIndex].push('a string');
+            
+        }
+        
+    }
+    console.log(res);
+}
+
+function debugPrintParseXMLOutput(output: string[][]) {
+    for (let chapterIndex = 0; chapterIndex < output.length; chapterIndex++) {
+        const chapter = output[chapterIndex];
+        console.log(`\n\nChapter ${chapterIndex+1}`)
+        for (const paragraph of chapter) {
+            console.log('\n' + paragraph);
+        }
+        
+    }
+    
+    
+    for (const chapter of output) {
+        
+        
+    }
+} 
+
+
+// testArrayOfArrayOfStrings();
+
+// const tempUS = parseXML('US', '41-Mark.xml');
+const tempUK = parseXML('UK', '45-Rom.xml');
+if (tempUK !== null) {
+    debugPrintParseXMLOutput(tempUK);
+}
+
+
+
+/*
 
 try {
     fs.writeFileSync(path.join(__dirname, 'tempUS.txt'), tempUS);
@@ -160,3 +206,5 @@ try {
 } catch (err) {
     console.error(err);
 }
+
+*/
