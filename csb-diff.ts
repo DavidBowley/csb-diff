@@ -157,54 +157,29 @@ function TestDataStructures() {
     const array = [ ["Chapter 1", "Paragraphs", "Go", "Here"],  ["Chapter 2", "Paragraphs", "Go", "Here"],  ]
 }
 
-function testArrayOfArrayOfStrings() {
-    const res: string[][] = []
-    for (let chapterIndex = 0; chapterIndex < 5; chapterIndex++) {
-        res.push([]);
-        for (let index = 0; index < 10; index++) {
-            res[chapterIndex].push('a string');
-            
-        }
-        
-    }
-    console.log(res);
-}
 
-function debugPrintParseXMLOutput(output: string[][]) {
+function debugFormatWithSpacing(output: string[][]): string {
+    let res = '';
     for (let chapterIndex = 0; chapterIndex < output.length; chapterIndex++) {
         const chapter = output[chapterIndex];
-        console.log(`\n\nChapter ${chapterIndex+1}`)
+        res += `\n\n\nChapter ${chapterIndex+1}`
         for (const paragraph of chapter) {
-            console.log('\n' + paragraph);
+            res += '\n\n' + paragraph;
         }
-        
     }
-    
-    
-    for (const chapter of output) {
-        
-        
-    }
+    return res;
 } 
 
 
-// testArrayOfArrayOfStrings();
+const bookParagraphsUS = parseXML('US', '45-Rom.xml');
+const bookParagraphsUK = parseXML('UK', '45-Rom.xml');
 
-// const tempUS = parseXML('US', '41-Mark.xml');
-const tempUK = parseXML('UK', '45-Rom.xml');
-if (tempUK !== null) {
-    debugPrintParseXMLOutput(tempUK);
+if (bookParagraphsUS!== null && bookParagraphsUK !== null) {
+    try {
+        fs.writeFileSync(path.join(__dirname, 'tempUS.txt'), debugFormatWithSpacing(bookParagraphsUS));
+        fs.writeFileSync(path.join(__dirname, 'tempUK.txt'), debugFormatWithSpacing(bookParagraphsUK));
+    } catch (err) {
+        console.error(err);
+    }
 }
 
-
-
-/*
-
-try {
-    fs.writeFileSync(path.join(__dirname, 'tempUS.txt'), tempUS);
-    fs.writeFileSync(path.join(__dirname, 'tempUK.txt'), tempUK);
-} catch (err) {
-    console.error(err);
-}
-
-*/
