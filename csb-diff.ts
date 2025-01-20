@@ -27,8 +27,6 @@ function parseXML(version: 'UK' | 'US', bookFilename:string): string[][] | null 
         if (chapterIndex !== 2) {
             // return;
         }
-        // TODO: Remove extra linebreaks once finished debugging as the final page will use CSS to handle paragraph spacing
-        //       This might involve making the chapter markers programmatic in the data structure rather than hard-coding into the string
         res.push([])
         const paragraphs = $(element).find('p');
         paragraphs.each((i, element) => {
@@ -50,9 +48,7 @@ function parseXML(version: 'UK' | 'US', bookFilename:string): string[][] | null 
             }
             
             // Trimming helps remove random end of paragraph space seen in some books (that affects version diff in char diff mode)
-            
             res[chapterIndex].push(paragraph.trim());
-
             }   
         )
         }
@@ -149,12 +145,6 @@ function isSingleCloseQuote(paragraph: string, i: number): boolean {
     else {
         return false;
     }
-}
-
-function TestDataStructures() {
-    // Playground for data structures for output from parseXML()
-
-    const array = [ ["Chapter 1", "Paragraphs", "Go", "Here"],  ["Chapter 2", "Paragraphs", "Go", "Here"],  ]
 }
 
 
