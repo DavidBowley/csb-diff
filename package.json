@@ -1,10 +1,14 @@
 {
   "devDependencies": {
+    "@types/diff": "^7.0.0",
     "@types/node": "^22.10.5",
     "typescript": "^5.7.2"
   },
   "dependencies": {
     "axios": "^1.7.9",
-    "cheerio": "^1.0.0"
+    "cheerio": "^1.0.0",
+    "colors": "^1.4.0",
+    "colorts": "^0.1.63",
+    "diff": "^7.0.0"
   }
 }
