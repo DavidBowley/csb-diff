@@ -1,4 +1,7 @@
 import * as cheerio from 'cheerio';
+import * as Diff from 'diff';
+
+import 'colorts/lib/string';
 
 import fs from 'node:fs';
 import path from 'node:path';
@@ -160,16 +163,65 @@ function debugFormatWithSpacing(output: string[][]): string {
     return res;
 } 
 
+function debugTestOutputToFile() {
+    // Outputs a string with lots of line breaks for readability to a test file for debugging
+    const bookParagraphsUS = parseXML('US', '45-Rom.xml');
+    const bookParagraphsUK = parseXML('UK', '45-Rom.xml');
 
-const bookParagraphsUS = parseXML('US', '45-Rom.xml');
-const bookParagraphsUK = parseXML('UK', '45-Rom.xml');
-
-if (bookParagraphsUS!== null && bookParagraphsUK !== null) {
-    try {
-        fs.writeFileSync(path.join(__dirname, 'tempUS.txt'), debugFormatWithSpacing(bookParagraphsUS));
-        fs.writeFileSync(path.join(__dirname, 'tempUK.txt'), debugFormatWithSpacing(bookParagraphsUK));
-    } catch (err) {
-        console.error(err);
+    if (bookParagraphsUS!== null && bookParagraphsUK !== null) {
+        try {
+            fs.writeFileSync(path.join(__dirname, 'tempUS.txt'), debugFormatWithSpacing(bookParagraphsUS));
+            fs.writeFileSync(path.join(__dirname, 'tempUK.txt'), debugFormatWithSpacing(bookParagraphsUK));
+        } catch (err) {
+            console.error(err);
+        }
     }
+}
+
+const one = 'This is a test, this is a test';
+const other = 'This is a test, we added something';
+
+const diff = Diff.diffWords(one, other);
+let htmlFragment = '';
+
+diff.forEach((part) => {
+    // TODO: this might need to be inside a <pre> to preserve two white space next to each other
+    // TODO: add a simple accessibility alternative in the form of off-screen text for the colors
+    // TODO: confirm that the colors are 3:1 difference away from all 3, otherwise it fails 1.4.1
+    // TODO: also check colors against the background colors
+    const color = part.added ? 'diff-green' : part.removed ? 'diff-red' : 'diff-grey';
+    if (part.added) {
+        htmlFragment += '<ins>' + part.value + '</ins>\n';
+    }
+    else if (part.removed) {
+        htmlFragment += '<del>' + part.value + '</del>\n';
+    }
+    else {
+        htmlFragment += '<span>' + part.value + '</span>\n';
+    }
+});
+
+const boilerplateHtmlStart = 
+`<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>HTML 5 Boilerplate</title>
+    <link rel="stylesheet" href="testDiffStyle.css">
+  </head>
+  <body>
+`
+const boilerplateHtmlEnd = 
+`  </body>
+</html>`
+
+const outputFile = boilerplateHtmlStart + htmlFragment + boilerplateHtmlEnd;
+
+try {
+    fs.writeFileSync(path.join(__dirname, 'testDiff.html'), outputFile);
+} catch (err) {
+    console.error(err);
 }
 
