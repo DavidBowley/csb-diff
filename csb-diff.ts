@@ -178,28 +178,45 @@ function debugTestOutputToFile() {
     }
 }
 
-const one = 'This is a test, this is a test';
-const other = 'This is a test, we added something';
+function csbDiffVersions(usVersion: string[][], ukVersion: string[][]): string {
+    let res = '';
+    for (let chapterIndex = 0; chapterIndex < usVersion.length; chapterIndex++) {
+        const usChapter = usVersion[chapterIndex];
+        const ukChapter = ukVersion[chapterIndex];
+        for (let paragraphIndex = 0; paragraphIndex < usChapter.length; paragraphIndex++) {
+            res += '  <p>\n' + diffWords(usChapter[paragraphIndex], ukChapter[paragraphIndex], 4) + '\n  </p>\n';
+        }
+    }
+    return res;
+} 
 
-const diff = Diff.diffWords(one, other);
-let htmlFragment = '';
+function diffWords(s1: string, s2:string, indent=0): string {
+    // Uses jsdiff to compare two strings using diffWords
+    // indent = sets the number of indent spaces for cleaner output files
+    // Returns a HTML fragment as a string
+    const diff = Diff.diffWords(s1, s2);
+    let res = '';
 
-diff.forEach((part) => {
-    // TODO: this might need to be inside a <pre> to preserve two white space next to each other
-    // TODO: add a simple accessibility alternative in the form of off-screen text for the colors
-    // TODO: confirm that the colors are 3:1 difference away from all 3, otherwise it fails 1.4.1
-    // TODO: also check colors against the background colors
-    const color = part.added ? 'diff-green' : part.removed ? 'diff-red' : 'diff-grey';
-    if (part.added) {
-        htmlFragment += '<ins>' + part.value + '</ins>\n';
-    }
-    else if (part.removed) {
-        htmlFragment += '<del>' + part.value + '</del>\n';
-    }
-    else {
-        htmlFragment += '<span>' + part.value + '</span>\n';
-    }
-});
+    diff.forEach((part) => {
+        // TODO: this might need to be inside a <pre> to preserve two white space next to each other
+        // TODO: add a simple accessibility alternative in the form of off-screen text for the colors
+        // TODO: confirm that the colors are 3:1 difference away from all 3, otherwise it fails 1.4.1
+        // TODO: also check colors against the background colors
+        
+        
+        if (part.added) {
+            res += ' '.repeat(indent) + '<ins>' + part.value + '</ins>\n';
+        }
+        else if (part.removed) {
+            res += ' '.repeat(indent) + '<del>' + part.value + '</del>\n';
+        }
+        else {
+            res += ' '.repeat(indent) + '<span>' + part.value + '</span>\n';
+        }
+    });
+    return res.trimEnd();
+}
+
 
 const boilerplateHtmlStart = 
 `<!DOCTYPE html>
@@ -217,11 +234,20 @@ const boilerplateHtmlEnd =
 `  </body>
 </html>`
 
-const outputFile = boilerplateHtmlStart + htmlFragment + boilerplateHtmlEnd;
 
-try {
-    fs.writeFileSync(path.join(__dirname, 'testDiff.html'), outputFile);
-} catch (err) {
-    console.error(err);
+const bookParagraphsUS = parseXML('US', '45-Rom.xml');
+const bookParagraphsUK = parseXML('UK', '45-Rom.xml');
+
+if (bookParagraphsUS!== null && bookParagraphsUK !== null) {
+    const htmlFragment = csbDiffVersions(bookParagraphsUS, bookParagraphsUK);
+    const outputFile = boilerplateHtmlStart + htmlFragment + boilerplateHtmlEnd;
+
+    try {
+        fs.writeFileSync(path.join(__dirname, 'testDiff.html'), outputFile);
+    } catch (err) {
+        console.error(err);
+    }
 }
+
+
 
