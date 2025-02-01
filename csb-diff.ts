@@ -7,8 +7,8 @@ import fs from 'node:fs';
 import path from 'node:path';
 
 function parseXML(version: 'UK' | 'US', bookFilename:string): string[][] | null {
-    // Takes a CSB Bible book XML file and outputs a string which includes the text + verse numbers
-    // Currently hard-codes in the meta data but likely this can be programmatically associated
+    // Takes a CSB Bible book XML file and outputs an array (book) of arrays (chapters) of strings 
+    // (paragraphs) which includes the text + verse numbers
     const bookXMLPath = path.join(__dirname, 'data', version, bookFilename);
     let bookXML: string;
     try {
@@ -178,14 +178,16 @@ function debugTestOutputToFile() {
     }
 }
 
-function csbDiffVersions(usVersion: string[][], ukVersion: string[][]): string {
-    let res = '';
+function csbDiffVersions(usVersion: string[][], ukVersion: string[][]): string[] {
+    let res: string[] = [];
     for (let chapterIndex = 0; chapterIndex < usVersion.length; chapterIndex++) {
         const usChapter = usVersion[chapterIndex];
         const ukChapter = ukVersion[chapterIndex];
+        let chapterString = '';
         for (let paragraphIndex = 0; paragraphIndex < usChapter.length; paragraphIndex++) {
-            res += '  <p>\n' + diffWords(usChapter[paragraphIndex], ukChapter[paragraphIndex], 4) + '\n  </p>\n';
+            chapterString += '  <p>\n' + diffWords(usChapter[paragraphIndex], ukChapter[paragraphIndex], 4) + '\n  </p>\n';
         }
+        res.push(chapterString);
     }
     return res;
 } 
@@ -238,7 +240,14 @@ const bookParagraphsUS = parseXML('US', '45-Rom.xml');
 const bookParagraphsUK = parseXML('UK', '45-Rom.xml');
 
 if (bookParagraphsUS!== null && bookParagraphsUK !== null) {
-    const htmlFragment = csbDiffVersions(bookParagraphsUS, bookParagraphsUK);
+    const bookDiff = csbDiffVersions(bookParagraphsUS, bookParagraphsUK);
+    let htmlFragment = '';
+
+    for (let i = 0; i < bookDiff.length; i++) {
+        const chapter = bookDiff[i];
+        htmlFragment += chapter;
+    }
+    
     const outputFile = boilerplateHtmlStart + htmlFragment + boilerplateHtmlEnd;
 
     try {
@@ -246,7 +255,5 @@ if (bookParagraphsUS!== null && bookParagraphsUK !== null) {
     } catch (err) {
         console.error(err);
     }
+
 }
-
-
-
