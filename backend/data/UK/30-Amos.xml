@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="csb.xsd" id="bk.30">
+	<bookname>Amos</bookname>
+	<chapter id="amos.1" display="1">
+	<p type="noind"><verse reference="amos.1.1" display-number="1"><sup class="verse-ref" id="amos.1.1">1</sup>The words of Amos, who was one of the sheep breeders<sup class="translate-note"><a href="#" data-toggle="popover" title="1:1" data-content=" Or 'the shepherds'"><i class="translate-note-icon"></i></a></sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="1:1" data-content=" 2Kg 3:4; Am 7:14&#8211;15"><i class="cross-ref-icon"></i></a></sup> from Tekoa<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:1" data-content=" 2Sm 14:2; Jr 6:1"><i class="cross-ref-icon"></i></a></sup>&#8201;&#x200B;&#8211;&#8201;&#x200B;what he saw regarding Israel in the days of King Uzziah<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:1" data-content=" 2Kg 15:1&#8211;7; 2Ch 26:1&#8211;23; Is 1:1; Hs 1:1"><i class="cross-ref-icon"></i></a></sup> of Judah and Jeroboam<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:1" data-content=" 2Kg 14:23&#8211;29"><i class="cross-ref-icon"></i></a></sup> son of Jehoash, king of Israel, two years before the earthquake.<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:1" data-content=" Zch 14:5"><i class="cross-ref-icon"></i></a></sup></verse></p>
+	<p><verse reference="amos.1.2" display-number="2"><sup class="verse-ref" id="amos.1.2">2</sup>He said:</verse></p>
+	<poetryblock>
+		<poem>The <span class="smallcaps">Lord</span> roars<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:2" data-content=" Is 42:13; Jr 25:30; Jl 3:16; Am 3:8"><i class="cross-ref-icon"></i></a></sup> from&#160;Zion</poem>
+		<poem>and makes his&#160;voice heard from&#160;Jerusalem;</poem>
+		<poem>the pastures of&#160;the&#160;shepherds&#160;mourn,<sup class="translate-note"><a href="#" data-toggle="popover" title="1:2" data-content=" Or 'dry up'"><i class="translate-note-icon"></i></a></sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="1:2" data-content=" Is 24:4&#8211;7; Jr 12:4; 23:10; Jl 1:10,18&#8211;19"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>and the summit of&#160;Carmel<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:2" data-content=" Am 9:3"><i class="cross-ref-icon"></i></a></sup>&#160;withers.</poem>
+	</poetryblock>
+	<head1>Judgement on Israel&#8217;s Neighbours</head1>
+	<p type="noind"><verse reference="amos.1.3" display-number="3"><sup class="verse-ref" id="amos.1.3">3</sup>The <span class="smallcaps">Lord</span> says:</verse></p>
+	<poetryblock>
+		<poem>I will not relent from&#160;punishing&#160;Damascus<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:3" data-content=" Is 17:1&#8211;3"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>for three crimes, even&#160;four,<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:3" data-content=" Pr 30:15&#8211;29; Am 2:1,4,6"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>because they threshed Gilead with&#160;iron&#160;sledges.</poem>
+		<poem><verse reference="amos.1.4" display-number="4"><sup class="verse-ref" id="amos.1.4">4</sup>Therefore, I will send fire against&#160;Hazael&#8217;s&#160;palace,</verse></poem>
+		<poem>and it will consume Ben-hadad&#8217;s<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:4" data-content=" 2Kg 8:11&#8211;15; 13:3,22,24"><i class="cross-ref-icon"></i></a></sup>&#160;citadels.</poem>
+		<poem><verse reference="amos.1.5" display-number="5"><sup class="verse-ref" id="amos.1.5">5</sup>I will break down the&#160;gates<sup class="translate-note"><a href="#" data-toggle="popover" title="1:5" data-content=" Lit 'gate bars'"><i class="translate-note-icon"></i></a></sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="1:5" data-content=" Gn 22:17; Neh 1:3; Lm 2:9; Hs 11:6; Nah 3:13"><i class="cross-ref-icon"></i></a></sup> of&#160;Damascus.</verse></poem>
+		<poem>I will cut off the ruler from&#160;the&#160;Valley&#160;of&#160;Aven,</poem>
+		<poem>and the one who wields the&#160;sceptre from&#160;Beth-eden.</poem>
+		<poem>The people of Aram will&#160;be&#160;exiled to&#160;Kir.<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:5" data-content=" 2Kg 16:9; Am 9:7"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>The <span class="smallcaps">Lord</span> has spoken.</poem>
+	</poetryblock>
+	<p><verse reference="amos.1.6" display-number="6"><sup class="verse-ref" id="amos.1.6">6</sup>The <span class="smallcaps">Lord</span> says:</verse></p>
+	<poetryblock>
+		<poem>I will not relent from&#160;punishing&#160;Gaza<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:6" data-content=" Jr 47:1,4&#8211;5; Ezk 25:15&#8211;17"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>for three crimes, even&#160;four,</poem>
+		<poem>because they exiled a&#160;whole&#160;community,</poem>
+		<poem>handing them over to&#160;Edom.</poem>
+		<poem><verse reference="amos.1.7" display-number="7"><sup class="verse-ref" id="amos.1.7">7</sup>Therefore, I will send fire against&#160;the&#160;walls of&#160;Gaza,</verse></poem>
+		<poem>and it will consume its&#160;citadels.</poem>
+		<poem><verse reference="amos.1.8" display-number="8"><sup class="verse-ref" id="amos.1.8">8</sup>I will cut off the&#160;ruler from&#160;Ashdod,<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:8" data-content=" 2Ch 26:6; Am 3:9; Zch 9:6"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>and the one who wields the&#160;sceptre from&#160;Ashkelon.<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:8" data-content=" Jr 47:5; Zph 2:4"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>I will also turn my&#160;hand against&#160;Ekron,</poem>
+		<poem>and the remainder of&#160;the&#160;Philistines<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:8" data-content=" Is 14:29&#8211;31; Ezk 25:16"><i class="cross-ref-icon"></i></a></sup> will&#160;perish.</poem>
+		<poem>The Lord <span class="smallcaps">God</span> has spoken.</poem>
+	</poetryblock>
+	<p><verse reference="amos.1.9" display-number="9"><sup class="verse-ref" id="amos.1.9">9</sup>The <span class="smallcaps">Lord</span> says:</verse></p>
+	<poetryblock>
+		<poem>I will not relent from&#160;punishing&#160;Tyre<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:9" data-content=" Is 23; Ezk 26:1&#8211;28:19"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>for three crimes, even&#160;four,</poem>
+		<poem>because they handed&#160;over</poem>
+		<poem>a whole community of&#160;exiles to&#160;Edom</poem>
+		<poem>and broke<sup class="translate-note"><a href="#" data-toggle="popover" title="1:9" data-content=" Lit 'and did not remember'"><i class="translate-note-icon"></i></a></sup> a&#160;treaty of&#160;brotherhood.<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:9" data-content=" 1Kg 5:1,12; 9:11&#8211;14"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem><verse reference="amos.1.10" display-number="10"><sup class="verse-ref" id="amos.1.10">10</sup>Therefore, I will send fire<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:10" data-content=" Zch 9:4"><i class="cross-ref-icon"></i></a></sup> against&#160;the&#160;walls of&#160;Tyre,</verse></poem>
+		<poem>and it will consume its&#160;citadels.</poem>
+	</poetryblock>
+	<p><verse reference="amos.1.11" display-number="11"><sup class="verse-ref" id="amos.1.11">11</sup>The <span class="smallcaps">Lord</span> says:</verse></p>
+	<poetryblock>
+		<poem>I will not relent from&#160;punishing&#160;Edom<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:11" data-content=" Jr 49:8&#8211;22; Ezk 25:12&#8211;14"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>for three crimes, even&#160;four,</poem>
+		<poem>because he pursued his&#160;brother with&#160;the&#160;sword.<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:11" data-content=" Nm 20:14; Dt 2:4; 23:7; Ob 10&#8211;14"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>He stifled his&#160;compassion,</poem>
+		<poem>his anger tore at&#160;him<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:11" data-content=" Gn 37:33; Ps 7:2; Hs 5:14"><i class="cross-ref-icon"></i></a></sup>&#160;continually,</poem>
+		<poem>and he harboured his&#160;rage&#160;incessantly.</poem>
+		<poem><verse reference="amos.1.12" display-number="12"><sup class="verse-ref" id="amos.1.12">12</sup>Therefore, I will send fire against&#160;Teman,<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:12" data-content=" Jr 49:7,20"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>and it will consume the&#160;citadels of&#160;Bozrah.</poem>
+	</poetryblock>
+	<p><verse reference="amos.1.13" display-number="13"><sup class="verse-ref" id="amos.1.13">13</sup>The <span class="smallcaps">Lord</span> says:</verse></p>
+	<poetryblock>
+		<poem>I will not relent from&#160;punishing the&#160;Ammonites<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:13" data-content=" Jr 49:1&#8211;6; Ezk 25:1&#8211;7; Zph 2:8&#8211;11"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>for three crimes, even&#160;four,</poem>
+		<poem>because they ripped&#160;open</poem>
+		<poem>the pregnant women of&#160;Gilead<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:13" data-content=" 2Kg 8:12; 15:16; Hs 13:16"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>in order to enlarge their&#160;territory.<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:13" data-content=" Is 5:8; Ezk 35:10"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem><verse reference="amos.1.14" display-number="14"><sup class="verse-ref" id="amos.1.14">14</sup>Therefore, I will set fire to&#160;the&#160;walls of&#160;Rabbah,<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:14" data-content=" 1Ch 20:1; Jr 49:2"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>and it will consume its&#160;citadels.</poem>
+		<poem>There will be shouting on&#160;the&#160;day of&#160;battle<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:14" data-content=" Ezk 21:22; Am 2:2"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>and a violent wind on&#160;the&#160;day of&#160;the&#160;storm.<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:14" data-content=" Is 29:6; 30:30"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem><verse reference="amos.1.15" display-number="15"><sup class="verse-ref" id="amos.1.15">15</sup>Their king and&#160;his&#160;princes</verse></poem>
+		<poem>will go into exile together.<sup class="cross-ref"><a href="#" data-toggle="popover" title="1:15" data-content=" Jr 49:3"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>The <span class="smallcaps">Lord</span> has spoken.</poem>
+	</poetryblock>
+	</chapter>
+	<chapter id="amos.2" display="2">
+	<p type="noind"><verse reference="amos.2.1" display-number="1"><sup class="verse-ref" id="amos.2.1">1</sup>The <span class="smallcaps">Lord</span> says:</verse></p>
+	<poetryblock>
+		<poem>I will not relent from&#160;punishing&#160;Moab<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:1" data-content=" Is 15&#8211;16; Jr 48; Ezk 25:8&#8211;11"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>for three crimes, even&#160;four,</poem>
+		<poem>because he burned the bones</poem>
+		<poem>of the king of&#160;Edom to&#160;lime.<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:1" data-content=" Lv 20:14; 21:9"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem><verse reference="amos.2.2" display-number="2"><sup class="verse-ref" id="amos.2.2">2</sup>Therefore, I will send fire against&#160;Moab,</verse></poem>
+		<poem>and it will consume the&#160;citadels of&#160;Kerioth.<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:2" data-content=" Jr 48:24,41"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>Moab will die with&#160;a&#160;tumult,<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:2" data-content=" Jr 48:45"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>with shouting and&#160;the&#160;sound of&#160;the&#160;ram&#8217;s&#160;horn.</poem>
+		<poem><verse reference="amos.2.3" display-number="3"><sup class="verse-ref" id="amos.2.3">3</sup>I will cut off the judge<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:3" data-content=" Ps 2:10; 141:6"><i class="cross-ref-icon"></i></a></sup> from&#160;the&#160;land</verse></poem>
+		<poem>and kill all its officials<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:3" data-content=" Jb 12:21; Is 40:23"><i class="cross-ref-icon"></i></a></sup> with&#160;him.</poem>
+		<poem>The <span class="smallcaps">Lord</span> has spoken.</poem>
+	</poetryblock>
+	<head1>Judgement on Judah</head1>
+	<p type="noind"><verse reference="amos.2.4" display-number="4"><sup class="verse-ref" id="amos.2.4">4</sup>The <span class="smallcaps">Lord</span> says:</verse></p>
+	<poetryblock>
+		<poem>I will not relent from&#160;punishing&#160;Judah<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:4" data-content=" 2Kg 17:19; Hs 2:12; Am 3:2"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>for three crimes, even&#160;four,</poem>
+		<poem>because they have rejected the&#160;instruction of&#160;the&#160;<span class="smallcaps">Lord</span><sup class="cross-ref"><a href="#" data-toggle="popover" title="2:4" data-content=" Jdg 2:17&#8211;20; 2Kg 22:11&#8211;17; Jr 6:19; 8:9"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>and have not kept his&#160;statutes.<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:4" data-content=" Jr 44:10; Ezk 5:7"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>The lies<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:4" data-content=" Is 9:15&#8211;16; Jr 11:10&#8211;13; 23:14,21&#8211;22"><i class="cross-ref-icon"></i></a></sup> that their&#160;ancestors&#160;followed<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:4" data-content=" Jr 9:14; 16:11&#8211;12; Ezk 20:18,24,30"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>have led them astray.</poem>
+		<poem><verse reference="amos.2.5" display-number="5"><sup class="verse-ref" id="amos.2.5">5</sup>Therefore, I will send fire<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:5" data-content=" Jr 17:27; 21:10"><i class="cross-ref-icon"></i></a></sup> against&#160;Judah,</verse></poem>
+		<poem>and it will consume the&#160;citadels of&#160;Jerusalem.</poem>
+	</poetryblock>
+	<head1>Judgement on Israel</head1>
+	<p type="noind"><verse reference="amos.2.6" display-number="6"><sup class="verse-ref" id="amos.2.6">6</sup>The <span class="smallcaps">Lord</span> says:</verse></p>
+	<poetryblock>
+		<poem>I will not relent from&#160;punishing&#160;Israel<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:6" data-content=" 2Kg 18:12"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>for three crimes, even&#160;four,</poem>
+		<poem>because they sell a&#160;righteous&#160;person for&#160;silver</poem>
+		<poem>and a needy person for&#160;a&#160;pair of&#160;sandals.<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:6" data-content=" Dt 16:18&#8211;20; Am 5:12; 8:6"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem><verse reference="amos.2.7" display-number="7"><sup class="verse-ref" id="amos.2.7">7</sup>They trample the heads of&#160;the&#160;poor<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:7" data-content=" Am 5:11; 8:4; Mc 2:2,9"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>on the dust of&#160;the&#160;ground</poem>
+		<poem>and obstruct the path of&#160;the&#160;needy.<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:7" data-content=" Jb 24:4"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>A man and his father have&#160;sexual&#160;relations</poem>
+		<poem>with the&#160;same&#160;girl,<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:7" data-content=" Hs 4:14"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>profaning my holy name.<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:7" data-content=" Lv 18:21; Pr 30:9; Ezk 36:20&#8211;23"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem><verse reference="amos.2.8" display-number="8"><sup class="verse-ref" id="amos.2.8">8</sup>They stretch out beside every&#160;altar<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:8" data-content=" Am 3:14"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>on garments taken as&#160;collateral,<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:8" data-content=" Ex 22:26"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>and in the house of&#160;their&#160;God</poem>
+		<poem>they drink wine obtained through&#160;fines.<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:8" data-content=" Am 4:1; 6:6"><i class="cross-ref-icon"></i></a></sup></poem>
+	</poetryblock>
+	<poetryblock>
+		<poem><verse reference="amos.2.9" display-number="9"><sup class="verse-ref" id="amos.2.9">9</sup>Yet I destroyed the Amorite<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:9" data-content=" Jos 10:12"><i class="cross-ref-icon"></i></a></sup> as&#160;Israel&#160;advanced;</verse></poem>
+		<poem>his height<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:9" data-content=" Nm 13:28&#8211;33"><i class="cross-ref-icon"></i></a></sup> was like&#160;the&#160;cedars,</poem>
+		<poem>and he was as sturdy as&#160;the&#160;oaks;</poem>
+		<poem>I destroyed his fruit<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:9" data-content=" Ezk 17:9; Mal 4:1"><i class="cross-ref-icon"></i></a></sup> above and&#160;his&#160;roots&#160;beneath.</poem>
+		<poem><verse reference="amos.2.10" display-number="10"><sup class="verse-ref" id="amos.2.10">10</sup>And I brought you from&#160;the&#160;land of&#160;Egypt<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:10" data-content=" Ex 20:2; Am 3:1; 9:7"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>and led you forty years in&#160;the&#160;wilderness<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:10" data-content=" Dt 2:7"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>in order to possess the&#160;land of&#160;the&#160;Amorite.<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:10" data-content=" Nm 21:25"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem><verse reference="amos.2.11" display-number="11"><sup class="verse-ref" id="amos.2.11">11</sup>I raised up some of&#160;your&#160;sons as&#160;prophets<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:11" data-content=" Dt 18:18&#8211;19; Jr 1:4&#8211;5; Am 7:14&#8211;15"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>and some of your young men as&#160;Nazirites.<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:11" data-content=" Nm 6:1&#8211;21; Jdg 13:2&#8211;5; 1Sm 1:11"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>Is this not the&#160;case,&#160;Israelites?</poem>
+	</poetryblock>
+	<p type="right">This&#160;is the&#160;<span class="smallcaps">Lord</span>&#8217;s&#160;declaration.</p>
+	<poetryblock>
+		<poem><verse reference="amos.2.12" display-number="12"><sup class="verse-ref" id="amos.2.12">12</sup>But you made the&#160;Nazirites drink&#160;wine</verse></poem>
+		<poem>and commanded the&#160;prophets,</poem>
+		<poem>&#8216;Do not prophesy.&#8217;<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:12" data-content=" Jr 11:21; Am 7:13,16"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem><verse reference="amos.2.13" display-number="13"><sup class="verse-ref" id="amos.2.13">13</sup>Look, I am about to&#160;crush<sup class="translate-note"><a href="#" data-toggle="popover" title="2:13" data-content=" Or 'hinder'&#8201;; Hb obscure"><i class="translate-note-icon"></i></a></sup>&#160;you in&#160;your&#160;place<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:13" data-content=" Jl 3:13"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>as a cart crushes&#160;when full of&#160;grain.</poem>
+		<poem><verse reference="amos.2.14" display-number="14"><sup class="verse-ref" id="amos.2.14">14</sup>Escape will fail the&#160;swift,<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:14" data-content=" Is 30:16&#8211;17"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>the strong one will not maintain&#160;his&#160;strength,<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:14" data-content=" Jr 9:23"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>and the warrior will not save his&#160;life.</poem>
+		<poem><verse reference="amos.2.15" display-number="15"><sup class="verse-ref" id="amos.2.15">15</sup>The archer will not stand his&#160;ground,<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:15" data-content=" Jr 51:56; Ezk 39:3"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>the one who is swift of&#160;foot</poem>
+		<poem>will not save&#160;himself,</poem>
+		<poem>and the one riding a&#160;horse will&#160;not save his&#160;life.<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:15" data-content=" Is 31:3"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem><verse reference="amos.2.16" display-number="16"><sup class="verse-ref" id="amos.2.16">16</sup>Even the most courageous of&#160;the&#160;warriors</verse></poem>
+		<poem>will flee naked on&#160;that&#160;day<sup class="cross-ref"><a href="#" data-toggle="popover" title="2:16" data-content=" Jdg 4:17"><i class="cross-ref-icon"></i></a></sup>&#8201;&#8211;</poem>
+	</poetryblock>
+	<p type="right">this is the&#160;<span class="smallcaps">Lord</span>&#8217;s&#160;declaration.</p>
+	</chapter>
+	<chapter id="amos.3" display="3">
+	<head1>God&#8217;s Reasons for Punishing Israel</head1>
+	<p type="noind"><verse reference="amos.3.1" display-number="1"><sup class="verse-ref" id="amos.3.1">1</sup>Listen to this message that the <span class="smallcaps">Lord</span> has spoken against you, Israelites, against the entire clan that I brought from the land of Egypt:<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:1" data-content=" Am 2:10"><i class="cross-ref-icon"></i></a></sup></verse></p>
+	<poetryblock>
+		<poem><verse reference="amos.3.2" display-number="2"><sup class="verse-ref" id="amos.3.2">2</sup>I have known only&#160;you<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:2" data-content=" Ex 19:5&#8211;6; Dt 4:32&#8211;37"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>out of all the clans of&#160;the&#160;earth;</poem>
+		<poem>therefore, I will punish&#160;you for&#160;all your&#160;iniquities.<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:2" data-content=" Jr 14:10; Ezk 20:36; Dn 9:12"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem><verse reference="amos.3.3" display-number="3"><sup class="verse-ref" id="amos.3.3">3</sup>Can two walk together<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:3" data-content=" Lv 26:23&#8211;24"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>without agreeing to&#160;meet?</poem>
+		<poem><verse reference="amos.3.4" display-number="4"><sup class="verse-ref" id="amos.3.4">4</sup>Does a lion roar<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:4" data-content=" Ps 104:21; Hs 5:14; 11:10"><i class="cross-ref-icon"></i></a></sup> in&#160;the&#160;forest</verse></poem>
+		<poem>when it has no&#160;prey?</poem>
+		<poem>Does a young lion growl from&#160;its&#160;lair</poem>
+		<poem>unless it has captured&#160;something?</poem>
+		<poem><verse reference="amos.3.5" display-number="5"><sup class="verse-ref" id="amos.3.5">5</sup>Does a bird land in&#160;a&#160;trap on&#160;the&#160;ground</verse></poem>
+		<poem>if there is no bait for&#160;it?</poem>
+		<poem>Does a trap spring from&#160;the&#160;ground</poem>
+		<poem>when it has caught&#160;nothing?</poem>
+		<poem><verse reference="amos.3.6" display-number="6"><sup class="verse-ref" id="amos.3.6">6</sup>If a ram&#8217;s horn<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:6" data-content=" Jr 4:5,19,21; 6:1; Hs 5:8; Zph 1:16"><i class="cross-ref-icon"></i></a></sup> is&#160;blown in&#160;a&#160;city,</verse></poem>
+		<poem>aren&#8217;t people afraid?<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:6" data-content=" Nm 10:9; Jr 4:19; Jl 2:1"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>If a disaster<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:6" data-content=" Is 14:24&#8211;27; 45:7"><i class="cross-ref-icon"></i></a></sup> occurs in&#160;a&#160;city,</poem>
+		<poem>hasn&#8217;t the <span class="smallcaps">Lord</span> done&#160;it?<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:6" data-content=" Lm 3:37&#8211;39"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem><verse reference="amos.3.7" display-number="7"><sup class="verse-ref" id="amos.3.7">7</sup>Indeed, the Lord <span class="smallcaps">God</span> does&#160;nothing</verse></poem>
+		<poem>without revealing his&#160;counsel</poem>
+		<poem>to his servants the&#160;prophets.<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:7" data-content=" Gn 18:17; Jr 23:18,22; Jnh 1:2"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem><verse reference="amos.3.8" display-number="8"><sup class="verse-ref" id="amos.3.8">8</sup>A lion has roared;<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:8" data-content=" Am 1:2"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>who will not fear?</poem>
+		<poem>The Lord <span class="smallcaps">God</span> has&#160;spoken;<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:8" data-content=" Jnh 1:1&#8211;3; 3:1&#8211;3"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>who will not prophesy?<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:8" data-content=" Jr 6:10&#8211;11; 20:9"><i class="cross-ref-icon"></i></a></sup></poem>
+	</poetryblock>
+	<poetryblock>
+		<poem><verse reference="amos.3.9" display-number="9"><sup class="verse-ref" id="amos.3.9">9</sup>Proclaim on the citadels in&#160;Ashdod<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:9" data-content=" 1Sm 5:1; Am 1:8"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>and on the citadels in the&#160;land of&#160;Egypt:</poem>
+		<poem>Assemble on the mountains of&#160;Samaria,<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:9" data-content=" Am 4:1; 6:1"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>and see the great turmoil in&#160;the&#160;city</poem>
+		<poem>and the acts of oppression within&#160;it.<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:9" data-content=" Am 5:11; 6:8"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem><verse reference="amos.3.10" display-number="10"><sup class="verse-ref" id="amos.3.10">10</sup>The people are incapable of&#160;doing&#160;right<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:10" data-content=" Ps 14:4; Jr 4:22; Am 5:7; 6:12"><i class="cross-ref-icon"></i></a></sup>&#8201;&#8211;</verse></poem>
+		<poem type="right">this is the&#160;<span class="smallcaps">Lord</span>&#8217;s&#160;declaration&#8201;&#8211;</poem>
+		<poem>those who store up violence and&#160;destruction<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:10" data-content=" Hab 2:8&#8211;10; Zph 1:9; Zch 5:3&#8211;4"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>in their citadels.</poem>
+	</poetryblock>
+	<p type="noind"><verse reference="amos.3.11" display-number="11"><sup class="verse-ref" id="amos.3.11">11</sup>Therefore, the Lord <span class="smallcaps">God</span> says:</verse></p>
+	<poetryblock>
+		<poem>An enemy<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:11" data-content=" Am 6:14"><i class="cross-ref-icon"></i></a></sup> will surround the&#160;land;</poem>
+		<poem>he will destroy<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:11" data-content=" Am 2:14"><i class="cross-ref-icon"></i></a></sup> your&#160;strongholds</poem>
+		<poem>and plunder your&#160;citadels.<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:11" data-content=" 2Kg 17:5&#8211;6; 18:9&#8211;12"><i class="cross-ref-icon"></i></a></sup></poem>
+	</poetryblock>
+	<p><verse reference="amos.3.12" display-number="12"><sup class="verse-ref" id="amos.3.12">12</sup>The <span class="smallcaps">Lord</span> says:</verse></p>
+	<poetryblock>
+		<poem>As the shepherd snatches two&#160;legs</poem>
+		<poem>or a piece of&#160;an&#160;ear</poem>
+		<poem>from the lion&#8217;s&#160;mouth,<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:12" data-content=" 1Sm 17:34&#8211;37"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>so the Israelites who&#160;live in&#160;Samaria</poem>
+		<poem>will be&#160;rescued</poem>
+		<poem>with only the corner of&#160;a&#160;bed<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:12" data-content=" Ps 132:3"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>or the<sup class="translate-note"><a href="#" data-toggle="popover" title="3:12" data-content=" Or 'Israelites will be rescued, those who sit in Samaria on a corner of a bed or a'"><i class="translate-note-icon"></i></a></sup> cushion<sup class="translate-note"><a href="#" data-toggle="popover" title="3:12" data-content=" Hb obscure"><i class="translate-note-icon"></i></a></sup> of&#160;a&#160;couch.<sup class="alt-reading-note"><a href="#" data-toggle="popover" title="3:12" data-content=" LXX, Aq, Sym, Theod, Syr, Tg, Vg read 'or in Damascus'"><i class="reading-note-icon"></i></a></sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="3:12" data-content=" Est 1:6; 7:8; Am 6:4"><i class="cross-ref-icon"></i></a></sup></poem>
+	</poetryblock>
+	<poetryblock>
+		<poem><verse reference="amos.3.13" display-number="13"><sup class="verse-ref" id="amos.3.13">13</sup>Listen and testify<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:13" data-content=" Ezk 2:7"><i class="cross-ref-icon"></i></a></sup> against&#160;the&#160;house of&#160;Jacob&#8201;&#8211;</verse></poem>
+		<poem type="right">this&#160;is the&#160;declaration of&#160;the&#160;Lord <span class="smallcaps">God</span>,</poem>
+		<poem type="right">the&#160;God of&#160;Armies.</poem>
+		<poem><verse reference="amos.3.14" display-number="14"><sup class="verse-ref" id="amos.3.14">14</sup>I will punish the&#160;altars of&#160;Bethel<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:14" data-content=" Hs 10:5&#8211;8,14&#8211;15; Am 4:4; 5:5&#8211;6; 7:10,13"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>on the day I punish Israel for&#160;its&#160;crimes;</poem>
+		<poem>the horns of the altar<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:14" data-content=" Lv 8:15; 16:18&#8211;19; 1Kg 1:50&#8211;51; 2:28; Ps 118:27"><i class="cross-ref-icon"></i></a></sup> will&#160;be cut&#160;off</poem>
+		<poem>and fall to&#160;the&#160;ground.<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:14" data-content=" Hs 10:1&#8211;2"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem><verse reference="amos.3.15" display-number="15"><sup class="verse-ref" id="amos.3.15">15</sup>I will demolish the&#160;winter&#160;house<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:15" data-content=" Jr 36:22"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>and the summer house;<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:15" data-content=" Jdg 3:20"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>the houses inlaid&#160;with&#160;ivory<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:15" data-content=" 1Kg 22:39; 2Ch 9:17; Am 6:4"><i class="cross-ref-icon"></i></a></sup> will&#160;be&#160;destroyed,</poem>
+		<poem>and the great houses<sup class="cross-ref"><a href="#" data-toggle="popover" title="3:15" data-content=" Am 2:5; 6:11"><i class="cross-ref-icon"></i></a></sup> will&#160;come to&#160;an&#160;end.</poem>
+	</poetryblock>
+	<p type="right">This is the&#160;<span class="smallcaps">Lord</span>&#8217;s&#160;declaration.</p>
+	</chapter>
+	<chapter id="amos.4" display="4">
+	<head1>Social and Spiritual Corruption</head1>
+	<poetryblock>
+		<poem><verse reference="amos.4.1" display-number="1"><sup class="verse-ref" id="amos.4.1">1</sup>Listen to this message, you&#160;cows of&#160;Bashan<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:1" data-content=" Ps 22:12; Ezk 39:18"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>who are on the hill of&#160;Samaria,</poem>
+		<poem>women who oppress the&#160;poor</poem>
+		<poem>and crush the&#160;needy,<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:1" data-content=" Ex 23:3,6; Lv 19:15; 25:35; Dt 15:4&#8211;11; Am 5:11; 8:6"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>who say to&#160;their&#160;husbands,</poem>
+		<poem>&#8216;Bring us something to&#160;drink.&#8217;<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:1" data-content=" Am 2:8; 6:6"><i class="cross-ref-icon"></i></a></sup></poem>
+	</poetryblock>
+	<p><verse reference="amos.4.2" display-number="2"><sup class="verse-ref" id="amos.4.2">2</sup>The Lord <span class="smallcaps">God</span> has sworn<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:2" data-content=" Am 6:8; 8:7"><i class="cross-ref-icon"></i></a></sup> by his holiness:<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:2" data-content=" Ps 89:35"><i class="cross-ref-icon"></i></a></sup></verse></p>
+	<poetryblock>
+		<poem>Look, the days are&#160;coming<sup class="translate-note"><a href="#" data-toggle="popover" title="4:2" data-content=" Lit 'coming on you'"><i class="translate-note-icon"></i></a></sup></poem>
+		<poem>when you will be taken&#160;away with&#160;hooks,<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:2" data-content=" Is 37:29; Ezk 38:4"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>every last one of you with&#160;fish hooks.<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:2" data-content=" 2Kg 19:28; 2Ch 33:10&#8211;11"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem><verse reference="amos.4.3" display-number="3"><sup class="verse-ref" id="amos.4.3">3</sup>You will go through breaches in&#160;the&#160;wall,<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:3" data-content=" Jr 52:7"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>each woman straight ahead,</poem>
+		<poem>and you will be driven along towards&#160;Harmon.</poem>
+		<poem type="right">This&#160;is the&#160;<span class="smallcaps">Lord</span>&#8217;s&#160;declaration.</poem>
+	</poetryblock>
+	<poetryblock>
+		<poem><verse reference="amos.4.4" display-number="4"><sup class="verse-ref" id="amos.4.4">4</sup>Come to Bethel and&#160;rebel;</verse></poem>
+		<poem>rebel even more at&#160;Gilgal!<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:4" data-content=" Am 5:5"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>Bring your sacrifices every&#160;morning,<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:4" data-content=" Am 5:21&#8211;22"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>your tenths every&#160;three&#160;days.</poem>
+		<poem><verse reference="amos.4.5" display-number="5"><sup class="verse-ref" id="amos.4.5">5</sup>Offer leavened bread as a&#160;thanksgiving&#160;sacrifice,<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:5" data-content=" Lv 7:12"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>and loudly proclaim your&#160;freewill&#160;offerings,<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:5" data-content=" Lv 22:18&#8211;21"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>for that is what you Israelites love&#160;to&#160;do!<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:5" data-content=" Jr 7:9&#8211;10; Hs 9:1,10"><i class="cross-ref-icon"></i></a></sup></poem>
+	</poetryblock>
+	<p type="right">This&#160;is the&#160;declaration of&#160;the&#160;Lord&#160;<span class="smallcaps">God</span>.</p>
+	<head1>God&#8217;s Discipline and Israel&#8217;s Apostasy</head1>
+	<poetryblock>
+		<poem><verse reference="amos.4.6" display-number="6"><sup class="verse-ref" id="amos.4.6">6</sup>I gave you absolutely nothing to&#160;eat<sup class="translate-note"><a href="#" data-toggle="popover" title="4:6" data-content=" Lit 'you cleanness of teeth'"><i class="translate-note-icon"></i></a></sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="4:6" data-content=" Is 3:1; Jr 14:18"><i class="cross-ref-icon"></i></a></sup> in&#160;all your&#160;cities,</verse></poem>
+		<poem>a shortage of food in&#160;all your&#160;communities,</poem>
+		<poem>yet you did not return to&#160;me.<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:6" data-content=" Is 9:13; Jr 5:3; Hg 2:17"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem type="right">This is the&#160;<span class="smallcaps">Lord</span>&#8217;s&#160;declaration.</poem>
+	</poetryblock>
+	<poetryblock>
+		<poem><verse reference="amos.4.7" display-number="7"><sup class="verse-ref" id="amos.4.7">7</sup>I also withheld the&#160;rain from&#160;you<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:7" data-content=" Jr 3:1&#8211;3; 5:23&#8211;25"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>while there were still three&#160;months until&#160;harvest.</poem>
+		<poem>I sent rain on&#160;one&#160;city</poem>
+		<poem>but no rain on&#160;another.<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:7" data-content=" Ex 9:4,26; 10:22&#8211;23"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>One field received rain</poem>
+		<poem>while a field with&#160;no&#160;rain&#160;withered.<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:7" data-content=" Lv 26:18&#8211;19; Jl 1:10&#8211;12"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem><verse reference="amos.4.8" display-number="8"><sup class="verse-ref" id="amos.4.8">8</sup>Two or three cities staggered</verse></poem>
+		<poem>to another city to&#160;drink&#160;water<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:8" data-content=" 1Kg 18:5; Jr 14:4"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>but were not&#160;satisfied,<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:8" data-content=" Ezk 4:16; Hg 1:6"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>yet you did not return<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:8" data-content=" Jr 3:7"><i class="cross-ref-icon"></i></a></sup> to&#160;me.</poem>
+		<poem type="right">This&#160;is the&#160;<span class="smallcaps">Lord</span>&#8217;s&#160;declaration.</poem>
+	</poetryblock>
+	<poetryblock>
+		<poem><verse reference="amos.4.9" display-number="9"><sup class="verse-ref" id="amos.4.9">9</sup>I struck you with&#160;blight and&#160;mildew;<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:9" data-content=" Dt 28:22; Hg 2:17"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>the locust devoured<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:9" data-content=" Jl 1:4; Am 7:1&#8211;2"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>your many gardens and&#160;vineyards,</poem>
+		<poem>your fig trees and&#160;olive&#160;trees,<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:9" data-content=" Dt 28:38&#8211;42; Jl 1:4&#8211;7,12"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>yet you did not return to&#160;me.<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:9" data-content=" Jr 3:10"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem type="right">This is the&#160;<span class="smallcaps">Lord</span>&#8217;s&#160;declaration.</poem>
+	</poetryblock>
+	<poetryblock>
+		<poem><verse reference="amos.4.10" display-number="10"><sup class="verse-ref" id="amos.4.10">10</sup>I sent plagues like&#160;those of&#160;Egypt;<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:10" data-content=" Ex 11:4&#8211;5; Dt 28:27,60"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>I killed your young men with&#160;the&#160;sword,<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:10" data-content=" Jr 11:22; 18:21; 48:15"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>along with your&#160;captured&#160;horses.<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:10" data-content=" 2Kg 13:3,7"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>I caused the&#160;stench of&#160;your&#160;camp</poem>
+		<poem>to fill your&#160;nostrils,<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:10" data-content=" Is 34:3"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>yet you did not return to&#160;me.<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:10" data-content=" Is 9:13"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem type="right">This is the&#160;<span class="smallcaps">Lord</span>&#8217;s&#160;declaration.</poem>
+	</poetryblock>
+	<poetryblock>
+		<poem><verse reference="amos.4.11" display-number="11"><sup class="verse-ref" id="amos.4.11">11</sup>I overthrew some of&#160;you</verse></poem>
+		<poem>as I<sup class="translate-note"><a href="#" data-toggle="popover" title="4:11" data-content=" Lit 'God'"><i class="translate-note-icon"></i></a></sup> overthrew Sodom and&#160;Gomorrah,<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:11" data-content=" Gn 19:24&#8211;25"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>and you were like&#160;a&#160;burning&#160;stick</poem>
+		<poem>snatched from&#160;a&#160;fire,<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:11" data-content=" Zch 3:1&#8211;2"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>yet you did not return to&#160;me<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:11" data-content=" Is 9:13"><i class="cross-ref-icon"></i></a></sup>&#8201;&#8211;</poem>
+		<poem type="right">This is the&#160;<span class="smallcaps">Lord</span>&#8217;s&#160;declaration.</poem>
+	</poetryblock>
+	<poetryblock>
+		<poem><verse reference="amos.4.12" display-number="12"><sup class="verse-ref" id="amos.4.12">12</sup>Therefore, Israel, that is what I&#160;will&#160;do to&#160;you,</verse></poem>
+		<poem>and since I will do that to&#160;you,</poem>
+		<poem>Israel, prepare to&#160;meet your&#160;God!<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:12" data-content=" Is 32:11; 64:2; Jr 5:22"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem><verse reference="amos.4.13" display-number="13"><sup class="verse-ref" id="amos.4.13">13</sup>He is here:</verse></poem>
+		<poem>the one who forms the&#160;mountains,<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:13" data-content=" Jb 38:4&#8211;7; Ps 65:6; Is 40:12"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>creates the wind,<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:13" data-content=" Ps 135:7"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>and reveals his thoughts to&#160;man,<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:13" data-content=" Ps 139:2; Dn 2:30"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>the one who makes the dawn out&#160;of&#160;darkness</poem>
+		<poem>and strides on the heights of&#160;the&#160;earth.<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:13" data-content=" Mc 1:3"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>The <span class="smallcaps">Lord</span>, the God of&#160;Armies, is&#160;his&#160;name.<sup class="cross-ref"><a href="#" data-toggle="popover" title="4:13" data-content=" Am 5:8&#8211;9,27; 9:5&#8211;6"><i class="cross-ref-icon"></i></a></sup></poem>
+	</poetryblock>
+	</chapter>
+	<chapter id="amos.5" display="5">
+	<head1>Lamentation for Israel</head1>
+	<p type="noind"><verse reference="amos.5.1" display-number="1"><sup class="verse-ref" id="amos.5.1">1</sup>Listen to this message that I am singing for you, a lament,<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:1" data-content=" Jr 7:29; 9:10,17; Ezk 19:1"><i class="cross-ref-icon"></i></a></sup> house of Israel:</verse></p>
+	<poetryblock>
+		<poem><verse reference="amos.5.2" display-number="2"><sup class="verse-ref" id="amos.5.2">2</sup>She has fallen;</verse></poem>
+		<poem>Virgin Israel<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:2" data-content=" Jr 14:17; 31:4,21"><i class="cross-ref-icon"></i></a></sup> will never rise&#160;again.<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:2" data-content=" Am 8:14"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>She lies abandoned on&#160;her&#160;land</poem>
+		<poem>with no one to raise her&#160;up.<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:2" data-content=" Is 51:18"><i class="cross-ref-icon"></i></a></sup></poem>
+	</poetryblock>
+	<p type="noind"><verse reference="amos.5.3" display-number="3"><sup class="verse-ref" id="amos.5.3">3</sup>For the Lord <span class="smallcaps">God</span> says:</verse></p>
+	<poetryblock>
+		<poem>The city that marches out a&#160;thousand&#160;strong</poem>
+		<poem>will have only a&#160;hundred&#160;left,<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:3" data-content=" Is 6:13"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>and the one that marches out a&#160;hundred&#160;strong</poem>
+		<poem>will have only ten&#160;left<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:3" data-content=" Am 6:9"><i class="cross-ref-icon"></i></a></sup> in&#160;the&#160;house of&#160;Israel.</poem>
+	</poetryblock>
+	<head1>Seek God and Live</head1>
+	<p type="noind"><verse reference="amos.5.4" display-number="4"><sup class="verse-ref" id="amos.5.4">4</sup>For the <span class="smallcaps">Lord</span> says to the house of Israel:</verse></p>
+	<poetryblock>
+		<poem>Seek me and&#160;live!<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:4" data-content=" Dt 4:29; 32:46&#8211;47"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem><verse reference="amos.5.5" display-number="5"><sup class="verse-ref" id="amos.5.5">5</sup>Do not seek&#160;Bethel<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:5" data-content=" 1Kg 12:28&#8211;29"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>or go to&#160;Gilgal<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:5" data-content=" 1Sm 7:16; 11:14"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>or journey to&#160;Beer-sheba,<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:5" data-content=" Gn 21:31&#8211;33"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>for Gilgal will certainly&#160;go into&#160;exile,</poem>
+		<poem>and Bethel will come to&#160;nothing.</poem>
+		<poem><verse reference="amos.5.6" display-number="6"><sup class="verse-ref" id="amos.5.6">6</sup>Seek the <span class="smallcaps">Lord</span><sup class="cross-ref"><a href="#" data-toggle="popover" title="5:6" data-content=" Is 55:3,6&#8211;7"><i class="cross-ref-icon"></i></a></sup> and&#160;live,</verse></poem>
+		<poem>or he will spread like&#160;fire<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:6" data-content=" Dt 4:24; 32:22; Heb 12:29"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>throughout the house of&#160;Joseph;</poem>
+		<poem>it will consume everything</poem>
+		<poem>with no one at Bethel to&#160;extinguish&#160;it.<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:6" data-content=" Is 33:14; 66:24; Jr 4:4"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem><verse reference="amos.5.7" display-number="7"><sup class="verse-ref" id="amos.5.7">7</sup>Those who turn justice into&#160;wormwood<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:7" data-content=" Am 6:12"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>also throw righteousness to&#160;the&#160;ground.</poem>
+	</poetryblock>
+	<poetryblock>
+		<poem><verse reference="amos.5.8" display-number="8"><sup class="verse-ref" id="amos.5.8">8</sup>The one who made the&#160;Pleiades and&#160;Orion,<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:8" data-content=" Jb 9:9; 38:31"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>who turns darkness<sup class="translate-note"><a href="#" data-toggle="popover" title="5:8" data-content=" Or 'turns the shadow of death'"><i class="translate-note-icon"></i></a></sup> into&#160;dawn<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:8" data-content=" Gn 1:2&#8211;3; Jb 38:12"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>and darkens day into&#160;night,<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:8" data-content=" Am 8:9"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>who summons the water of&#160;the&#160;sea<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:8" data-content=" Ps 104:6&#8211;9; Jr 10:13"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>and pours it out over&#160;the&#160;surface of&#160;the&#160;earth<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:8" data-content=" Jb 36:27&#8211;30"><i class="cross-ref-icon"></i></a></sup>&#8201;&#8211;</poem>
+		<poem>the <span class="smallcaps">Lord</span> is his&#160;name.<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:8" data-content=" Am 4:13; 9:5&#8211;6"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem><verse reference="amos.5.9" display-number="9"><sup class="verse-ref" id="amos.5.9">9</sup>He brings destruction<sup class="translate-note"><a href="#" data-toggle="popover" title="5:9" data-content=" Hb obscure"><i class="translate-note-icon"></i></a></sup> on&#160;the&#160;strong,<sup class="translate-note"><a href="#" data-toggle="popover" title="5:9" data-content=" Or 'stronghold'"><i class="translate-note-icon"></i></a></sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="5:9" data-content=" Is 29:5"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>and it falls on&#160;the&#160;fortress.<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:9" data-content=" Mc 5:11"><i class="cross-ref-icon"></i></a></sup></poem>
+	</poetryblock>
+	<poetryblock>
+		<poem><verse reference="amos.5.10" display-number="10"><sup class="verse-ref" id="amos.5.10">10</sup>They hate the one who&#160;convicts the&#160;guilty<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:10" data-content=" Is 29:21"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>at the city gate,</poem>
+		<poem>and they despise<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:10" data-content=" Is 59:15"><i class="cross-ref-icon"></i></a></sup> the one who&#160;speaks with&#160;integrity.</poem>
+		<poem><verse reference="amos.5.11" display-number="11"><sup class="verse-ref" id="amos.5.11">11</sup>Therefore, because you trample&#160;on the&#160;poor<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:11" data-content=" Am 3:9; 8:6; Jms 1:27"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>and exact a grain tax from&#160;him,</poem>
+		<poem>you will never live in&#160;the&#160;houses of&#160;cut&#160;stone<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:11" data-content=" Am 3:15; 6:11"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>you have built;</poem>
+		<poem>you will never drink the&#160;wine</poem>
+		<poem>from the&#160;lush&#160;vineyards</poem>
+		<poem>you have planted.<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:11" data-content=" Dt 28:30; Mc 6:15; Zph 1:13"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem><verse reference="amos.5.12" display-number="12"><sup class="verse-ref" id="amos.5.12">12</sup>For I know that your&#160;crimes are&#160;many</verse></poem>
+		<poem>and your sins innumerable.</poem>
+		<poem>They oppress the righteous,<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:12" data-content=" Is 1:23; 5:23"><i class="cross-ref-icon"></i></a></sup> take&#160;a&#160;bribe,</poem>
+		<poem>and deprive the poor of&#160;justice<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:12" data-content=" Am 2:6&#8211;7"><i class="cross-ref-icon"></i></a></sup> at&#160;the&#160;city gates.</poem>
+		<poem><verse reference="amos.5.13" display-number="13"><sup class="verse-ref" id="amos.5.13">13</sup>Therefore, those who have insight will&#160;keep&#160;silent<sup class="translate-note"><a href="#" data-toggle="popover" title="5:13" data-content=" Or 'who are prudent will perish'"><i class="translate-note-icon"></i></a></sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="5:13" data-content=" Ec 3:7; Hs 4:4"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>at such a&#160;time,</poem>
+		<poem>for the days are&#160;evil.</poem>
+	</poetryblock>
+	<poetryblock>
+		<poem><verse reference="amos.5.14" display-number="14"><sup class="verse-ref" id="amos.5.14">14</sup>Pursue good and&#160;not&#160;evil</verse></poem>
+		<poem>so that you may live,</poem>
+		<poem>and the <span class="smallcaps">Lord</span>, the&#160;God of&#160;Armies,</poem>
+		<poem>will be with&#160;you</poem>
+		<poem>as you have claimed.<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:14" data-content=" Is 48:1&#8211;2"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem><verse reference="amos.5.15" display-number="15"><sup class="verse-ref" id="amos.5.15">15</sup>Hate evil and&#160;love&#160;good;<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:15" data-content=" Rm 12:9"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>establish justice at the&#160;city&#160;gate.<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:15" data-content=" Is 1:17"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>Perhaps the <span class="smallcaps">Lord</span>, the&#160;God of&#160;Armies, will&#160;be&#160;gracious<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:15" data-content=" Jl 2:14"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>to&#160;the&#160;remnant of&#160;Joseph.<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:15" data-content=" Mc 3:5,7&#8211;8"><i class="cross-ref-icon"></i></a></sup></poem>
+	</poetryblock>
+	<p><verse reference="amos.5.16" display-number="16"><sup class="verse-ref" id="amos.5.16">16</sup>Therefore the <span class="smallcaps">Lord</span>, the God of Armies, the Lord, says:</verse></p>
+	<poetryblock>
+		<poem>There will be wailing in&#160;all the&#160;public&#160;squares;<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:16" data-content=" Jr 9:10,18&#8211;20; Am 8:3"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>they will cry out in anguish<sup class="translate-note"><a href="#" data-toggle="popover" title="5:16" data-content=" Lit 'will say, &#8220;Alas! Alas!&#8201;&#8221;'"><i class="translate-note-icon"></i></a></sup> in&#160;all the&#160;streets.</poem>
+		<poem>The farmer will be called&#160;on to&#160;mourn,<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:16" data-content=" Jl 1:11"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>and professional mourners<sup class="translate-note"><a href="#" data-toggle="popover" title="5:16" data-content=" Lit 'and those skilled in lamentation'"><i class="translate-note-icon"></i></a></sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="5:16" data-content=" Jr 9:17"><i class="cross-ref-icon"></i></a></sup> to&#160;wail.</poem>
+		<poem><verse reference="amos.5.17" display-number="17"><sup class="verse-ref" id="amos.5.17">17</sup>There will be wailing in&#160;all the&#160;vineyards,<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:17" data-content=" Is 16:10; Jr 48:33"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>for I will pass among&#160;you.<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:17" data-content=" Ex 12:12"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>The <span class="smallcaps">Lord</span> has spoken.</poem>
+	</poetryblock>
+	<head1>The Day of the <span class="smallcaps">Lord</span></head1>
+	<poetryblock>
+		<poem><verse reference="amos.5.18" display-number="18"><sup class="verse-ref" id="amos.5.18">18</sup>Woe to you who long for the&#160;day of&#160;the&#160;<span class="smallcaps">Lord</span>!<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:18" data-content=" Is 5:19; Jl 1:15; 2:1,11,31"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>What will the day of&#160;the&#160;<span class="smallcaps">Lord</span> be&#160;for&#160;you?</poem>
+		<poem>It will be darkness and&#160;not&#160;light.<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:18" data-content=" Is 5:30"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem><verse reference="amos.5.19" display-number="19"><sup class="verse-ref" id="amos.5.19">19</sup>It will be like a man who&#160;flees from&#160;a&#160;lion<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:19" data-content=" Jb 20:24; Is 24:17; Jr 15:2&#8211;3"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>only to have a bear confront&#160;him.</poem>
+		<poem>He goes home and rests&#160;his&#160;hand against&#160;the&#160;wall</poem>
+		<poem>only to have a snake bite&#160;him.</poem>
+		<poem><verse reference="amos.5.20" display-number="20"><sup class="verse-ref" id="amos.5.20">20</sup>Won&#8217;t the day of&#160;the&#160;<span class="smallcaps">Lord</span></verse></poem>
+		<poem>be darkness rather&#160;than&#160;light,<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:20" data-content=" Is 13:10; Zph 1:15"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>even gloom without&#160;any&#160;brightness in&#160;it?<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:20" data-content=" Jl 2:2; Zph 1:15"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem><verse reference="amos.5.21" display-number="21"><sup class="verse-ref" id="amos.5.21">21</sup>I hate, I despise, your&#160;feasts!<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:21" data-content=" Is 1:11&#8211;16; 66:3; Am 6:8"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>I can&#8217;t stand the&#160;stench</poem>
+		<poem>of your solemn&#160;assemblies.<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:21" data-content=" Lv 26:31; Jr 14:12; Hs 5:6"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem><verse reference="amos.5.22" display-number="22"><sup class="verse-ref" id="amos.5.22">22</sup>Even if you offer&#160;me</verse></poem>
+		<poem>your burnt offerings and&#160;grain&#160;offerings,<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:22" data-content=" Mc 6:6&#8211;7"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>I will not accept them;<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:22" data-content=" Jr 14:12"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>I will have no&#160;regard</poem>
+		<poem>for your&#160;fellowship&#160;offerings of&#160;fattened&#160;cattle.<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:22" data-content=" Lv 7:11&#8211;15"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem><verse reference="amos.5.23" display-number="23"><sup class="verse-ref" id="amos.5.23">23</sup>Take away from me the&#160;noise of&#160;your&#160;songs!</verse></poem>
+		<poem>I will not listen to&#160;the&#160;music of&#160;your&#160;harps.<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:23" data-content=" Is 5:12"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem><verse reference="amos.5.24" display-number="24"><sup class="verse-ref" id="amos.5.24">24</sup>But let justice flow like&#160;water,</verse></poem>
+		<poem>and righteousness like&#160;an&#160;unfailing&#160;stream.<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:21&#8211;24" data-content=" Mc 6:6&#8211;8"><i class="cross-ref-icon"></i></a></sup></poem>
+	</poetryblock>
+	<p><verse reference="amos.5.25" display-number="25"><sup class="verse-ref" id="amos.5.25">25</sup>&#8216;House of Israel, was it sacrifices and grain offerings that you presented to me during the forty years in the wilderness?<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:25" data-content=" Dt 32:17; Jos 24:14; Neh 9:18&#8211;21; Ac 7:42&#8211;43"><i class="cross-ref-icon"></i></a></sup></verse><verse reference="amos.5.26" display-number="26"><sup class="verse-ref" id="amos.5.26">26</sup>But you have taken up<sup class="translate-note"><a href="#" data-toggle="popover" title="5:26" data-content=" Or 'you will lift up'"><i class="translate-note-icon"></i></a></sup> Sakkuth your king and Kaiwan your star god,<sup class="alt-reading-note"><a href="#" data-toggle="popover" title="5:26" data-content=" LXX reads 'taken up the tent of Molech and the star of your god Rephan'&#8201;; Ac 7:43"><i class="reading-note-icon"></i></a></sup> images you have made for yourselves.<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:26" data-content=" Is 44:12&#8211;20"><i class="cross-ref-icon"></i></a></sup></verse><verse reference="amos.5.27" display-number="27"><sup class="verse-ref" id="amos.5.27">27</sup>So I will send you into exile beyond Damascus.&#8217;<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:25&#8211;27" data-content=" 2Kg 17:5&#8211;6; Ac 7:42&#8211;43"><i class="cross-ref-icon"></i></a></sup> The <span class="smallcaps">Lord</span>, the God of Armies, is his name.<sup class="cross-ref"><a href="#" data-toggle="popover" title="5:27" data-content=" Am 4:13"><i class="cross-ref-icon"></i></a></sup> He has spoken.</verse></p>
+	</chapter>
+	<chapter id="amos.6" display="6">
+	<head1>Woe to the Complacent</head1>
+	<poetryblock>
+		<poem><verse reference="amos.6.1" display-number="1"><sup class="verse-ref" id="amos.6.1">1</sup>Woe to those who&#160;are&#160;at&#160;ease in&#160;Zion<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:1" data-content=" Is 32:9&#8211;11; Zph 1:12"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>and to those who&#160;feel&#160;secure on&#160;the&#160;hill of&#160;Samaria&#8201;&#8211;</poem>
+		<poem>the notable people in this first of&#160;the&#160;nations,</poem>
+		<poem>those the house of&#160;Israel comes&#160;to.</poem>
+		<poem><verse reference="amos.6.2" display-number="2"><sup class="verse-ref" id="amos.6.2">2</sup>Cross over to Calneh<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:2" data-content=" Gn 10:10; Is 10:9"><i class="cross-ref-icon"></i></a></sup> and&#160;see;</verse></poem>
+		<poem>go from there to&#160;great&#160;Hamath;<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:2" data-content=" 1Kg 8:65; 2Kg 18:34; Is 10:9"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>then go down to Gath<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:2" data-content=" 1Sm 5:8; 2Ch 26:6"><i class="cross-ref-icon"></i></a></sup> of&#160;the&#160;Philistines.</poem>
+		<poem>Are you better than these&#160;kingdoms?</poem>
+		<poem>Is their territory larger than&#160;yours?</poem>
+		<poem><verse reference="amos.6.3" display-number="3"><sup class="verse-ref" id="amos.6.3">3</sup>You dismiss any thought of&#160;the&#160;evil&#160;day<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:3" data-content=" Am 9:10"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>and bring in a reign of&#160;violence.<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:3" data-content=" Am 3:10"><i class="cross-ref-icon"></i></a></sup></poem>
+	</poetryblock>
+	<poetryblock>
+		<poem><verse reference="amos.6.4" display-number="4"><sup class="verse-ref" id="amos.6.4">4</sup>They lie on beds inlaid&#160;with&#160;ivory,<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:4" data-content=" Am 3:15"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>sprawled out on&#160;their&#160;couches,<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:4" data-content=" Am 3:12"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>and dine on lambs from&#160;the&#160;flock<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:4" data-content=" Ezk 34:2&#8211;3"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>and calves from&#160;the&#160;stall.</poem>
+		<poem><verse reference="amos.6.5" display-number="5"><sup class="verse-ref" id="amos.6.5">5</sup>They improvise songs<sup class="translate-note"><a href="#" data-toggle="popover" title="6:5" data-content=" Hb obscure"><i class="translate-note-icon"></i></a></sup> to&#160;the&#160;sound of&#160;the&#160;harp<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:5" data-content=" Am 5:23; 8:10"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>and invent<sup class="translate-note"><a href="#" data-toggle="popover" title="6:5" data-content=" Or 'compose on'"><i class="translate-note-icon"></i></a></sup> their own musical&#160;instruments like&#160;David.<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:5" data-content=" 1Ch 15:16"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem><verse reference="amos.6.6" display-number="6"><sup class="verse-ref" id="amos.6.6">6</sup>They drink wine by&#160;the&#160;bowlful<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:6" data-content=" Am 2:8; 4:1"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>and anoint themselves with&#160;the&#160;finest&#160;oils</poem>
+		<poem>but do not grieve over&#160;the&#160;ruin of&#160;Joseph.<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:6" data-content=" Jr 8:21; Lm 2:11"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem><verse reference="amos.6.7" display-number="7"><sup class="verse-ref" id="amos.6.7">7</sup>Therefore, they will now go into&#160;exile</verse></poem>
+		<poem>as the first of&#160;the&#160;captives,<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:7" data-content=" Am 7:11,17"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>and the feasting<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:7" data-content=" 1Kg 20:16&#8211;21; Dn 5:4&#8211;6,30"><i class="cross-ref-icon"></i></a></sup> of&#160;those who&#160;sprawl&#160;out</poem>
+		<poem>will come to&#160;an&#160;end.</poem>
+	</poetryblock>
+	<head1>Israel&#8217;s Pride Judged</head1>
+	<p type="noind"><verse reference="amos.6.8" display-number="8"><sup class="verse-ref" id="amos.6.8">8</sup>The Lord <span class="smallcaps">God</span> has sworn by himself<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:8" data-content=" Gn 22:16; Jr 22:5; 51:14"><i class="cross-ref-icon"></i></a></sup>&#8201;&#x200B;&#8211;&#8201;&#x200B;this is the declaration of the <span class="smallcaps">Lord</span>, the God of Armies:</verse></p>
+	<poetryblock>
+		<poem>I loathe Jacob&#8217;s&#160;pride<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:8" data-content=" Lv 26:30; Dt 32:19; Ps 106:40"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>and hate his&#160;citadels,<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:8" data-content=" Am 3:10&#8211;11"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>so I will hand over&#160;the&#160;city<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:8" data-content=" Hs 11:6"><i class="cross-ref-icon"></i></a></sup> and&#160;everything in&#160;it.</poem>
+	</poetryblock>
+	<p><verse reference="amos.6.9" display-number="9"><sup class="verse-ref" id="amos.6.9">9</sup>And if there are ten men left in one house, they will die.<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:9" data-content=" Am 5:3"><i class="cross-ref-icon"></i></a></sup></verse><verse reference="amos.6.10" display-number="10"><sup class="verse-ref" id="amos.6.10">10</sup>A close relative<sup class="translate-note"><a href="#" data-toggle="popover" title="6:10" data-content=" Lit 'His uncle'"><i class="translate-note-icon"></i></a></sup> and burner<sup class="help-note"><a href="#" data-toggle="popover" title="6:10" data-content=" A burner of incense, a memorial fire, or a body; Hb obscure"><i class="translate-note-icon"></i></a></sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="6:10" data-content=" 1Sm 31:12; 2Ch 16:14; Jr 34:5"><i class="cross-ref-icon"></i></a></sup> will remove his corpse<sup class="translate-note"><a href="#" data-toggle="popover" title="6:10" data-content=" Lit 'remove bones'"><i class="translate-note-icon"></i></a></sup> from the house. He will call to someone in the inner recesses of the house, &#8216;Any more with you?&#8201;&#8217;</verse></p>
+	<p>That person will reply, &#8216;None.&#8217;</p>
+	<p>Then he will say, &#8216;Silence, because the <span class="smallcaps">Lord</span>&#8217;s name must not be invoked.&#8217;<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:10" data-content=" Is 48:1; Jr 44:26; Hs 4:15"><i class="cross-ref-icon"></i></a></sup></p>
+	<p><verse reference="amos.6.11" display-number="11"><sup class="verse-ref" id="amos.6.11">11</sup>For the <span class="smallcaps">Lord</span> commands:</verse></p>
+	<poetryblock>
+		<poem>The large house will&#160;be&#160;smashed to&#160;pieces,</poem>
+		<poem>and the small house to&#160;rubble.<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:11" data-content=" Am 1:1; 9:9"><i class="cross-ref-icon"></i></a></sup></poem>
+	</poetryblock>
+	<poetryblock>
+		<poem><verse reference="amos.6.12" display-number="12"><sup class="verse-ref" id="amos.6.12">12</sup>Do horses gallop on&#160;the&#160;cliffs?</verse></poem>
+		<poem>Does anyone plough&#160;there with&#160;oxen?<sup class="alt-reading-note"><a href="#" data-toggle="popover" title="6:12" data-content=" Some emend to 'plough the sea'"><i class="reading-note-icon"></i></a></sup></poem>
+		<poem>Yet you have turned justice into&#160;poison<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:12" data-content=" 1Kg 21:7&#8211;13; Is 59:13&#8211;14"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>and the fruit of&#160;righteousness into&#160;wormwood<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:12" data-content=" Is 5:20; Am 5:7; Rv 8:11"><i class="cross-ref-icon"></i></a></sup>&#8201;&#8211;</poem>
+		<poem><verse reference="amos.6.13" display-number="13"><sup class="verse-ref" id="amos.6.13">13</sup>you who rejoice over&#160;Lo-debar<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:13" data-content=" Jb 8:14&#8211;15; Ps 2:2&#8211;4; Lk 12:19&#8211;20"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>and say, &#8216;Didn&#8217;t we capture&#160;Karnaim</poem>
+		<poem>for ourselves by our own&#160;strength?&#8201;&#8217;<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:13" data-content=" Ps 75:4; Is 28:14&#8211;15"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem><verse reference="amos.6.14" display-number="14"><sup class="verse-ref" id="amos.6.14">14</sup>But look, I am raising up a&#160;nation</verse></poem>
+		<poem>against you, house&#160;of&#160;Israel<sup class="cross-ref"><a href="#" data-toggle="popover" title="6:14" data-content=" Am 3:11"><i class="cross-ref-icon"></i></a></sup>&#8201;&#8211;</poem>
+		<poem type="right">this&#160;is the&#160;declaration of&#160;the&#160;Lord,</poem>
+		<poem type="right">the&#160;<span class="smallcaps">God</span> of&#160;Armies&#8201;&#8211;</poem>
+		<poem>and they will oppress&#160;you</poem>
+		<poem>from the entrance of&#160;Hamath<sup class="translate-note"><a href="#" data-toggle="popover" title="6:14" data-content=" Or 'from Lebo-hamath'"><i class="translate-note-icon"></i></a></sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="6:14" data-content=" Nm 34:7&#8211;8; 2Kg 14:25"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>to the Brook of&#160;the&#160;Arabah.<sup class="help-note"><a href="#" data-toggle="popover" title="6:14" data-content=" Probably the Valley of Zared at the southeast end of the Dead Sea"><i class="translate-note-icon"></i></a></sup></poem>
+	</poetryblock>
+	</chapter>
+	<chapter id="amos.7" display="7">
+	<head1>First Vision: Locusts</head1>
+	<p type="noind"><verse reference="amos.7.1" display-number="1"><sup class="verse-ref" id="amos.7.1">1</sup>The Lord <span class="smallcaps">God</span> showed me this: He was forming a swarm of locusts<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:1" data-content=" Ex 10:12&#8211;15; Dt 28:38,42; Jl 1:4"><i class="cross-ref-icon"></i></a></sup> at the time the spring crop first began to sprout&#8201;&#x200B;&#8211;&#8201;&#x200B;after the cutting of the king&#8217;s hay.</verse><verse reference="amos.7.2" display-number="2"><sup class="verse-ref" id="amos.7.2">2</sup>When the locusts finished eating the vegetation of the land,<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:2" data-content=" Ex 10:15"><i class="cross-ref-icon"></i></a></sup> I said, &#8216;Lord <span class="smallcaps">God</span>, please forgive!<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:2" data-content=" Jr 14:7,20&#8211;21; Ezk 9:8; 11:13"><i class="cross-ref-icon"></i></a></sup> How will Jacob survive, since he is so small?&#8201;&#8217;<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:2" data-content=" Is 37:4; Jr 42:2"><i class="cross-ref-icon"></i></a></sup></verse></p>
+	<p><verse reference="amos.7.3" display-number="3"><sup class="verse-ref" id="amos.7.3">3</sup>The <span class="smallcaps">Lord</span> relented concerning this.<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:3" data-content=" Jr 26:19; Hs 11:8"><i class="cross-ref-icon"></i></a></sup> &#8216;It will not happen,&#8217; he said.</verse></p>
+	<head1>Second Vision: Fire</head1>
+	<p type="noind"><verse reference="amos.7.4" display-number="4"><sup class="verse-ref" id="amos.7.4">4</sup>The Lord <span class="smallcaps">God</span> showed me this: The Lord <span class="smallcaps">God</span> was calling for a judgement by fire.<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:4" data-content=" Am 1:3&#8211;2:5"><i class="cross-ref-icon"></i></a></sup> It consumed the great deep and devoured the land.</verse><verse reference="amos.7.5" display-number="5"><sup class="verse-ref" id="amos.7.5">5</sup>Then I said, &#8216;Lord <span class="smallcaps">God</span>, please stop!<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:5" data-content=" Ps 85:4; Jl 2:17"><i class="cross-ref-icon"></i></a></sup> How will Jacob survive, since he is so small?&#8201;&#8217;</verse></p>
+	<p><verse reference="amos.7.6" display-number="6"><sup class="verse-ref" id="amos.7.6">6</sup>The <span class="smallcaps">Lord</span> relented concerning this.<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:6" data-content=" Ps 106:45; Jnh 3:10"><i class="cross-ref-icon"></i></a></sup> &#8216;This will not happen either,&#8217; said the Lord <span class="smallcaps">God</span>.</verse></p>
+	<head1>Third Vision: A Plumb Line</head1>
+	<p type="noind"><verse reference="amos.7.7" display-number="7"><sup class="verse-ref" id="amos.7.7">7</sup>He showed me this: The Lord was standing there by a vertical wall with a plumb line in his hand.</verse><verse reference="amos.7.8" display-number="8"><sup class="verse-ref" id="amos.7.8">8</sup>The <span class="smallcaps">Lord</span> asked me, &#8216;What do you see, Amos?&#8201;&#8217;<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:8" data-content=" Jr 1:11; Am 8:2"><i class="cross-ref-icon"></i></a></sup></verse></p>
+	<p>I replied, &#8216;A plumb line.&#8217;</p>
+	<p>Then the Lord said, &#8216;I am setting a plumb line among my people Israel;<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:8" data-content=" Is 28:17; 34:11; Lm 2:8"><i class="cross-ref-icon"></i></a></sup> I will no longer spare them:<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:8" data-content=" Am 8:2"><i class="cross-ref-icon"></i></a></sup></p>
+	<poetryblock>
+		<poem><verse reference="amos.7.9" display-number="9"><sup class="verse-ref" id="amos.7.9">9</sup>Isaac&#8217;s high places<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:9" data-content=" 2Kg 17:9&#8211;13; Hs 10:8"><i class="cross-ref-icon"></i></a></sup> will&#160;be&#160;deserted,</verse></poem>
+		<poem>and Israel&#8217;s sanctuaries will&#160;be&#160;in&#160;ruins;<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:9" data-content=" Lv 26:31; Is 63:18; Jr 51:51"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>I will rise up against&#160;the&#160;house&#160;of&#160;Jeroboam</poem>
+		<poem>with a sword.&#8217;</poem>
+	</poetryblock>
+	<head1>Amaziah&#8217;s Opposition</head1>
+	<p type="noind"><verse reference="amos.7.10" display-number="10"><sup class="verse-ref" id="amos.7.10">10</sup>Amaziah the priest<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:10" data-content=" 1Kg 12:31&#8211;32; 13:33"><i class="cross-ref-icon"></i></a></sup> of Bethel sent word to King Jeroboam of Israel, saying, &#8216;Amos has conspired against you<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:10" data-content=" Jr 26:8&#8211;11; 38:4"><i class="cross-ref-icon"></i></a></sup> right here in the house of Israel. The land cannot endure all his words,</verse><verse reference="amos.7.11" display-number="11"><sup class="verse-ref" id="amos.7.11">11</sup>for Amos has said this: &#8220;Jeroboam will die by the sword, and Israel will certainly go into exile from its homeland.&#8221;&#8201;&#8217;<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:11" data-content=" Am 5:27"><i class="cross-ref-icon"></i></a></sup></verse></p>
+	<p><verse reference="amos.7.12" display-number="12"><sup class="verse-ref" id="amos.7.12">12</sup>Then Amaziah said to Amos, &#8216;Go away, you seer!<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:12" data-content=" Mt 8:34"><i class="cross-ref-icon"></i></a></sup> Flee to the land of Judah. Earn your living<sup class="translate-note"><a href="#" data-toggle="popover" title="7:12" data-content=" Lit 'Eat bread'"><i class="translate-note-icon"></i></a></sup> and give your prophecies there,</verse><verse reference="amos.7.13" display-number="13"><sup class="verse-ref" id="amos.7.13">13</sup>but don&#8217;t ever prophesy<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:13" data-content=" Am 2:12; Ac 4:18"><i class="cross-ref-icon"></i></a></sup> at Bethel again, for it is the king&#8217;s sanctuary<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:13" data-content=" 1Kg 12:29; Am 7:9"><i class="cross-ref-icon"></i></a></sup> and a royal temple.&#8217;</verse></p>
+	<p><verse reference="amos.7.14" display-number="14"><sup class="verse-ref" id="amos.7.14">14</sup>So Amos answered Amaziah, &#8216;I was<sup class="translate-note"><a href="#" data-toggle="popover" title="7:14" data-content=" Or 'am'"><i class="translate-note-icon"></i></a></sup> not a prophet or the son of a prophet;<sup class="help-note"><a href="#" data-toggle="popover" title="7:14" data-content=" = a prophet&#8217;s disciple or a member of a prophetic guild"><i class="translate-note-icon"></i></a></sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="7:14" data-content=" 2Kg 2:3; 4:38; 2Ch 19:2"><i class="cross-ref-icon"></i></a></sup> rather, I was<sup class="translate-note"><a href="#" data-toggle="popover" title="7:14" data-content=" Or 'am'"><i class="translate-note-icon"></i></a></sup> a herdsman,<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:14" data-content=" Am 1:1"><i class="cross-ref-icon"></i></a></sup> and I took care of sycamore figs.</verse><verse reference="amos.7.15" display-number="15"><sup class="verse-ref" id="amos.7.15">15</sup>But the <span class="smallcaps">Lord</span> took me from following the flock<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:15" data-content=" 2Sm 7:8"><i class="cross-ref-icon"></i></a></sup> and said to me, &#8220;Go, prophesy to my people Israel.&#8221;&#8201;&#8217;<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:15" data-content=" Jr 1:7; Ezk 2:3&#8211;4"><i class="cross-ref-icon"></i></a></sup></verse></p>
+	<p><verse reference="amos.7.16" display-number="16"><sup class="verse-ref" id="amos.7.16">16</sup>Now hear the word of the <span class="smallcaps">Lord</span>. You say:</verse></p>
+	<poetryblock>
+		<poem>Do not prophesy<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:16" data-content=" Am 2:12"><i class="cross-ref-icon"></i></a></sup> against&#160;Israel;</poem>
+		<poem>do not preach<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:16" data-content=" Mc 2:6"><i class="cross-ref-icon"></i></a></sup> against&#160;the&#160;house of&#160;Isaac.</poem>
+	</poetryblock>
+	<p><verse reference="amos.7.17" display-number="17"><sup class="verse-ref" id="amos.7.17">17</sup>Therefore, this is what the <span class="smallcaps">Lord</span> says:</verse></p>
+	<poetryblock>
+		<poem>Your wife will be a&#160;prostitute in&#160;the&#160;city,<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:17" data-content=" Hs 4:13&#8211;14"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>your sons and daughters will&#160;fall by&#160;the&#160;sword,<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:17" data-content=" Jr 14:16"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>and your land will be divided&#160;up</poem>
+		<poem>with a measuring&#160;line.</poem>
+		<poem>You yourself will die on&#160;pagan<sup class="translate-note"><a href="#" data-toggle="popover" title="7:17" data-content=" Lit 'unclean'"><i class="translate-note-icon"></i></a></sup>&#160;soil,<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:17" data-content=" 2Kg 17:6; Ezk 4:13; Hs 9:3"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>and Israel will certainly go into&#160;exile<sup class="cross-ref"><a href="#" data-toggle="popover" title="7:17" data-content=" Jr 36:29&#8211;31"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>from its homeland.</poem>
+	</poetryblock>
+	</chapter>
+	<chapter id="amos.8" display="8">
+	<head1>Fourth Vision: A Basket of Summer Fruit</head1>
+	<p type="noind"><verse reference="amos.8.1" display-number="1"><sup class="verse-ref" id="amos.8.1">1</sup>The Lord <span class="smallcaps">God</span> showed me this: a basket of summer fruit.</verse><verse reference="amos.8.2" display-number="2"><sup class="verse-ref" id="amos.8.2">2</sup>He asked me, &#8216;What do you see, Amos?&#8201;&#8217;<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:2" data-content=" Am 7:8"><i class="cross-ref-icon"></i></a></sup></verse></p>
+	<p>I replied, &#8216;A basket of summer fruit.&#8217;<sup class="help-note"><a href="#" data-toggle="popover" title="8:2" data-content=" In Hb the word for 'summer fruit' sounds like the word for 'end'."><i class="translate-note-icon"></i></a></sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="8:2" data-content=" Jr 24:3"><i class="cross-ref-icon"></i></a></sup></p>
+	<p>The <span class="smallcaps">Lord</span> said to me, &#8216;The end has come for my people Israel;<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:2" data-content=" Ezk 7:2&#8211;3,6"><i class="cross-ref-icon"></i></a></sup> I will no longer spare them.<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:2" data-content=" Am 7:8"><i class="cross-ref-icon"></i></a></sup> <verse reference="amos.8.3" display-number="3"><sup class="verse-ref" id="amos.8.3">3</sup>In that day the temple<sup class="translate-note"><a href="#" data-toggle="popover" title="8:3" data-content=" Or 'palace'"><i class="translate-note-icon"></i></a></sup> songs<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:3" data-content=" Am 5:23; 6:4&#8211;5"><i class="cross-ref-icon"></i></a></sup> will become wailing&#8217;<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:3" data-content=" Am 5:16"><i class="cross-ref-icon"></i></a></sup>&#8201;&#x200B;&#8211;&#8201;&#x200B;this is the Lord <span class="smallcaps">God</span>&#8217;s declaration. &#8216;Many dead bodies, thrown everywhere!<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:3" data-content=" Is 34:3; Jr 33:5; Nah 3:3"><i class="cross-ref-icon"></i></a></sup> Silence!&#8201;&#8217;<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:3" data-content=" Am 6:10"><i class="cross-ref-icon"></i></a></sup></verse></p>
+	<poetryblock>
+		<poem><verse reference="amos.8.4" display-number="4"><sup class="verse-ref" id="amos.8.4">4</sup>Hear this, you who trample on&#160;the&#160;needy<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:4" data-content=" Am 2:7; 5:11&#8211;12"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>and do away with the poor of&#160;the&#160;land,<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:4" data-content=" Is 10:2"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem><verse reference="amos.8.5" display-number="5"><sup class="verse-ref" id="amos.8.5">5</sup>asking, &#8216;When will the&#160;New&#160;Moon be&#160;over</verse></poem>
+		<poem>so that we may sell&#160;grain,<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:5" data-content=" Nm 28:11; 2Kg 4:23"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>and the Sabbath,</poem>
+		<poem>so that we may market&#160;wheat?<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:5" data-content=" Ex 31:13&#8211;17"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>We can reduce the&#160;measure</poem>
+		<poem>while increasing the&#160;price<sup class="translate-note"><a href="#" data-toggle="popover" title="8:5" data-content=" Lit 'reduce the ephah and make the shekel great'"><i class="translate-note-icon"></i></a></sup></poem>
+		<poem>and cheat with&#160;dishonest&#160;scales.<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:5" data-content=" Dt 25:13&#8211;15; Pr 20:23; Hs 12:7"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem><verse reference="amos.8.6" display-number="6"><sup class="verse-ref" id="amos.8.6">6</sup>We can buy the&#160;poor with&#160;silver</verse></poem>
+		<poem>and the needy for&#160;a&#160;pair of&#160;sandals<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:6" data-content=" Am 2:6"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>and even sell the&#160;chaff!&#8201;&#8217;</poem>
+	</poetryblock>
+	<p><verse reference="amos.8.7" display-number="7"><sup class="verse-ref" id="amos.8.7">7</sup>The <span class="smallcaps">Lord</span> has sworn<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:7" data-content=" Am 4:2; 6:8"><i class="cross-ref-icon"></i></a></sup> by the Pride of Jacob:<sup class="help-note"><a href="#" data-toggle="popover" title="8:7" data-content=" = the Lord or the promised land"><i class="translate-note-icon"></i></a></sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="8:7" data-content=" Dt 33:26,29; Ps 47:4"><i class="cross-ref-icon"></i></a></sup></verse></p>
+	<poetryblock>
+		<poem>I will never forget all&#160;their&#160;deeds.<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:7" data-content=" Ps 10:11; Hs 7:2; 8:13"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem><verse reference="amos.8.8" display-number="8"><sup class="verse-ref" id="amos.8.8">8</sup>Because of this, won&#8217;t&#160;the&#160;land&#160;quake<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:8" data-content=" Ps 18:7; 60:2; Is 5:25; Am 1:1"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>and all who dwell in&#160;it&#160;mourn?<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:8" data-content=" Hs 4:3"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>All of it will rise like&#160;the&#160;Nile;<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:8" data-content=" Jr 46:7&#8211;8"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>it will surge and&#160;then&#160;subside</poem>
+		<poem>like the Nile in&#160;Egypt.<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:8" data-content=" Am 9:5"><i class="cross-ref-icon"></i></a></sup></poem>
+	</poetryblock>
+	<poetryblock>
+		<poem><verse reference="amos.8.9" display-number="9"><sup class="verse-ref" id="amos.8.9">9</sup>And in that day&#8201;&#8211;</verse></poem>
+		<poem type="right">this&#160;is the&#160;declaration of&#160;the&#160;Lord&#160;<span class="smallcaps">God</span>&#8201;&#8211;</poem>
+		<poem>I will make the sun go&#160;down at&#160;noon;<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:9" data-content=" Is 13:10; Ezk 32:7; Jl 2:10,31"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>I will darken the land in&#160;the&#160;daytime.<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:9" data-content=" Is 59:9&#8211;10; Am 4:13; 5:8; Mt 27:45"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem><verse reference="amos.8.10" display-number="10"><sup class="verse-ref" id="amos.8.10">10</sup>I will turn your feasts into&#160;mourning<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:10" data-content=" Jb 20:23; Am 5:21"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>and all your songs into&#160;lamentation;<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:10" data-content=" Lm 5:15; Hs 2:11; Jms 4:9"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>I will cause everyone<sup class="translate-note"><a href="#" data-toggle="popover" title="8:10" data-content=" Lit 'every waist'"><i class="translate-note-icon"></i></a></sup> to&#160;wear&#160;sackcloth<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:10" data-content=" Ezk 7:18"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>and every head to&#160;be&#160;shaved.<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:10" data-content=" Is 22:12; Jr 48:37; Ezk 7:18"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>I will make that&#160;grief</poem>
+		<poem>like mourning for an&#160;only&#160;son<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:10" data-content=" Zch 12:10&#8211;14"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>and its outcome like&#160;a&#160;bitter&#160;day.</poem>
+	</poetryblock>
+	<poetryblock>
+		<poem><verse reference="amos.8.11" display-number="11"><sup class="verse-ref" id="amos.8.11">11</sup>Look, the days are&#160;coming&#8201;&#8211;</verse></poem>
+		<poem type="right">this&#160;is the&#160;declaration of&#160;the&#160;Lord&#160;<span class="smallcaps">God</span>&#8201;&#8211;</poem>
+		<poem>when I will send a famine through&#160;the&#160;land:</poem>
+		<poem>not a famine of bread or&#160;a&#160;thirst for&#160;water,</poem>
+		<poem>but of hearing the words of&#160;the&#160;<span class="smallcaps">Lord</span>.<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:9&#8211;11" data-content=" Mc 3:6&#8211;7"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem><verse reference="amos.8.12" display-number="12"><sup class="verse-ref" id="amos.8.12">12</sup>People will stagger from&#160;sea to&#160;sea</verse></poem>
+		<poem>and roam from&#160;north to&#160;east</poem>
+		<poem>seeking the word of&#160;the&#160;<span class="smallcaps">Lord</span>,<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:12" data-content=" Ezk 20:3,31"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>but they will not find&#160;it.</poem>
+		<poem><verse reference="amos.8.13" display-number="13"><sup class="verse-ref" id="amos.8.13">13</sup>In that day the&#160;beautiful&#160;young&#160;women,<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:13" data-content=" Lm 1:18; 2:21"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>the young men also, will&#160;faint from&#160;thirst.<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:13" data-content=" Is 41:17; Hs 2:3"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem><verse reference="amos.8.14" display-number="14"><sup class="verse-ref" id="amos.8.14">14</sup>Those who swear by&#160;the&#160;guilt of&#160;Samaria<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:14" data-content=" Hs 8:5"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>and say, &#8216;As&#160;your&#160;god&#160;lives,&#160;Dan,&#8217;<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:14" data-content=" 1Kg 12:28&#8211;29"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>or, &#8216;As the way<sup class="alt-reading-note"><a href="#" data-toggle="popover" title="8:14" data-content=" LXX reads 'god'"><i class="reading-note-icon"></i></a></sup><sup class="translate-note"><a href="#" data-toggle="popover" title="8:14" data-content=" Or 'power'"><i class="translate-note-icon"></i></a></sup> of&#160;Beer-sheba&#160;lives&#8217;<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:14" data-content=" Am 5:5"><i class="cross-ref-icon"></i></a></sup>&#8201;&#8211;</poem>
+		<poem>they will fall, never&#160;to&#160;rise&#160;again.<sup class="cross-ref"><a href="#" data-toggle="popover" title="8:14" data-content=" Am 5:2; Jr 25:27"><i class="cross-ref-icon"></i></a></sup></poem>
+	</poetryblock>
+	</chapter>
+	<chapter id="amos.9" display="9">
+	<head1>Fifth Vision: The Lord beside the Altar</head1>
+	<p type="noind"><verse reference="amos.9.1" display-number="1"><sup class="verse-ref" id="amos.9.1">1</sup>I saw the Lord standing beside the altar,<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:1" data-content=" Am 3:14"><i class="cross-ref-icon"></i></a></sup> and he said:</verse></p>
+	<poetryblock>
+		<poem>Strike the capitals of&#160;the&#160;pillars<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:1" data-content=" Zph 2:14"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>so that the&#160;thresholds&#160;shake;</poem>
+		<poem>knock them down on&#160;the&#160;heads of&#160;all the&#160;people.</poem>
+		<poem>Then I will kill the&#160;rest of&#160;them with&#160;the&#160;sword.<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:1" data-content=" Jos 5:13&#8211;15; Am 7:9,17"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>None of those who&#160;flee will&#160;get&#160;away;<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:1" data-content=" Jr 11:11"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>none of the fugitives will&#160;escape.</poem>
+		<poem><verse reference="amos.9.2" display-number="2"><sup class="verse-ref" id="amos.9.2">2</sup>If they dig down to&#160;Sheol,<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:2" data-content=" Ps 139:8"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>from there my hand will&#160;take&#160;them;</poem>
+		<poem>if they climb up to&#160;heaven,<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:2" data-content=" Jr 51:53; Ob 4"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>from there I will bring&#160;them&#160;down.</poem>
+		<poem><verse reference="amos.9.3" display-number="3"><sup class="verse-ref" id="amos.9.3">3</sup>If they hide</verse></poem>
+		<poem>on the top of&#160;Carmel,</poem>
+		<poem>from there I will track them&#160;down<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:3" data-content=" Jb 34:22; Ps 139:9&#8211;10"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>and seize them;</poem>
+		<poem>if they conceal&#160;themselves</poem>
+		<poem>from my sight on&#160;the&#160;sea&#160;floor,<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:3" data-content=" Jnh 2:2&#8211;6"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>from there I&#160;will&#160;command</poem>
+		<poem>the sea serpent to&#160;bite&#160;them.<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:3" data-content=" Is 27:1"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem><verse reference="amos.9.4" display-number="4"><sup class="verse-ref" id="amos.9.4">4</sup>And if they are&#160;driven</verse></poem>
+		<poem>by their enemies into&#160;captivity,<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:4" data-content=" Lv 26:33"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>from there I will&#160;command</poem>
+		<poem>the sword to&#160;kill&#160;them.<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:2&#8211;4" data-content=" Jb 34:21&#8211;22; Ps 139:7&#8211;12; Jr 23:24"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>I will keep my eye on&#160;them</poem>
+		<poem>for harm and&#160;not for&#160;good.<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:4" data-content=" Jr 21:10; 44:27"><i class="cross-ref-icon"></i></a></sup></poem>
+	</poetryblock>
+	<poetryblock>
+		<poem><verse reference="amos.9.5" display-number="5"><sup class="verse-ref" id="amos.9.5">5</sup>The Lord, the <span class="smallcaps">God</span> of&#160;Armies&#8201;&#8211;</verse></poem>
+		<poem>he touches the&#160;earth;<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:5" data-content=" Ps 104:32; 144:5; Is 64:1"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>it melts, and all who&#160;dwell in&#160;it&#160;mourn;</poem>
+		<poem>all of it rises like&#160;the&#160;Nile</poem>
+		<poem>and subsides like&#160;the&#160;Nile of&#160;Egypt.<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:5" data-content=" Am 8:8"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem><verse reference="amos.9.6" display-number="6"><sup class="verse-ref" id="amos.9.6">6</sup>He builds his&#160;upper&#160;chambers</verse></poem>
+		<poem>in the heavens<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:6" data-content=" Ps 104:3,13"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>and lays the foundation of&#160;his&#160;vault</poem>
+		<poem>on the earth.<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:6" data-content=" Ps 102:25; Is 48:13; 51:13"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>He summons the&#160;water of&#160;the&#160;sea</poem>
+		<poem>and pours it out over&#160;the&#160;surface of&#160;the&#160;earth.<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:6" data-content=" Ps 104:6"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>The <span class="smallcaps">Lord</span> is his&#160;name.<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:6" data-content=" Am 4:13; 5:8&#8211;9"><i class="cross-ref-icon"></i></a></sup></poem>
+	</poetryblock>
+	<head1>Announcement of Judgement</head1>
+	<poetryblock>
+		<poem><verse reference="amos.9.7" display-number="7"><sup class="verse-ref" id="amos.9.7">7</sup>Israelites, are you not like&#160;the&#160;Cushites to&#160;me?<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:7" data-content=" 2Ch 14:9,12; Is 20:4; 43:3"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem type="right">This&#160;is the&#160;<span class="smallcaps">Lord</span>&#8217;s&#160;declaration.</poem>
+		<poem>Didn&#8217;t I bring Israel from&#160;the&#160;land of&#160;Egypt,</poem>
+		<poem>the Philistines from&#160;Caphtor,<sup class="help-note"><a href="#" data-toggle="popover" title="9:7" data-content=" Probably Crete"><i class="translate-note-icon"></i></a></sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="9:7" data-content=" Dt 2:23; Jr 47:4"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>and the Arameans from&#160;Kir?<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:7" data-content=" 2Kg 16:9; Is 22:6"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem><verse reference="amos.9.8" display-number="8"><sup class="verse-ref" id="amos.9.8">8</sup>Look, the eyes of&#160;the&#160;Lord <span class="smallcaps">God</span></verse></poem>
+		<poem>are on&#160;the&#160;sinful&#160;kingdom,<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:8" data-content=" Am 9:4"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>and I will obliterate&#160;it</poem>
+		<poem>from the face of&#160;the&#160;earth.<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:8" data-content=" Am 3:12"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>However, I will not totally&#160;destroy</poem>
+		<poem>the house of&#160;Jacob<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:8" data-content=" Jr 5:10; 30:11; 31:35&#8211;36; Jl 2:32"><i class="cross-ref-icon"></i></a></sup>&#8201;&#8211;</poem>
+		<poem type="right">this is the&#160;<span class="smallcaps">Lord</span>&#8217;s&#160;declaration&#8201;&#8211;</poem>
+		<poem><verse reference="amos.9.9" display-number="9"><sup class="verse-ref" id="amos.9.9">9</sup>for I am about to&#160;give the&#160;command,</verse></poem>
+		<poem>and I will shake the&#160;house of&#160;Israel<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:9" data-content=" Is 30:28; Lk 22:31"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>among all the&#160;nations,</poem>
+		<poem>as one shakes a&#160;sieve,</poem>
+		<poem>but not a pebble will&#160;fall to&#160;the&#160;ground.</poem>
+		<poem><verse reference="amos.9.10" display-number="10"><sup class="verse-ref" id="amos.9.10">10</sup>All the sinners among&#160;my&#160;people<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:10" data-content=" Is 33:14; Zch 13:8"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>who say, &#8216;Disaster&#160;will&#160;never&#160;overtake<sup class="translate-note"><a href="#" data-toggle="popover" title="9:10" data-content=" Or '&#8216;You will not let disaster come near'"><i class="translate-note-icon"></i></a></sup></poem>
+		<poem>or confront us,&#8217;<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:10" data-content=" Jr 5:12; 23:17; Am 6:3"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>will die by&#160;the&#160;sword.</poem>
+	</poetryblock>
+	<head1>Announcement of Restoration</head1>
+	<poetryblock>
+		<poem><verse reference="amos.9.11" display-number="11"><sup class="verse-ref" id="amos.9.11">11</sup>In that day</verse></poem>
+		<poem>I will restore the&#160;fallen&#160;shelter<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:11" data-content=" Lv 23:42&#8211;43; 2Sm 11:11; 1Kg 20:12; Is 4:6"><i class="cross-ref-icon"></i></a></sup> of&#160;David:<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:11" data-content=" 2Sm 7:11&#8211;16; Jr 23:5; Ezk 34:23&#8211;24; Zch 9:9&#8211;10; Lk 1:32; Rv 5:5"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>I will repair its&#160;gaps,</poem>
+		<poem>restore its ruins,<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:11" data-content=" Is 44:26"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>and rebuild it as in&#160;the&#160;days of&#160;old,<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:11" data-content=" Is 63:11; Jr 46:26"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem><verse reference="amos.9.12" display-number="12"><sup class="verse-ref" id="amos.9.12">12</sup>so that they may&#160;possess</verse></poem>
+		<poem>the remnant of&#160;Edom<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:12" data-content=" Ezk 36:5; Ob 21"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>and all the nations</poem>
+		<poem>that bear&#160;my&#160;name<sup class="alt-reading-note"><a href="#" data-toggle="popover" title="9:12" data-content=" LXX reads 'so that the remnant of man and all the nations&#160;.&#160;.&#160;. may seek me'&#8201;; Ac 15:17"><i class="reading-note-icon"></i></a></sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="9:11&#8211;12" data-content=" Is 43:6&#8211;7; Mal 1:11; Ac 15:15&#8211;18"><i class="cross-ref-icon"></i></a></sup>&#8201;&#8211;</poem>
+		<poem type="right">this&#160;is the&#160;declaration of&#160;the&#160;<span class="smallcaps">Lord</span>; he&#160;will do&#160;this.</poem>
+	</poetryblock>
+	<poetryblock>
+		<poem><verse reference="amos.9.13" display-number="13"><sup class="verse-ref" id="amos.9.13">13</sup>Look, the days are&#160;coming&#8201;&#8211;</verse></poem>
+		<poem type="right">this is the&#160;<span class="smallcaps">Lord</span>&#8217;s&#160;declaration&#8201;&#8211;</poem>
+		<poem>when the ploughman will&#160;overtake the&#160;reaper,<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:13" data-content=" Lv 26:5"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>and the one who&#160;treads&#160;grapes</poem>
+		<poem>the sower of&#160;seed.</poem>
+		<poem>The mountains will&#160;drip with&#160;sweet&#160;wine,</poem>
+		<poem>and all the hills will&#160;flow with&#160;it.<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:13" data-content=" Jl 2:24; 3:18"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem><verse reference="amos.9.14" display-number="14"><sup class="verse-ref" id="amos.9.14">14</sup>I will restore the&#160;fortunes of&#160;my&#160;people&#160;Israel.<sup class="translate-note"><a href="#" data-toggle="popover" title="9:14" data-content=" Or 'restore my people Israel from captivity'"><i class="translate-note-icon"></i></a></sup><sup class="cross-ref"><a href="#" data-toggle="popover" title="9:14" data-content=" Dt 30:3; Jr 31:23; 32:42&#8211;44"><i class="cross-ref-icon"></i></a></sup></verse></poem>
+		<poem>They will rebuild and&#160;occupy ruined&#160;cities,<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:14" data-content=" Jr 30:18; 33:10&#8211;11"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>plant vineyards and&#160;drink their&#160;wine,</poem>
+		<poem>make gardens and&#160;eat their&#160;produce.<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:14" data-content=" Is 65:21; Jr 31:5"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem><verse reference="amos.9.15" display-number="15"><sup class="verse-ref" id="amos.9.15">15</sup>I will plant them on&#160;their&#160;land,</verse></poem>
+		<poem>and they will never again be&#160;uprooted</poem>
+		<poem>from the land I&#160;have given&#160;them.<sup class="cross-ref"><a href="#" data-toggle="popover" title="9:15" data-content=" 2Sm 7:10; Jr 24:6"><i class="cross-ref-icon"></i></a></sup></poem>
+		<poem>The <span class="smallcaps">Lord</span> your God has&#160;spoken.</poem>
+	</poetryblock>
+	</chapter>
+	</book>
