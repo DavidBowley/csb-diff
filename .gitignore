@@ -1,5 +1,5 @@
-*.js
-*.js.map
+backend/*.js
+backend/*.js.map
 
 node_modules/
 .vscode/
