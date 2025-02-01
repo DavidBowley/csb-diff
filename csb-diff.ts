@@ -218,31 +218,24 @@ function diffWords(s1: string, s2:string, indent=0): string {
     return res.trimEnd();
 }
 
+function debugHtmlFragmentWithBoilerplate(bookDiff: string[]) {
+    const boilerplateHtmlStart = 
+    `<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>HTML 5 Boilerplate</title>
+        <link rel="stylesheet" href="testDiffStyle.css">
+    </head>
+    <body>
+    `
+    const boilerplateHtmlEnd = 
+    `  </body>
+    </html>`
 
-const boilerplateHtmlStart = 
-`<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>HTML 5 Boilerplate</title>
-    <link rel="stylesheet" href="testDiffStyle.css">
-  </head>
-  <body>
-`
-const boilerplateHtmlEnd = 
-`  </body>
-</html>`
-
-
-const bookParagraphsUS = parseXML('US', '45-Rom.xml');
-const bookParagraphsUK = parseXML('UK', '45-Rom.xml');
-
-if (bookParagraphsUS!== null && bookParagraphsUK !== null) {
-    const bookDiff = csbDiffVersions(bookParagraphsUS, bookParagraphsUK);
     let htmlFragment = '';
-
     for (let i = 0; i < bookDiff.length; i++) {
         const chapter = bookDiff[i];
         htmlFragment += chapter;
@@ -255,5 +248,25 @@ if (bookParagraphsUS!== null && bookParagraphsUK !== null) {
     } catch (err) {
         console.error(err);
     }
+
+}
+
+
+const bookParagraphsUS = parseXML('US', '45-Rom.xml');
+const bookParagraphsUK = parseXML('UK', '45-Rom.xml');
+
+if (bookParagraphsUS!== null && bookParagraphsUK !== null) {
+    const bookDiff = csbDiffVersions(bookParagraphsUS, bookParagraphsUK);
+    
+    try {
+        fs.writeFileSync(path.join(__dirname, 'test45.json'), JSON.stringify(bookDiff));
+    } catch (err) {
+        console.error(err);
+    }
+
+
+    /*
+
+    */
 
 }
