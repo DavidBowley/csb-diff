@@ -24,3 +24,11 @@ del {
     height: 1px;
     overflow: hidden;
 }
+
+.nav-ctrl select {
+    font-size: 1em;
+}
+
+.nav-ctrl label {
+    margin-left: 0.5em;
+}

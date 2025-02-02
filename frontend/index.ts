@@ -1,34 +1,59 @@
-function fetchJson() {
-    fetch("./data/test45.json")
+async function fetchJson() {
+    return fetch("./data/test45.json")
     .then((response) => {
         if (!response.ok) {
             throw new Error(`HTTP error, status = ${response.status}`);
         }
         return response.json();
     })
-    .then((data) => {debugInsertDiff(data)} )
     .catch((error) => {
         throw new Error(`Error: ${error.message}`);
     });
 }
 
-function debugInsertDiff(book: string[]) {
+function updateDiff(book: string[], chapter: number) {
+    chapter -= 1;
     const diffContainer = document.getElementById('test-romans');
-    const dFrag = document.createDocumentFragment();
-    for (const chapter of book) {
-        const wrapper = document.createElement('div');
-        wrapper.innerHTML = '<div>' + chapter + '</div>';
-        if (wrapper.firstChild) {
-            dFrag.append(wrapper.firstChild);
-        }
-    }
-    console.log(dFrag);
-    diffContainer?.appendChild(dFrag);
+    // const dFrag = document.createDocumentFragment();
     
+    if (diffContainer) {
+        // For testing purposes: defaults to first chapter for now
+        diffContainer.innerHTML = book[chapter];
+    }
     
 }
 
-fetchJson();
+/*
+fetchJson().then((json) => {
+    updateDiff(json, 1);
+    const chapterSelect = document.getElementById('nav-ctrl-chapter');
+    chapterSelect?.addEventListener('change', (e) => {
+        const fetchChapter = Number((e.target as HTMLSelectElement).value);
+        updateDiff(json, fetchChapter);
+    })
+})
+
+*/
+
+async function main() {
+    const testRomans = await fetchJson();
+    updateDiff(testRomans, 1);
+    const chapterSelect = document.getElementById('nav-ctrl-chapter');
+    chapterSelect?.addEventListener('change', (e) => {
+        const fetchChapter = Number((e.target as HTMLSelectElement).value);
+        updateDiff(testRomans, fetchChapter);
+    })
+}
+
+
+main();
+
+// updateDiff(myArray, 1)
+
+
+/*
 
 
 
+
+*/
