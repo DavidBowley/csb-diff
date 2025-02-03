@@ -33,7 +33,15 @@ function updateDiff(book: string[], chapter: number) {
     console.log(testRomans.length);
     
     updateDiff(testRomans, 1);
+    
     const chapterSelect = document.getElementById('nav-ctrl-chapter');
+    
+    for (let i = 0; i < testRomans.length; i++) {
+        const option = document.createElement('option');
+        option.appendChild(document.createTextNode(String(i+1)));
+        chapterSelect?.appendChild(option);
+    }
+    
     chapterSelect?.addEventListener('change', (e) => {
         const fetchChapter = Number((e.target as HTMLSelectElement).value);
         updateDiff(testRomans, fetchChapter);
