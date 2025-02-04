@@ -40,12 +40,16 @@ function openBook(book) {
     // Updates the GUI to the selected book, including resetting chapter <select>'s child <option>s
     // Defaults to showing chapter 1
     const chapterSelect = document.getElementById('nav-ctrl-chapter');
+    const navChapterSubmit = document.getElementById('nav-ctrl-chapter-submit');
     chapterSelect.innerHTML = '';
     for (let i = 0; i < book.length; i++) {
         const option = document.createElement('option');
         option.appendChild(document.createTextNode(String(i + 1)));
         chapterSelect === null || chapterSelect === void 0 ? void 0 : chapterSelect.appendChild(option);
     }
+    // Re-enable the chapter picker and submit button now it contains valid values
+    chapterSelect.removeAttribute('disabled');
+    navChapterSubmit === null || navChapterSubmit === void 0 ? void 0 : navChapterSubmit.removeAttribute('disabled');
     updateChapter(book, 1);
 }
 (() => {
@@ -92,5 +96,12 @@ function openBook(book) {
             console.log('book.length: ' + bibleBook[bookRef].length);
             updateChapter(bibleBook[bookRef], chapter);
         }
+    });
+    bookSelect.addEventListener('change', () => {
+        // Once the user updates the book <select> there's no way to guarantee we won't get index
+        // out-of-range issues on the chapter picker, so it should be disabled until the new book
+        // is loaded
+        chapterSelect.setAttribute('disabled', '');
+        navChapterSubmit === null || navChapterSubmit === void 0 ? void 0 : navChapterSubmit.setAttribute('disabled', '');
     });
 })();
