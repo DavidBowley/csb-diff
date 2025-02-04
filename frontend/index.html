@@ -9,15 +9,20 @@
 </head>
 <body>
     <h1>CSB US-UK Diff</h1>
-    <p>This is a test of showing Romans diff below...</p>
     <div class="nav-ctrl">
-        <label for="nav-ctrl-book"><b>Book: </b></label>
-        <select id="nav-ctrl-book">
-            <option>Romans</option>
-        </select>
-        <label for="nav-ctrl-chapter"><b>Chapter: </b></label>
-        <select id="nav-ctrl-chapter">
-        </select>
+        <div class="book-row">
+            <label for="nav-ctrl-book"><b>Book: </b></label>
+            <select id="nav-ctrl-book">
+            </select>
+            <button id="nav-ctrl-book-submit">Open book</button>
+        </div>
+        <div class="chapter-row">
+            <label for="nav-ctrl-chapter"><b>Chapter: </b></label>
+            <select id="nav-ctrl-chapter">
+            </select>
+            <button id="nav-ctrl-chapter-submit">Update chapter</button>
+        </div>
+        
     </div>
     <div id="test-romans"></div>
 

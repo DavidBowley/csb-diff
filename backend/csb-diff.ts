@@ -250,14 +250,14 @@ function debugHtmlFragmentWithBoilerplate(bookDiff: string[]) {
 }
 
 
-const bookParagraphsUS = parseXML('US', '45-Rom.xml');
-const bookParagraphsUK = parseXML('UK', '45-Rom.xml');
+const bookParagraphsUS = parseXML('US', '40-Matt.xml');
+const bookParagraphsUK = parseXML('UK', '40-Matt.xml');
 
 if (bookParagraphsUS!== null && bookParagraphsUK !== null) {
     const bookDiff = csbDiffVersions(bookParagraphsUS, bookParagraphsUK);
     
     try {
-        fs.writeFileSync(path.join(__dirname, 'test45.json'), JSON.stringify(bookDiff));
+        fs.writeFileSync(path.join(__dirname, '40.json'), JSON.stringify(bookDiff));
     } catch (err) {
         console.error(err);
     }
