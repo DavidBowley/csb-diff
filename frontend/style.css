@@ -2,6 +2,7 @@ body {
     font-family: Helvetica;
     font-size: 2em;
     line-height: 1.5;
+    padding: 0 2em 0 2em;
 }
 
 ins {
@@ -29,6 +30,35 @@ del {
     font-size: 1em;
 }
 
-.nav-ctrl label {
-    margin-left: 0.5em;
+.nav-ctrl-chapter {
+    margin-top: 0.5em;
 }
+
+#diff-container {
+    padding: 0 2em 0 2em;
+}
+
+header {
+    margin: auto;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+header .nav-ctrl {
+    font-size: 0.5em;
+}
+
+header h1 {
+    margin-bottom: 0.25em;
+}
+
+footer p {
+    font-size: 0.5em;
+}
+
+button {
+    font-size: 1em;
+}
+

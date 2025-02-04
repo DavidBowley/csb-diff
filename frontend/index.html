@@ -8,24 +8,37 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>CSB US-UK Diff</h1>
-    <div class="nav-ctrl">
-        <div class="book-row">
-            <label for="nav-ctrl-book"><b>Book: </b></label>
-            <select id="nav-ctrl-book">
-            </select>
-            <button id="nav-ctrl-book-submit">Open book</button>
+    <header>
+        <h1>CSB US-UK Diff</h1>
+        <div class="nav-ctrl">
+            <div class="nav-ctrl-book">
+                <div>
+                    <label for="nav-ctrl-book"><b>Book: </b></label>
+                    <select id="nav-ctrl-book">
+                    </select>
+                </div>
+                <div>
+                    <button id="nav-ctrl-book-submit">Open book</button>
+                </div>
+            </div>
+            <div class="nav-ctrl-chapter">
+                <div>
+                    <label for="nav-ctrl-chapter"><b>Chapter: </b></label>
+                    <select id="nav-ctrl-chapter" disabled>
+                    </select>
+                </div>
+                <div>
+                    <button id="nav-ctrl-chapter-submit" disabled>Update chapter</button>
+                </div>
+            </div>
         </div>
-        <div class="chapter-row">
-            <label for="nav-ctrl-chapter"><b>Chapter: </b></label>
-            <select id="nav-ctrl-chapter" disabled>
-            </select>
-            <button id="nav-ctrl-chapter-submit" disabled>Update chapter</button>
-        </div>
-        
-    </div>
-    <div id="test-romans"></div>
-
+    </header>
+    <main>
+        <div id="diff-container"></div>
+    </main>
+    <footer>
+        <p>Scripture quotations marked CSB have been taken from the Christian Standard Bible®, Copyright © 2017 by Holman Bible Publishers. Used by permission. Christian Standard Bible® and CSB® are federally registered trademarks of Holman Bible Publishers.</p>
+    </footer>
     <script src="index.js"></script>
 </body>
 </html>

@@ -32,7 +32,7 @@ function populateBookSelect() {
 
 function updateChapter(book: string[], chapter: number) {
     chapter -= 1;
-    const diffContainer = document.getElementById('test-romans');
+    const diffContainer = document.getElementById('diff-container');
     if (diffContainer) {
         diffContainer.innerHTML = book[chapter];
     }    
@@ -77,7 +77,7 @@ function openBook(book: string[]) {
 
         // If we haven't yet fetched the JSON file and stored internally, then do so...
         if (bibleBook[bookRef] === null) {
-            console.log(`bibleBook array at item ${bookRef} is null. Will download the relevant JSON file, store in bibleBook array, and update diffContainer.`)
+            console.log(`bibleBook array at item ${bookRef} is null. Will download the relevant JSON file and store internally.`)
             fetchJson(bookRef + '.json')
             .then((book) => {
                 openBook(book);
@@ -89,7 +89,7 @@ function openBook(book: string[]) {
         }
         // else we have that book already stored in memory that we can use
         else {
-            console.log(`bibleBook array at item ${bookRef} is NOT null so we already have it in memory. Will update diffContainer.`);
+            console.log(`bibleBook array at item ${bookRef} already contains our JSON object.`);
             openBook(bibleBook[bookRef]);
         }        
     })
