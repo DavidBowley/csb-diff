@@ -13,6 +13,23 @@ function fetchJson(filename: string) {
     });
 }
 
+function populateBookSelect() {
+    const bookSelect = document.getElementById('nav-ctrl-book') as HTMLSelectElement;
+    fetchJson('book-names.json')
+    .then((bookNames: string[]) => {
+        for (let i = 0; i < bookNames.length; i++) {
+            const bookString = bookNames[i];
+            const option = document.createElement('option');
+            option.appendChild(document.createTextNode(bookString));
+            option.value = String(i);
+            bookSelect.appendChild(option);
+        }
+    })
+    .catch((error) => {
+        throw new Error(`Error: ${error.message}`);
+    });    
+}
+
 function updateChapter(book: string[], chapter: number) {
     chapter -= 1;
     const diffContainer = document.getElementById('test-romans');
@@ -33,33 +50,18 @@ function updateBook(book: string[]) {
 }
 
 
-(async () => {
+(() => {
     const bibleBook: Array<Array<string> | null> = []
     for (let i = 0; i < 66; i++) {
         bibleBook.push(null);
     }
 
-    let bookNames: string[];
-    
-    try {
-        bookNames = await fetchJson('book-names.json');
-    }
-    catch (error) {
-        throw new Error(`Error: ${(error as Error).message}`);
-    }
+    populateBookSelect();
     
     const bookSelect = document.getElementById('nav-ctrl-book') as HTMLSelectElement;
     const chapterSelect = document.getElementById('nav-ctrl-chapter') as HTMLSelectElement;
     const navBookSubmit = document.getElementById('nav-ctrl-book-submit');
     const navChapterSubmit = document.getElementById('nav-ctrl-chapter-submit');
-
-    for (let i = 0; i < bookNames.length; i++) {
-        const bookString = bookNames[i];
-        const option = document.createElement('option');
-        option.appendChild(document.createTextNode(bookString));
-        option.value = String(i);
-        bookSelect.appendChild(option);
-    }
 
     navBookSubmit?.addEventListener('click', () => {
         const bookRef = bookSelect.value;

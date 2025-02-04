@@ -1,13 +1,4 @@
 "use strict";
-var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {
-    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
-    return new (P || (P = Promise))(function (resolve, reject) {
-        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }
-        function rejected(value) { try { step(generator["throw"](value)); } catch (e) { reject(e); } }
-        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }
-        step((generator = generator.apply(thisArg, _arguments || [])).next());
-    });
-};
 function fetchJson(filename) {
     // Returns a promise that resolves to a JSON object
     // Assumes that the file is in the /data subfolder
@@ -17,6 +8,22 @@ function fetchJson(filename) {
             throw new Error(`HTTP error, status = ${response.status}`);
         }
         return response.json();
+    })
+        .catch((error) => {
+        throw new Error(`Error: ${error.message}`);
+    });
+}
+function populateBookSelect() {
+    const bookSelect = document.getElementById('nav-ctrl-book');
+    fetchJson('book-names.json')
+        .then((bookNames) => {
+        for (let i = 0; i < bookNames.length; i++) {
+            const bookString = bookNames[i];
+            const option = document.createElement('option');
+            option.appendChild(document.createTextNode(bookString));
+            option.value = String(i);
+            bookSelect.appendChild(option);
+        }
     })
         .catch((error) => {
         throw new Error(`Error: ${error.message}`);
@@ -39,29 +46,16 @@ function updateBook(book) {
     }
     updateChapter(book, 1);
 }
-(() => __awaiter(void 0, void 0, void 0, function* () {
+(() => {
     const bibleBook = [];
     for (let i = 0; i < 66; i++) {
         bibleBook.push(null);
     }
-    let bookNames;
-    try {
-        bookNames = yield fetchJson('book-names.json');
-    }
-    catch (error) {
-        throw new Error(`Error: ${error.message}`);
-    }
+    populateBookSelect();
     const bookSelect = document.getElementById('nav-ctrl-book');
     const chapterSelect = document.getElementById('nav-ctrl-chapter');
     const navBookSubmit = document.getElementById('nav-ctrl-book-submit');
     const navChapterSubmit = document.getElementById('nav-ctrl-chapter-submit');
-    for (let i = 0; i < bookNames.length; i++) {
-        const bookString = bookNames[i];
-        const option = document.createElement('option');
-        option.appendChild(document.createTextNode(bookString));
-        option.value = String(i);
-        bookSelect.appendChild(option);
-    }
     navBookSubmit === null || navBookSubmit === void 0 ? void 0 : navBookSubmit.addEventListener('click', () => {
         const bookRef = bookSelect.value;
         const jsonFilename = bookRef + '.json';
@@ -91,4 +85,4 @@ function updateBook(book) {
             updateChapter(book, chapter);
         }
     });
-}))();
+})();
