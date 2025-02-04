@@ -38,7 +38,9 @@ function updateChapter(book: string[], chapter: number) {
     }    
 }
 
-function updateBook(book: string[]) {
+function openBook(book: string[]) {
+    // Updates the GUI to the selected book, including resetting chapter <select>'s child <option>s
+    // Defaults to showing chapter 1
     const chapterSelect = document.getElementById('nav-ctrl-chapter') as HTMLSelectElement;
     chapterSelect.innerHTML = '';
     for (let i = 0; i < book.length; i++) {
@@ -51,47 +53,53 @@ function updateBook(book: string[]) {
 
 
 (() => {
+    // Used to store each book in memory instead of extra fetches of JSON file
     const bibleBook: Array<Array<string> | null> = []
     for (let i = 0; i < 66; i++) {
         bibleBook.push(null);
     }
 
-    populateBookSelect();
-    
     const bookSelect = document.getElementById('nav-ctrl-book') as HTMLSelectElement;
     const chapterSelect = document.getElementById('nav-ctrl-chapter') as HTMLSelectElement;
     const navBookSubmit = document.getElementById('nav-ctrl-book-submit');
     const navChapterSubmit = document.getElementById('nav-ctrl-chapter-submit');
 
+    // Pull in book names and setup <select> with option values that correspond to JSON filenames
+    // and bibleBook top-level array indicies
+    populateBookSelect();
+
     navBookSubmit?.addEventListener('click', () => {
-        const bookRef = bookSelect.value;
-        const jsonFilename = bookRef + '.json'
-        const bookInMemory = bibleBook[Number(bookRef)];
-        
-        if (bookInMemory === null) {
+        const bookRef = Number(bookSelect.value);
+
+        // If we haven't yet fetched the JSON file and stored internally, then do so...
+        if (bibleBook[bookRef] === null) {
             console.log(`bibleBook array at item ${bookRef} is null. Will download the relevant JSON file, store in bibleBook array, and update diffContainer.`)
-            fetchJson(jsonFilename).then((book) => {
-                updateBook(book);
-                bibleBook[Number(bookRef)] = book;
+            fetchJson(bookRef + '.json')
+            .then((book) => {
+                openBook(book);
+                bibleBook[bookRef] = book;
             })
+            .catch((error) => {
+                console.log('Error: unable to fetch bible book JSON. Caught exception shown below:\n' + error.message);
+            });
         }
+        // else we have that book already stored in memory that we can use
         else {
             console.log(`bibleBook array at item ${bookRef} is NOT null so we already have it in memory. Will update diffContainer.`);
-            updateBook(bookInMemory);
+            openBook(bibleBook[bookRef]);
         }        
     })
 
     navChapterSubmit?.addEventListener('click', () => {
         const chapter = Number(chapterSelect.value);
         const bookRef = Number(bookSelect.value);
-        const book = bibleBook[bookRef];
-        if (book === null) {
+        if (bibleBook[bookRef] === null) {
             alert('Could not find that chapter - make sure you have pressed the Open Book button first');
         }
         else {
             console.log(`Chapter: ${chapter}, bookRef: ${bookRef}`)
-            console.log('book.length: ' + book.length)
-            updateChapter(book, chapter);
+            console.log('book.length: ' + bibleBook[bookRef].length)
+            updateChapter(bibleBook[bookRef], chapter);
         }
     });
 
