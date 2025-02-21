@@ -62,3 +62,13 @@ button {
     font-size: 1em;
 }
 
+.nav-ctrl-chapter-btn {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-ctrl-chapter-btn button {
+    font-size: 0.5em;
+}
+
+
