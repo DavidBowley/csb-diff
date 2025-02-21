@@ -55,6 +55,9 @@
             prevChapterBtnTop?.setAttribute('disabled', '');
             prevChapterBtnBottom?.setAttribute('disabled', '');
         }
+        const chapterHeading = document.createElement('h2');
+        chapterHeading.appendChild(document.createTextNode(`Chapter ${chapter+1}`));
+        chapterHeadingContainer?.replaceChildren(chapterHeading);
     }
     
     function openBook(book: string[]) {
@@ -80,6 +83,7 @@
         bibleBook.push(null);
     }
 
+    const chapterHeadingContainer = document.getElementById('chapter-heading-container');
     const diffContainer = document.getElementById('diff-container');
     const bookSelect = document.getElementById('nav-ctrl-book') as HTMLSelectElement;
     const chapterSelect = document.getElementById('nav-ctrl-chapter') as HTMLSelectElement;

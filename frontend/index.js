@@ -53,6 +53,9 @@
             prevChapterBtnTop === null || prevChapterBtnTop === void 0 ? void 0 : prevChapterBtnTop.setAttribute('disabled', '');
             prevChapterBtnBottom === null || prevChapterBtnBottom === void 0 ? void 0 : prevChapterBtnBottom.setAttribute('disabled', '');
         }
+        const chapterHeading = document.createElement('h2');
+        chapterHeading.appendChild(document.createTextNode(`Chapter ${chapter + 1}`));
+        chapterHeadingContainer === null || chapterHeadingContainer === void 0 ? void 0 : chapterHeadingContainer.replaceChildren(chapterHeading);
     }
     function openBook(book) {
         // Updates the GUI to the selected book, including resetting chapter <select>'s child <option>s
@@ -75,6 +78,7 @@
     for (let i = 0; i < 66; i++) {
         bibleBook.push(null);
     }
+    const chapterHeadingContainer = document.getElementById('chapter-heading-container');
     const diffContainer = document.getElementById('diff-container');
     const bookSelect = document.getElementById('nav-ctrl-book');
     const chapterSelect = document.getElementById('nav-ctrl-chapter');

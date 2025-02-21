@@ -34,10 +34,6 @@ del {
     margin-top: 0.5em;
 }
 
-#diff-container {
-    padding: 0 2em 0 2em;
-}
-
 header {
     margin: auto;
     width: 50%;
@@ -52,6 +48,18 @@ header .nav-ctrl {
 
 header h1 {
     margin-bottom: 0.25em;
+}
+
+.passage-text {
+    padding: 0 2em 0 2em;
+}
+
+.passage-text h2 {
+    font-size: 1em;
+}
+
+#chapter-heading-container {
+    text-align: center;
 }
 
 footer p {
@@ -70,5 +78,6 @@ button {
 .nav-ctrl-chapter-btn button {
     font-size: 0.5em;
 }
+
 
 
