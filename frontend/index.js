@@ -1,86 +1,77 @@
 "use strict";
-function fetchJson(filename) {
-    // Returns a promise that resolves to a JSON object
-    // Assumes that the file is in the /data subfolder
-    return fetch('./data/' + filename)
-        .then((response) => {
-        if (!response.ok) {
-            throw new Error(`HTTP error, status = ${response.status}`);
-        }
-        return response.json();
-    })
-        .catch((error) => {
-        throw new Error(`Error: ${error.message}`);
-    });
-}
-function populateBookSelect() {
-    const bookSelect = document.getElementById('nav-ctrl-book');
-    fetchJson('book-names.json')
-        .then((bookNames) => {
-        for (let i = 0; i < bookNames.length; i++) {
-            const bookString = bookNames[i];
-            const option = document.createElement('option');
-            option.appendChild(document.createTextNode(bookString));
-            option.value = String(i);
-            bookSelect.appendChild(option);
-        }
-    })
-        .catch((error) => {
-        throw new Error(`Error: ${error.message}`);
-    });
-}
-function updateChapter(book, chapter) {
-    // Expects a human-readable chapter number from the caller, 
-    // which is immediately reset for the 0-indexed array
-    chapter -= 1;
-    const diffContainer = document.getElementById('diff-container');
-    const nextChapterBtnTop = document.getElementById('nav-ctrl-next-chapter-btn-top');
-    const prevChapterBtnTop = document.getElementById('nav-ctrl-prev-chapter-btn-top');
-    if (diffContainer) {
-        diffContainer.innerHTML = book[chapter];
-    }
-    // Set disabled state of next/previous chapter buttons depending on what chapter we're on
-    console.log(`Current chapter index: ${chapter}`);
-    console.log(`Is next chapter in the book array? ... ${chapter + 1 in book}`);
-    console.log(`Is previous chapter in the book array? ... ${chapter - 1 in book}`);
-    if (chapter + 1 in book) {
-        nextChapterBtnTop === null || nextChapterBtnTop === void 0 ? void 0 : nextChapterBtnTop.removeAttribute('disabled');
-    }
-    else {
-        nextChapterBtnTop === null || nextChapterBtnTop === void 0 ? void 0 : nextChapterBtnTop.setAttribute('disabled', '');
-    }
-    if (chapter - 1 in book) {
-        prevChapterBtnTop === null || prevChapterBtnTop === void 0 ? void 0 : prevChapterBtnTop.removeAttribute('disabled');
-    }
-    else {
-        prevChapterBtnTop === null || prevChapterBtnTop === void 0 ? void 0 : prevChapterBtnTop.setAttribute('disabled', '');
-    }
-}
-function openBook(book) {
-    // Updates the GUI to the selected book, including resetting chapter <select>'s child <option>s
-    // and enabling the relevant prev/next chapter controls
-    // Defaults to showing chapter 1
-    const chapterSelect = document.getElementById('nav-ctrl-chapter');
-    const navChapterSubmit = document.getElementById('nav-ctrl-chapter-submit');
-    const nextChapterBtnTop = document.getElementById('nav-ctrl-next-chapter-btn-top');
-    chapterSelect.innerHTML = '';
-    for (let i = 0; i < book.length; i++) {
-        const option = document.createElement('option');
-        option.appendChild(document.createTextNode(String(i + 1)));
-        option.setAttribute('value', String(i + 1));
-        chapterSelect === null || chapterSelect === void 0 ? void 0 : chapterSelect.appendChild(option);
-    }
-    // Re-enable the chapter picker and submit button now it contains valid values
-    chapterSelect.removeAttribute('disabled');
-    navChapterSubmit === null || navChapterSubmit === void 0 ? void 0 : navChapterSubmit.removeAttribute('disabled');
-    updateChapter(book, 1);
-}
 (() => {
+    function fetchJson(filename) {
+        // Returns a promise that resolves to a JSON object
+        // Assumes that the file is in the /data subfolder
+        return fetch('./data/' + filename)
+            .then((response) => {
+            if (!response.ok) {
+                throw new Error(`HTTP error, status = ${response.status}`);
+            }
+            return response.json();
+        })
+            .catch((error) => {
+            throw new Error(`Error: ${error.message}`);
+        });
+    }
+    function populateBookSelect() {
+        fetchJson('book-names.json')
+            .then((bookNames) => {
+            for (let i = 0; i < bookNames.length; i++) {
+                const bookString = bookNames[i];
+                const option = document.createElement('option');
+                option.appendChild(document.createTextNode(bookString));
+                option.value = String(i);
+                bookSelect.appendChild(option);
+            }
+        })
+            .catch((error) => {
+            throw new Error(`Error: ${error.message}`);
+        });
+    }
+    function updateChapter(book, chapter) {
+        // Expects a human-readable chapter number from the caller, 
+        // which is immediately reset for the 0-indexed array
+        chapter -= 1;
+        if (diffContainer) {
+            diffContainer.innerHTML = book[chapter];
+        }
+        // Set disabled state of next/previous chapter buttons depending on what chapter we're on
+        if (chapter + 1 in book) {
+            nextChapterBtnTop === null || nextChapterBtnTop === void 0 ? void 0 : nextChapterBtnTop.removeAttribute('disabled');
+        }
+        else {
+            nextChapterBtnTop === null || nextChapterBtnTop === void 0 ? void 0 : nextChapterBtnTop.setAttribute('disabled', '');
+        }
+        if (chapter - 1 in book) {
+            prevChapterBtnTop === null || prevChapterBtnTop === void 0 ? void 0 : prevChapterBtnTop.removeAttribute('disabled');
+        }
+        else {
+            prevChapterBtnTop === null || prevChapterBtnTop === void 0 ? void 0 : prevChapterBtnTop.setAttribute('disabled', '');
+        }
+    }
+    function openBook(book) {
+        // Updates the GUI to the selected book, including resetting chapter <select>'s child <option>s
+        // and enabling the relevant prev/next chapter controls
+        // Defaults to showing chapter 1
+        chapterSelect.innerHTML = '';
+        for (let i = 0; i < book.length; i++) {
+            const option = document.createElement('option');
+            option.appendChild(document.createTextNode(String(i + 1)));
+            option.setAttribute('value', String(i + 1));
+            chapterSelect === null || chapterSelect === void 0 ? void 0 : chapterSelect.appendChild(option);
+        }
+        // Re-enable the chapter picker and submit button now it contains valid values
+        chapterSelect.removeAttribute('disabled');
+        navChapterSubmit === null || navChapterSubmit === void 0 ? void 0 : navChapterSubmit.removeAttribute('disabled');
+        updateChapter(book, 1);
+    }
     // Used to store each book in memory instead of extra fetches of JSON file
     const bibleBook = [];
     for (let i = 0; i < 66; i++) {
         bibleBook.push(null);
     }
+    const diffContainer = document.getElementById('diff-container');
     const bookSelect = document.getElementById('nav-ctrl-book');
     const chapterSelect = document.getElementById('nav-ctrl-chapter');
     const navBookSubmit = document.getElementById('nav-ctrl-book-submit');
