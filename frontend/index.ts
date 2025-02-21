@@ -57,7 +57,11 @@
         }
         const chapterHeading = document.createElement('h2');
         chapterHeading.appendChild(document.createTextNode(`Chapter ${chapter+1}`));
+        chapterHeading.setAttribute('tabindex', '-1');
         chapterHeadingContainer?.replaceChildren(chapterHeading);
+        // Accessibility: as this is an SPA, focus needs to be managed when the new content appears
+        // especially when that content is behind the current focus position
+        chapterHeading.focus()
     }
     
     function openBook(book: string[]) {
