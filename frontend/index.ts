@@ -41,15 +41,19 @@
         // Set disabled state of next/previous chapter buttons depending on what chapter we're on
         if (chapter + 1 in book) {
             nextChapterBtnTop?.removeAttribute('disabled');
+            nextChapterBtnBottom?.removeAttribute('disabled');
         }
         else {
             nextChapterBtnTop?.setAttribute('disabled', '');
+            nextChapterBtnBottom?.setAttribute('disabled', '');
         }
         if (chapter - 1 in book) {
             prevChapterBtnTop?.removeAttribute('disabled');
+            prevChapterBtnBottom?.removeAttribute('disabled');
         }
         else {
             prevChapterBtnTop?.setAttribute('disabled', '');
+            prevChapterBtnBottom?.setAttribute('disabled', '');
         }
     }
     
@@ -83,6 +87,8 @@
     const navChapterSubmit = document.getElementById('nav-ctrl-chapter-submit');
     const nextChapterBtnTop = document.getElementById('nav-ctrl-next-chapter-btn-top');
     const prevChapterBtnTop = document.getElementById('nav-ctrl-prev-chapter-btn-top');
+    const nextChapterBtnBottom = document.getElementById('nav-ctrl-next-chapter-btn-bottom');
+    const prevChapterBtnBottom = document.getElementById('nav-ctrl-prev-chapter-btn-bottom');
 
     // Pull in book names and setup <select> with option values that correspond to JSON filenames
     // and bibleBook top-level array indicies
@@ -131,9 +137,9 @@
         navChapterSubmit?.setAttribute('disabled', '');
         nextChapterBtnTop?.setAttribute('disabled', '');
         prevChapterBtnTop?.setAttribute('disabled', '');
-    })
+    });
 
-    nextChapterBtnTop?.addEventListener('click', () => {
+    function handleNextChapterClick() {
         const chapter = Number(chapterSelect.value);
         const bookRef = Number(bookSelect.value);
         if (bibleBook[bookRef] === null) {
@@ -143,9 +149,17 @@
             updateChapter(bibleBook[bookRef], chapter + 1);
             chapterSelect.value = String(chapter + 1);
         }
-    })
+    }
 
-    prevChapterBtnTop?.addEventListener('click', () => {
+    nextChapterBtnTop?.addEventListener('click', () => {
+        handleNextChapterClick();
+    });
+
+    nextChapterBtnBottom?.addEventListener('click', () => {
+        handleNextChapterClick();
+    });
+
+    function handlePrevChapterClick() {
         const chapter = Number(chapterSelect.value);
         const bookRef = Number(bookSelect.value);
         if (bibleBook[bookRef] === null) {
@@ -155,6 +169,14 @@
             updateChapter(bibleBook[bookRef], chapter - 1);
             chapterSelect.value = String(chapter - 1);
         }
-    })
+    } 
+
+    prevChapterBtnTop?.addEventListener('click', () => {
+        handlePrevChapterClick();
+    });
+
+    prevChapterBtnBottom?.addEventListener('click', () => {
+        handlePrevChapterClick();
+    });
 
 })();
