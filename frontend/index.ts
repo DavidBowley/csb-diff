@@ -145,6 +145,8 @@
         navChapterSubmit?.setAttribute('disabled', '');
         nextChapterBtnTop?.setAttribute('disabled', '');
         prevChapterBtnTop?.setAttribute('disabled', '');
+        nextChapterBtnBottom?.setAttribute('disabled', '');
+        prevChapterBtnBottom?.setAttribute('disabled', '');
     });
 
     function handleNextChapterClick() {

@@ -135,6 +135,8 @@
         navChapterSubmit === null || navChapterSubmit === void 0 ? void 0 : navChapterSubmit.setAttribute('disabled', '');
         nextChapterBtnTop === null || nextChapterBtnTop === void 0 ? void 0 : nextChapterBtnTop.setAttribute('disabled', '');
         prevChapterBtnTop === null || prevChapterBtnTop === void 0 ? void 0 : prevChapterBtnTop.setAttribute('disabled', '');
+        nextChapterBtnBottom === null || nextChapterBtnBottom === void 0 ? void 0 : nextChapterBtnBottom.setAttribute('disabled', '');
+        prevChapterBtnBottom === null || prevChapterBtnBottom === void 0 ? void 0 : prevChapterBtnBottom.setAttribute('disabled', '');
     });
     function handleNextChapterClick() {
         const chapter = Number(chapterSelect.value);
