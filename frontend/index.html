@@ -30,6 +30,9 @@
                 <div>
                     <button id="nav-ctrl-chapter-submit" disabled>Update chapter</button>
                 </div>
+            <div class="nav-ctrl-help">
+                <button data-a11y-dialog-show="info-dialog">Testing A11y Dialog</button>
+            </div>
             </div>
         </div>
     </header>
@@ -50,6 +53,26 @@
     <footer>
         <p>Scripture quotations marked CSB have been taken from the Christian Standard Bible®, Copyright © 2017 by Holman Bible Publishers. Used by permission. Christian Standard Bible® and CSB® are federally registered trademarks of Holman Bible Publishers.</p>
     </footer>
+
+    <!-- Info Dialog - https://github.com/KittyGiraudel/a11y-dialog -->
+    <div
+        aria-labelledby="info-dialog-title"
+        aria-hidden="true"
+        class="dialog-container"
+        data-a11y-dialog="info-dialog">
+        <div data-a11y-dialog-hide class="dialog-overlay"></div>
+        <div role="document" class="dialog-content">
+            <button type="button" data-a11y-dialog-hide aria-label="Close dialog">&times;</button>
+            <h1 id="info-dialog-title">Your dialog title</h1>
+            <p>This is my dialog content...</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, enim molestias? Odio est officiis distinctio modi eveniet enim reiciendis reprehenderit, eos itaque commodi, porro blanditiis iure facilis ut, ipsum impedit.</p>
+        </div>
+    </div>
+
+    <script
+        defer
+        src="https://cdn.jsdelivr.net/npm/a11y-dialog@8/dist/a11y-dialog.min.js"
+        ></script>
     <script src="index.js"></script>
 </body>
 </html>
