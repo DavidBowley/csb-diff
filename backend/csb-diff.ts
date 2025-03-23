@@ -216,7 +216,7 @@ function diffWords(s1: string, s2:string, indent=0): string {
     return res.trimEnd();
 }
 
-function debugHtmlFragmentWithBoilerplate(bookDiff: string[]) {
+function debugHtmlFragmentWithBoilerplate(bookDiff: string[], filename: string) {
     const boilerplateHtmlStart = 
     `<!DOCTYPE html>
     <html lang="en">
@@ -236,35 +236,61 @@ function debugHtmlFragmentWithBoilerplate(bookDiff: string[]) {
     let htmlFragment = '';
     for (let i = 0; i < bookDiff.length; i++) {
         const chapter = bookDiff[i];
+        htmlFragment += `\n<h2>Chapter: ${i+1}</h2>\n`
         htmlFragment += chapter;
     }
     
     const outputFile = boilerplateHtmlStart + htmlFragment + boilerplateHtmlEnd;
+    // This is a dirty way to change to a HTML file that doesn't take into account differing
+    // extension string lengths, but as the source file will always be '.xml' then it doesn't
+    // matter too much
+    filename = filename.slice(0, -3) + 'html';
 
     try {
-        fs.writeFileSync(path.join(__dirname, 'testDiff.html'), outputFile);
+        fs.writeFileSync(path.join(__dirname, 'debug_output', filename), outputFile);
     } catch (err) {
         console.error(err);
     }
 
 }
 
-
-const bookParagraphsUS = parseXML('US', '01-Gen.xml');
-const bookParagraphsUK = parseXML('UK', '01-Gen.xml');
-
-if (bookParagraphsUS!== null && bookParagraphsUK !== null) {
-    const bookDiff = csbDiffVersions(bookParagraphsUS, bookParagraphsUK);
+function outputToJson() {
+    // WIP function that outputs the diff HTML fragment into a JSON file ready for the frontend
+    // Currently only takes hard-coded filenames but in the future will be modified to take the
+    // filenames from the XML files directory
+    const bookParagraphsUS = parseXML('US', '01-Gen.xml');
+    const bookParagraphsUK = parseXML('UK', '01-Gen.xml');
     
-    try {
-        fs.writeFileSync(path.join(__dirname, '0.json'), JSON.stringify(bookDiff));
-    } catch (err) {
-        console.error(err);
+    if (bookParagraphsUS!== null && bookParagraphsUK !== null) {
+        const bookDiff = csbDiffVersions(bookParagraphsUS, bookParagraphsUK);
+        
+        try {
+            fs.writeFileSync(path.join(__dirname, '0.json'), JSON.stringify(bookDiff));
+        } catch (err) {
+            console.error(err);
+        }
     }
-
-
-    /*
-
-    */
-
 }
+
+function isFile(filename: string) {
+    return fs.lstatSync(filename).isFile();
+};
+
+const sourcePath = path.join(__dirname, 'data', 'US');
+const sourceFiles = fs.readdirSync(sourcePath)
+    .map(filename => {
+        return path.join(sourcePath, filename)
+    })
+    .filter(isFile);
+
+for (const filePath of sourceFiles) {
+    const filename = path.basename(filePath);
+    const bookParagraphsUS = parseXML('US', filename);
+    const bookParagraphsUK = parseXML('UK', filename);
+
+    if (bookParagraphsUS!== null && bookParagraphsUK !== null) {
+        const bookDiff = csbDiffVersions(bookParagraphsUS, bookParagraphsUK);
+        debugHtmlFragmentWithBoilerplate(bookDiff, filename);
+    }
+}
+
