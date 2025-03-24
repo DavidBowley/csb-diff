@@ -1,101 +1,186 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>CSB US-UK Diff</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
     <header>
-        <h1>CSB US-UK Diff</h1>
-        <div class="nav-ctrl">
-            <div class="nav-ctrl-book">
-                <div>
-                    <label for="nav-ctrl-book"><b>Book: </b></label>
-                    <select id="nav-ctrl-book">
-                    </select>
-                </div>
-                <div>
-                    <button id="nav-ctrl-book-submit">Open book</button>
-                </div>
-            </div>
-            <div class="nav-ctrl-chapter">
-                <div>
-                    <label for="nav-ctrl-chapter"><b>Chapter: </b></label>
-                    <select id="nav-ctrl-chapter" disabled>
-                    </select>
-                </div>
-                <div>
-                    <button id="nav-ctrl-chapter-submit" disabled>Update chapter</button>
-                </div>
-            <div class="nav-ctrl-help">
-                <button data-a11y-dialog-show="info-dialog">Help / Info</button>
-            </div>
-            </div>
+      <h1>CSB US-UK Diff</h1>
+      <div class="nav-ctrl">
+        <div class="nav-ctrl-book">
+          <div>
+            <label for="nav-ctrl-book"><b>Book: </b></label>
+            <select id="nav-ctrl-book"></select>
+          </div>
+          <div>
+            <button id="nav-ctrl-book-submit">Open book</button>
+          </div>
         </div>
+        <div class="nav-ctrl-chapter">
+          <div>
+            <label for="nav-ctrl-chapter"><b>Chapter: </b></label>
+            <select id="nav-ctrl-chapter" disabled></select>
+          </div>
+          <div>
+            <button id="nav-ctrl-chapter-submit" disabled>
+              Update chapter
+            </button>
+          </div>
+          <div class="nav-ctrl-help">
+            <button data-a11y-dialog-show="info-dialog">Help / Info</button>
+          </div>
+        </div>
+      </div>
     </header>
     <main>
-        <nav aria-label="Chapter" class="nav-ctrl-chapter-btn">
-            <button id="nav-ctrl-prev-chapter-btn-top" disabled>Previous Chapter</button>
-            <button id="nav-ctrl-next-chapter-btn-top" disabled>Next Chapter</button>
-        </nav>
-        <div class="passage-text">
-            <div id="chapter-heading-container"></div>
-            <div id="diff-container"></div>
-        </div>
-        <nav aria-label="Chapter" class="nav-ctrl-chapter-btn">
-            <button id="nav-ctrl-prev-chapter-btn-bottom" disabled>Previous Chapter</button>
-            <button id="nav-ctrl-next-chapter-btn-bottom" disabled>Next Chapter</button>
-        </nav>
+      <nav aria-label="Chapter" class="nav-ctrl-chapter-btn">
+        <button id="nav-ctrl-prev-chapter-btn-top" disabled>
+          Previous Chapter
+        </button>
+        <button id="nav-ctrl-next-chapter-btn-top" disabled>
+          Next Chapter
+        </button>
+      </nav>
+      <div class="passage-text">
+        <div id="chapter-heading-container"></div>
+        <div id="diff-container"></div>
+      </div>
+      <nav aria-label="Chapter" class="nav-ctrl-chapter-btn">
+        <button id="nav-ctrl-prev-chapter-btn-bottom" disabled>
+          Previous Chapter
+        </button>
+        <button id="nav-ctrl-next-chapter-btn-bottom" disabled>
+          Next Chapter
+        </button>
+      </nav>
     </main>
     <footer>
-        <p>Scripture quotations marked CSB have been taken from the Christian Standard Bible®, Copyright © 2017 by Holman Bible Publishers. Used by permission. Christian Standard Bible® and CSB® are federally registered trademarks of Holman Bible Publishers.</p>
+      <p>
+        Scripture quotations marked CSB have been taken from the Christian
+        Standard Bible®, Copyright © 2017 by Holman Bible Publishers. Used by
+        permission. Christian Standard Bible® and CSB® are federally
+        registered trademarks of Holman Bible Publishers.
+      </p>
     </footer>
 
     <!-- Info Dialog - https://github.com/KittyGiraudel/a11y-dialog -->
     <div
-        aria-labelledby="info-dialog-title"
-        aria-hidden="true"
-        class="dialog-container"
-        data-a11y-dialog="info-dialog">
-        <div data-a11y-dialog-hide class="dialog-overlay"></div>
-        <div role="document" class="dialog-content">
-            <div class="dialog-close-button">
-                <button type="button" data-a11y-dialog-hide aria-label="Close dialog">&times;</button>
-            </div>
-            <div class="dialog-main">
-                <h1 id="info-dialog-title">CSB US-UK Diff Information</h1>
-                <h2>What is a Diff?</h2>
-                <p>A <a href="https://en.wikipedia.org/wiki/Diff">Diff</a> is a computing term that refers to a <i>"tool that computes and displays the differences between the contents of files".</i> In our case, our tool computes and displays the differences between the two versions of the CSB Bible available at the time of writing: CSB US and CSB UK.</p>
-                <h2>Why?!</h2>
-                <p>I needed a project to occupy me while I worked on learning a new programming language (TypeScript). But also as a reader of the CSB in the UK I was fascinated to know <i>exactly what</i> had been changed from the US version without having to hold the two versions side-by-side and strain my eyes.</p>
-                <p>For example, did the UK translators remove the famous "Saul and to his bloody family" line (2 Sam 21:1) because of how those words are used in a modern UK context? (<b>spoiler alert:</b> they did not). What else was changed, given that these two countries separated by an ocean can have entirely different ways to interpret the same words?</p>
-                <h2>How does it work?</h2>
-                <p>The tool takes the US version as the source text, and checks for any differences made in the UK version. The output on the screen is a combination of both versions with highlighting to show where the differing words come from.
-                <p>Words that have been removed in the UK version are highlighted in a red colour and use a dotted underline and overline font style. Words that have been added in the UK version are highlighted in a green color and use a dashed underline and overline font style.</p>
-                <p>All other words without highlighting were present in both versions - do not be surprised if this is all you see for large sections of the text.</p>
-                <h2>Limitations of the Tool</h2>
-                <p>The tool is not 100% effective - sometimes accidentally due to how it was coded, and sometimes due to deliberate logic choices that are noted below. As such, <i><b>do not rely on this tool as an authoritative reproduction of <u>anything</u>.</b></i> This cannot be used as a replacement for the original documents, and due to the formatting of both versions together it is not suitable for copy/pasting from.</p>
-                <p>Refer to the <a href="https://csbible.com/" target="_blank">CSB US</a> and <a href="https://csbible.uk/" target="_blank">CSB UK</a> websites where you can view the original text, as well as purhcase print copies.</p>
-                <p>The tool deliberately avoids highlighting certain changes that have occurred in the UK version because they are likely uninteresting to most people:</p>
-                <ul>
-                    <li>Quotation marks, e.g. single-quote to double-quote and vice versa and other punctuation. Note: it's not always possible to hide them so some of them do still show up.</li>
-                    <li>Changes that aren't within the actual text, e.g. section headings.</li>
-                    <li>White space differences, such as two space characters instead of one, or extra paragraph breaks.</li>
-                </ul>
-                <div class="dialog-close-button-bottom">
-                    <button data-a11y-dialog-hide>Return to CSB US-UK Diff</button>
-                </div>
-            </div>
+      aria-labelledby="info-dialog-title"
+      aria-hidden="true"
+      class="dialog-container"
+      data-a11y-dialog="info-dialog"
+    >
+      <div data-a11y-dialog-hide class="dialog-overlay"></div>
+      <div role="document" class="dialog-content">
+        <div class="dialog-close-button">
+          <button type="button" data-a11y-dialog-hide aria-label="Close dialog">
+            &times;
+          </button>
         </div>
+        <div class="dialog-main">
+          <h1 id="info-dialog-title">CSB US-UK Diff Information</h1>
+          <h2>What is a Diff?</h2>
+          <p>
+            A <a href="https://en.wikipedia.org/wiki/Diff">Diff</a> is a
+            computing term that refers to a
+            <i
+              >"tool that computes and displays the differences between the
+              contents of files".</i
+            >
+            In our case, our tool computes and displays the differences between
+            the two versions of the CSB Bible available at the time of writing:
+            CSB US and CSB UK.
+          </p>
+          <h2>Why?!</h2>
+          <p>
+            I needed a project to occupy me while I worked on learning a new
+            programming language (TypeScript). But also as a reader of the CSB
+            in the UK I was fascinated to know <i>exactly what</i> had been
+            changed from the US version without having to hold the two versions
+            side-by-side and strain my eyes.
+          </p>
+          <p>
+            For example, did the UK translators remove the famous "Saul and to
+            his bloody family" line (2 Sam 21:1) because of how those words are
+            used in a modern UK context? (<b>spoiler alert:</b> they did not).
+            What else was changed, given that these two countries separated by
+            an ocean can have entirely different ways to interpret the same
+            words?
+          </p>
+          <h2>How does it work?</h2>
+          <p>
+            The tool takes the US version as the source text, and checks for any
+            differences made in the UK version. The output on the screen is a
+            combination of both versions with highlighting to show where the
+            differing words come from.
+          </p>
+          <p>
+            Words that have been removed in the UK version are highlighted in a
+            red colour and use a dotted underline and overline font style. Words
+            that have been added in the UK version are highlighted in a green
+            color and use a dashed underline and overline font style.
+          </p>
+          <p>
+            All other words without highlighting were present in both versions -
+            do not be surprised if this is all you see for large sections of the
+            text.
+          </p>
+          <h2>Limitations of the Tool</h2>
+          <p>
+            The tool is not 100% effective - sometimes accidentally due to how
+            it was coded, and sometimes due to deliberate logic choices that are
+            noted below. As such,
+            <i
+              ><b
+                >do not rely on this tool as an authoritative reproduction of
+                <u>anything</u>.</b
+              ></i
+            >
+            This cannot be used as a replacement for the original documents, and
+            due to the formatting of both versions together it is not suitable
+            for copy/pasting from.
+          </p>
+          <p>
+            Refer to the
+            <a href="https://csbible.com/" target="_blank">CSB US</a> and
+            <a href="https://csbible.uk/" target="_blank">CSB UK</a> websites
+            where you can view the original text, as well as purhcase print
+            copies.
+          </p>
+          <p>
+            The tool deliberately avoids highlighting certain changes that have
+            occurred in the UK version because they are likely uninteresting to
+            most people:
+          </p>
+          <ul>
+            <li>
+              Quotation marks, e.g. single-quote to double-quote and vice versa
+              and other punctuation. Note: it's not always possible to hide them
+              so some of them do still show up.
+            </li>
+            <li>
+              Changes that aren't within the actual text, e.g. section headings.
+            </li>
+            <li>
+              White space differences, such as two space characters instead of
+              one, or extra paragraph breaks.
+            </li>
+          </ul>
+          <div class="dialog-close-button-bottom">
+            <button data-a11y-dialog-hide>Return to CSB US-UK Diff</button>
+          </div>
+        </div>
+      </div>
     </div>
 
     <script
-        defer
-        src="https://cdn.jsdelivr.net/npm/a11y-dialog@8/dist/a11y-dialog.min.js"
-        ></script>
+      defer
+      src="https://cdn.jsdelivr.net/npm/a11y-dialog@8/dist/a11y-dialog.min.js"
+    ></script>
     <script src="index.js"></script>
-</body>
+  </body>
 </html>
