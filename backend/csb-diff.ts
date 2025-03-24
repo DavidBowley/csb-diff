@@ -21,7 +21,7 @@ function parseXML(version: 'UK' | 'US', bookFilename:string): string[][] | null 
     // or just space if a cross-reference etc.
     replaceSups($);
 
-    let res: string[][] = [];
+    const res: string[][] = [];
     const $chapters = $('chapter');
     $chapters.each((chapterIndex, element) => {
         // TODO: Remove if statement once debugging complete
@@ -177,7 +177,7 @@ function debugTestOutputToFile() {
 }
 
 function csbDiffVersions(usVersion: string[][], ukVersion: string[][]): string[] {
-    let res: string[] = [];
+    const res: string[] = [];
     for (let chapterIndex = 0; chapterIndex < usVersion.length; chapterIndex++) {
         const usChapter = usVersion[chapterIndex];
         const ukChapter = ukVersion[chapterIndex];
@@ -306,4 +306,4 @@ function debugOutputOneAsHtmlFile(filename: string) {
     }
 }
 
-debugOutputOneAsHtmlFile('13-1Chr.xml');
+debugOutputOneAsHtmlFile('01-Gen.xml');
