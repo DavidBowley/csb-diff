@@ -254,7 +254,7 @@ function debugHtmlFragmentWithBoilerplate(bookDiff: string[], filename: string) 
 
 }
 
-function outputToJson() {
+function debugOutputToJson() {
     // WIP function that outputs the diff HTML fragment into a JSON file ready for the frontend
     // Currently only takes hard-coded filenames but in the future will be modified to take the
     // filenames from the XML files directory
@@ -276,21 +276,34 @@ function isFile(filename: string) {
     return fs.lstatSync(filename).isFile();
 };
 
-const sourcePath = path.join(__dirname, 'data', 'US');
-const sourceFiles = fs.readdirSync(sourcePath)
-    .map(filename => {
-        return path.join(sourcePath, filename)
-    })
-    .filter(isFile);
+function debugOutputAllAsHtmlFiles() {
+    const sourcePath = path.join(__dirname, 'data', 'US');
+    const sourceFiles = fs.readdirSync(sourcePath)
+        .map(filename => {
+            return path.join(sourcePath, filename)
+        })
+        .filter(isFile);
+    
+    for (const filePath of sourceFiles) {
+        const filename = path.basename(filePath);
+        const bookParagraphsUS = parseXML('US', filename);
+        const bookParagraphsUK = parseXML('UK', filename);
+    
+        if (bookParagraphsUS!== null && bookParagraphsUK !== null) {
+            const bookDiff = csbDiffVersions(bookParagraphsUS, bookParagraphsUK);
+            debugHtmlFragmentWithBoilerplate(bookDiff, filename);
+        }
+    }
+}
 
-for (const filePath of sourceFiles) {
-    const filename = path.basename(filePath);
+function debugOutputOneAsHtmlFile(filename: string) {
     const bookParagraphsUS = parseXML('US', filename);
     const bookParagraphsUK = parseXML('UK', filename);
-
+    
     if (bookParagraphsUS!== null && bookParagraphsUK !== null) {
         const bookDiff = csbDiffVersions(bookParagraphsUS, bookParagraphsUK);
         debugHtmlFragmentWithBoilerplate(bookDiff, filename);
     }
 }
 
+debugOutputOneAsHtmlFile('13-1Chr.xml');
