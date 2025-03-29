@@ -17,8 +17,6 @@ function parseXML(version: "UK" | "US", bookFilename: string): string[] | null {
   }
   const $ = cheerio.load(bookXML, { xml: true });
 
-  // Replace all <sup>s with whitespace-padded verse number
-  // or just space if a cross-reference etc.
   replaceSups($);
 
   // Remove all headings from text
@@ -39,17 +37,23 @@ function parseXML(version: "UK" | "US", bookFilename: string): string[] | null {
     if (version === "UK") {
       chapterStr = swapQuotes(chapterStr);
     }
+    // Add the <sup>s back in - see replaceSups() for rationale
+    chapterStr = chapterStr.replace(/\*\*\*(\d+)\*\*\*/g, "<sup>$1</sup>");
     res.push(chapterStr);
   });
   return res;
 }
 
 function replaceSups($: cheerio.CheerioAPI): void {
-  // Replace all <sup>s used for verse numbers with the actual number padded by a space on each side
+  // Replace all <sup>s used for verse numbers with the actual number padded by '***'
+  // This seems strange, but there is a reason... there is no way to get a reliable diff unless
+  // we extract all text nodes from <chapter> tags, which means we don't have programmatic access
+  // to the verse numbers. Tagging them with an identifiable padding like this means later on
+  // I can write the <sup> tags back into the final string before it gets sent to the diff function
   $("sup.verse-ref").each((i, el) => {
     const $sup = $(el);
     const verseNum = $sup.text().trim();
-    $sup.replaceWith(` ${verseNum} `);
+    $sup.replaceWith(` ***${verseNum}*** `);
   });
   // The only <sups> remaining are ones we don't care about, e.g. cross-references, so replace with spaces
   // This is required for UK XML because of the terrible formatting of the orignal file (run on sentences)
@@ -271,4 +275,4 @@ function debugOutputOneAsHtmlFile(filename: string) {
   }
 }
 
-debugOutputOneAsHtmlFile("48-Gal.xml");
+debugOutputOneAsHtmlFile("45-Rom.xml");
