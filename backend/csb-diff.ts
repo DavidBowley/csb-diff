@@ -441,4 +441,32 @@ function debugCallingVerseTracker() {
   }
 }
 
-debugCallingVerseTracker();
+function debugFindOrphanedTextOutsideVerseTags(filepath: string) {
+  // Searches for any text that should be in <verse> tags so I can see the extent of the issue
+  // Removes anything that is definitely not actual verse text, e.g. headings
+  // Traverses the DOM and removes elements from <chapter> and outputs what remains
+  let bookXML: string;
+  try {
+    bookXML = fs.readFileSync(filepath, "utf8");
+  } catch (err) {
+    console.error(err);
+    return null;
+  }
+  const $ = cheerio.load(bookXML, { xml: true });
+  const $chapters = $("chapter");
+  for (const chapter of $chapters) {
+    for (const verse of $(chapter).find("verse")) {
+      $(verse).remove();
+    }
+    for (const head1 of $(chapter).find("head1")) {
+      $(head1).remove();
+    }
+
+    console.log($(chapter).text().trim());
+    // break;
+  }
+}
+
+debugFindOrphanedTextOutsideVerseTags(
+  path.join(__dirname, "data", "UK", "01-Gen.xml"),
+);
