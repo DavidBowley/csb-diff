@@ -4,12 +4,9 @@ import * as Diff from "diff";
 import fs from "node:fs";
 import path from "node:path";
 
-function parseXML(
-  version: "UK" | "US",
-  bookFilename: string,
-): string[][] | null {
-  // Takes a CSB Bible book XML file and outputs an array (book) of arrays (chapters) of strings
-  // (paragraphs) which includes the text + verse numbers
+function parseXML(version: "UK" | "US", bookFilename: string): string[] | null {
+  // Takes a CSB Bible book XML file and outputs an array of strings (chapters)
+  // which includes the text + verse numbers
   const bookXMLPath = path.join(__dirname, "data", version, bookFilename);
   let bookXML: string;
   try {
@@ -24,36 +21,25 @@ function parseXML(
   // or just space if a cross-reference etc.
   replaceSups($);
 
-  const res: string[][] = [];
+  // Remove all headings from text
+  for (const head1 of $("head1")) {
+    $(head1).remove();
+  }
+
+  const res: string[] = [];
   const $chapters = $("chapter");
-  $chapters.each((chapterIndex, element) => {
-    // TODO: Remove if statement once debugging complete
-    if (chapterIndex !== 2) {
-      // return;
+  $chapters.each((chapterIndex, chapter) => {
+    let chapterStr = $(chapter).text();
+    // Remove all whitespace longer than a single character in length
+    // For US XML: handles large amounts of seemingly random whitespace
+    // For UK XML: removes the extra empty space added when we replaced <sup>'s earlier
+    chapterStr = chapterStr.replace(/\s+/g, " ");
+    // UK XML uses en-dash vs. US em-dash which causes false positives in the diff
+    chapterStr = chapterStr.replace(/\u2013/g, "\u2014");
+    if (version === "UK") {
+      chapterStr = swapQuotes(chapterStr);
     }
-    res.push([]);
-    const paragraphs = $(element).find("p");
-    paragraphs.each((i, element) => {
-      // TODO: Remove if statement once debugging complete
-      if (i !== 3) {
-        // return;
-      }
-
-      let paragraph = $(element).text();
-      // Remove all whitespace longer than a single character in length
-      // For US XML: handles large amounts of seemingly random whitespace
-      // For UK XML: removes the extra empty space added when we replaced <sup>'s earlier
-      paragraph = paragraph.replace(/\s+/g, " ");
-      // UK XML uses en-dash vs. US em-dash which causes false positives in the diff
-      paragraph = paragraph.replace(/\u2013/g, "\u2014");
-
-      if (version === "UK") {
-        paragraph = swapQuotes(paragraph);
-      }
-
-      // Trimming helps remove random end of paragraph space seen in some books (that affects version diff in char diff mode)
-      res[chapterIndex].push(paragraph.trim());
-    });
+    res.push(chapterStr);
   });
   return res;
 }
@@ -71,12 +57,12 @@ function replaceSups($: cheerio.CheerioAPI): void {
   $("sup").replaceWith(" ");
 }
 
-function swapQuotes(paragraph: string): string {
+function swapQuotes(string: string): string {
   // UK-specific logic for swapping single and double curly quotes - assumes <sup>s already replaced
   // All quotes are 'curly' - straight quotes are ignored
   let str = "";
-  for (let i = 0; i < paragraph.length; i++) {
-    const char = paragraph[i];
+  for (let i = 0; i < string.length; i++) {
+    const char = string[i];
     // Swap open-single quote for open-double quote
     if (char === "\u2018") {
       str += "\u201C";
@@ -86,7 +72,7 @@ function swapQuotes(paragraph: string): string {
       str += "\u2018";
     }
     // Swap close-single quote for close-double quote
-    else if (char === "\u2019" && isSingleCloseQuote(paragraph, i)) {
+    else if (char === "\u2019" && isSingleCloseQuote(string, i)) {
       str += "\u201D";
     }
     // Swap close-double quote for close-single quote
@@ -101,19 +87,19 @@ function swapQuotes(paragraph: string): string {
   return str;
 }
 
-function isSingleCloseQuote(paragraph: string, i: number): boolean {
+function isSingleCloseQuote(string: string, i: number): boolean {
   // Boolean function to determine if the symbol represents a single quotation mark in the closed form
   // as opposed to an apostrophe used in the possessive case or a contraction
   // NOTE: This is NOT foolproof/perfect but seems to catch the majority of cases so is good enough
   // for our purposes here
 
-  const quoteSuffix = paragraph.slice(i + 1, i + 4);
-  const quotePreSuffix = paragraph.slice(i - 1, i + 3);
+  const quoteSuffix = string.slice(i + 1, i + 4);
+  const quotePreSuffix = string.slice(i - 1, i + 3);
 
   // Step 1: Quotations are often preceeded by a non-alpha character (space, comma, etc)
   // While this does not catch all quotations, it is impossible for the possessive case or
   // a contraction to meet this critera, so it is a good place to start.
-  if (/^[^a-zA-Z]$/.test(paragraph[i - 1])) {
+  if (/^[^a-zA-Z]$/.test(string[i - 1])) {
     return true;
   }
 
@@ -154,26 +140,12 @@ function isSingleCloseQuote(paragraph: string, i: number): boolean {
   }
 }
 
-function csbDiffVersions(
-  usVersion: string[][],
-  ukVersion: string[][],
-): string[] {
+function csbDiffVersions(usVersion: string[], ukVersion: string[]): string[] {
   const res: string[] = [];
   for (let chapterIndex = 0; chapterIndex < usVersion.length; chapterIndex++) {
     const usChapter = usVersion[chapterIndex];
     const ukChapter = ukVersion[chapterIndex];
-    let chapterString = "";
-    for (
-      let paragraphIndex = 0;
-      paragraphIndex < usChapter.length;
-      paragraphIndex++
-    ) {
-      chapterString +=
-        "  <p>\n" +
-        diffWords(usChapter[paragraphIndex], ukChapter[paragraphIndex], 4) +
-        "\n  </p>\n";
-    }
-    res.push(chapterString);
+    res.push("<p>\n" + diffWords(usChapter, ukChapter, 4) + "\n  </p>\n");
   }
   return res;
 }
@@ -247,11 +219,11 @@ function debugOutputToJson() {
   // WIP function that outputs the diff HTML fragment into a JSON file ready for the frontend
   // Currently only takes hard-coded filenames but in the future will be modified to take the
   // filenames from the XML files directory
-  const bookParagraphsUS = parseXML("US", "01-Gen.xml");
-  const bookParagraphsUK = parseXML("UK", "01-Gen.xml");
+  const bookChaptersUS = parseXML("US", "01-Gen.xml");
+  const bookChaptersUK = parseXML("UK", "01-Gen.xml");
 
-  if (bookParagraphsUS !== null && bookParagraphsUK !== null) {
-    const bookDiff = csbDiffVersions(bookParagraphsUS, bookParagraphsUK);
+  if (bookChaptersUS !== null && bookChaptersUK !== null) {
+    const bookDiff = csbDiffVersions(bookChaptersUS, bookChaptersUK);
 
     try {
       fs.writeFileSync(
@@ -279,24 +251,24 @@ function debugOutputAllAsHtmlFiles() {
 
   for (const filePath of sourceFiles) {
     const filename = path.basename(filePath);
-    const bookParagraphsUS = parseXML("US", filename);
-    const bookParagraphsUK = parseXML("UK", filename);
+    const bookChaptersUS = parseXML("US", filename);
+    const bookChaptersUK = parseXML("UK", filename);
 
-    if (bookParagraphsUS !== null && bookParagraphsUK !== null) {
-      const bookDiff = csbDiffVersions(bookParagraphsUS, bookParagraphsUK);
+    if (bookChaptersUS && bookChaptersUK) {
+      const bookDiff = csbDiffVersions(bookChaptersUS, bookChaptersUK);
       debugHtmlFragmentWithBoilerplate(bookDiff, filename);
     }
   }
 }
 
 function debugOutputOneAsHtmlFile(filename: string) {
-  const bookParagraphsUS = parseXML("US", filename);
-  const bookParagraphsUK = parseXML("UK", filename);
+  const bookChaptersUS = parseXML("US", filename);
+  const bookChaptersUK = parseXML("UK", filename);
 
-  if (bookParagraphsUS !== null && bookParagraphsUK !== null) {
-    const bookDiff = csbDiffVersions(bookParagraphsUS, bookParagraphsUK);
+  if (bookChaptersUS && bookChaptersUK) {
+    const bookDiff = csbDiffVersions(bookChaptersUS, bookChaptersUK);
     debugHtmlFragmentWithBoilerplate(bookDiff, filename);
   }
 }
 
-debugOutputOneAsHtmlFile("45-Rom.xml");
+debugOutputOneAsHtmlFile("48-Gal.xml");
