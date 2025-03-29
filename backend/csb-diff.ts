@@ -204,10 +204,14 @@ function debugHtmlFragmentWithBoilerplate(
   }
 
   const outputFile = boilerplateHtmlStart + htmlFragment + boilerplateHtmlEnd;
-  // This is a dirty way to change to a HTML file that doesn't take into account differing
-  // extension string lengths, but as the source file will always be '.xml' then it doesn't
-  // matter too much
-  filename = filename.slice(0, -3) + "html";
+  // Change filename to zero-indexed (to match frontend) and .html extension
+  filename = filename.replace(
+    /(\d+)(-\w+)(\.xml)/,
+    (match: string, p1: string, p2: string): string => {
+      const index = String(Number(p1) - 1).padStart(2, "0");
+      return index + p2 + ".html";
+    },
+  );
 
   try {
     fs.writeFileSync(
@@ -275,4 +279,4 @@ function debugOutputOneAsHtmlFile(filename: string) {
   }
 }
 
-debugOutputOneAsHtmlFile("45-Rom.xml");
+debugOutputAllAsHtmlFiles();
