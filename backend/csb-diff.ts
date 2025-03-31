@@ -55,10 +55,27 @@ function replaceSups($: cheerio.CheerioAPI): void {
     const verseNum = $sup.text().trim();
     $sup.replaceWith(` ***${verseNum}*** `);
   });
+
+  // Replace all <sup>s used for fractions in US version with the number itself padded by spaces
+  // If we don't do this then the next part of this function will remove/break the formatting on these
+  // The logic relies on finding the <sub> tags as <sup> has too many uses, but <sub> is only ever fractions
+  // All previous siblings of <sub>s appear to be the corresponding <sup> tag
+  // Note that we do not need to replace the <sub> tags as their text nodes are extracted without issue later
+  for (const sub of $("sub")) {
+    const supElement = $(sub).prev();
+    const supText = supElement.text();
+    // Guardrail in the event that this element is some random verse text on future revisions
+    if (supElement[0].tagName === "sup") {
+      supElement.replaceWith(` ${supText} `);
+    }
+  }
+
   // The only <sups> remaining are ones we don't care about, e.g. cross-references, so replace with spaces
   // This is required for UK XML because of the terrible formatting of the orignal file (run on sentences)
   // but makes sense to also do on US as we want both files to be as close as possible before diff
   $("sup").replaceWith(" ");
+  // For future reference, these are the <sup> classes I have observed so far...
+  // ... verse-ref, cross-ref, translate-note, alt-reading-note, help-note
 }
 
 function swapQuotes(string: string): string {
@@ -278,5 +295,46 @@ function debugOutputOneAsHtmlFile(filename: string) {
     debugHtmlFragmentWithBoilerplate(bookDiff, filename);
   }
 }
+
+function debugTestFindingFractions() {
+  // Try US first, then if working try on UK versions
+  // const bookXMLPath = path.join(__dirname, "data", "US", "02-Ex.xml");
+
+  const sourcePath = path.join(__dirname, "data", "US");
+  const sourceFiles = fs
+    .readdirSync(sourcePath)
+    .map((filename) => {
+      return path.join(sourcePath, filename);
+    })
+    .filter(isFile);
+
+  for (const filePath of sourceFiles) {
+    let bookXML: string;
+    try {
+      bookXML = fs.readFileSync(filePath, "utf8");
+    } catch (err) {
+      console.error(err);
+      return null;
+    }
+    const $ = cheerio.load(bookXML, { xml: true });
+    // $("sup.verse-ref").each((i, el) => {
+    //   const $sup = $(el);
+    //   const verseNum = $sup.text().trim();
+    //   $sup.replaceWith(` ***${verseNum}*** `);
+    // });
+
+    for (const sub of $("sub")) {
+      const supText = $(sub).prev().text();
+      const subText = $(sub).text();
+      console.log(supText + " / " + subText + "          " + filePath);
+      // const subText = $(sub).text();
+    }
+  }
+
+  //$("sup").replaceWith(" ");
+}
+
+// debugOutputOneAsHtmlFile("02-Ex.xml");
+// debugTestFindingFractions();
 
 debugOutputAllAsHtmlFiles();
