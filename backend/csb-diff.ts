@@ -24,6 +24,12 @@ function parseXML(version: "UK" | "US", bookFilename: string): string[] | null {
     $(head1).remove();
   }
 
+  // Remove all <psalm> tags - these contain text like "BOOK I" and "Psalm 1"
+  for (const psalm of $("psalm")) {
+    $(psalm).remove();
+  }
+
+  // Extract child text nodes from <chapter> tags
   const res: string[] = [];
   const $chapters = $("chapter");
   $chapters.each((chapterIndex, chapter) => {
