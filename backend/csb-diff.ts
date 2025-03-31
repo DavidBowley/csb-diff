@@ -34,6 +34,10 @@ function parseXML(version: "UK" | "US", bookFilename: string): string[] | null {
   const $chapters = $("chapter");
   $chapters.each((chapterIndex, chapter) => {
     let chapterStr = $(chapter).text();
+    if (bookFilename === "19-Ps.xml") {
+      chapterStr = chapterStr.replaceAll("'Selah'", "Selah");
+      chapterStr = chapterStr.replaceAll("Selah", "<i>Selah</i>");
+    }
     // Remove all whitespace longer than a single character in length
     // For US XML: handles large amounts of seemingly random whitespace
     // For UK XML: removes the extra empty space added when we replaced <sup>'s earlier
@@ -336,11 +340,27 @@ function debugTestFindingFractions() {
       // const subText = $(sub).text();
     }
   }
-
-  //$("sup").replaceWith(" ");
 }
 
-// debugOutputOneAsHtmlFile("02-Ex.xml");
-// debugTestFindingFractions();
+function debugStringReplaceSelah() {
+  const bookXMLPath = path.join(__dirname, "data", "testPsalms.xml");
+  let bookXML: string;
+  try {
+    bookXML = fs.readFileSync(bookXMLPath, "utf8");
+  } catch (err) {
+    console.error(err);
+    return null;
+  }
+  const $ = cheerio.load(bookXML, { xml: true });
+  const $chapters = $("chapter");
+
+  for (const chapter of $chapters) {
+    let text = $(chapter).text();
+    text = text.replaceAll("'Selah'", "[removed]");
+    console.log(text);
+  }
+}
 
 debugOutputAllAsHtmlFiles();
+
+// debugStringReplaceSelah();
