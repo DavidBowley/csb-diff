@@ -32,6 +32,10 @@ del {
   overflow: hidden;
 }
 
+sup {
+  font-weight: bold;
+}
+
 .nav-ctrl select {
   font-size: 1em;
 }

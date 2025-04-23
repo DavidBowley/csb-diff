@@ -100,7 +100,12 @@
         // If we haven't yet fetched the JSON file and stored internally, then do so...
         if (bibleBook[bookRef] === null) {
             // console.log(`bibleBook array at item ${bookRef} is null. Will download the relevant JSON file and store internally.`)
-            fetchJson(bookRef + ".json")
+            // 0-pad the number upto 2 digits for single digit array indicies so we can find the right files on the server
+            let filename = bookRef.toString();
+            if (filename.length === 1) {
+                filename = "0" + filename;
+            }
+            fetchJson(filename + ".json")
                 .then((book) => {
                 openBook(book);
                 bibleBook[bookRef] = book;

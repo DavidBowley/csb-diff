@@ -250,23 +250,37 @@ function debugHtmlFragmentWithBoilerplate(
   }
 }
 
-function debugOutputToJson() {
+function debugOutputAllToJson() {
   // WIP function that outputs the diff HTML fragment into a JSON file ready for the frontend
   // Currently only takes hard-coded filenames but in the future will be modified to take the
   // filenames from the XML files directory
-  const bookChaptersUS = parseXML("US", "01-Gen.xml");
-  const bookChaptersUK = parseXML("UK", "01-Gen.xml");
 
-  if (bookChaptersUS !== null && bookChaptersUK !== null) {
-    const bookDiff = csbDiffVersions(bookChaptersUS, bookChaptersUK);
+  const sourcePath = path.join(__dirname, "data", "US");
+  const sourceFiles = fs
+    .readdirSync(sourcePath)
+    .map((filename) => {
+      return path.join(sourcePath, filename);
+    })
+    .filter(isFile);
 
-    try {
-      fs.writeFileSync(
-        path.join(__dirname, "0.json"),
-        JSON.stringify(bookDiff),
-      );
-    } catch (err) {
-      console.error(err);
+  for (const filePath of sourceFiles) {
+    const filename = path.basename(filePath);
+    const bookChaptersUS = parseXML("US", filename);
+    const bookChaptersUK = parseXML("UK", filename);
+
+    if (bookChaptersUS && bookChaptersUK) {
+      const bookDiff = csbDiffVersions(bookChaptersUS, bookChaptersUK);
+      const outputFilename = (Number(filename.slice(0, 2)) - 1)
+        .toString()
+        .padStart(2, "0");
+      try {
+        fs.writeFileSync(
+          path.join(__dirname, "debug_output", outputFilename + ".json"),
+          JSON.stringify(bookDiff),
+        );
+      } catch (err) {
+        console.error(err);
+      }
     }
   }
 }
@@ -361,6 +375,4 @@ function debugStringReplaceSelah() {
   }
 }
 
-debugOutputAllAsHtmlFiles();
-
-// debugStringReplaceSelah();
+debugOutputAllToJson();

@@ -13,3 +13,8 @@ node_modules/
 
 # debugging/testing files
 test*
+debug_output/
+backup_data/
+
+# temporarily not committing frontend data files until I've confirmed there's no more debugging to do on the backend
+frontend/data
