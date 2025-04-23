@@ -120,7 +120,6 @@
 
     // If we haven't yet fetched the JSON file and stored internally, then do so...
     if (bibleBook[bookRef] === null) {
-      // console.log(`bibleBook array at item ${bookRef} is null. Will download the relevant JSON file and store internally.`)
       // 0-pad the number upto 2 digits for single digit array indicies so we can find the right files on the server
       let filename = bookRef.toString();
       if (filename.length === 1) {
@@ -140,7 +139,6 @@
     }
     // else we have that book already stored in memory that we can use
     else {
-      // console.log(`bibleBook array at item ${bookRef} already contains our JSON object.`);
       openBook(bibleBook[bookRef]);
     }
   });
@@ -153,8 +151,6 @@
         "Could not find that chapter - make sure you have pressed the Open Book button first",
       );
     } else {
-      // console.log(`Chapter: ${chapter}, bookRef: ${bookRef}`)
-      // console.log('book.length: ' + bibleBook[bookRef].length)
       updateChapter(bibleBook[bookRef], chapter);
     }
   });

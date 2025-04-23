@@ -167,3 +167,79 @@ function debugTestOutputToFile() {
     }
   }
 }
+
+function debugHtmlFragmentWithBoilerplate(
+  bookDiff: string[],
+  filename: string,
+) {
+  const boilerplateHtmlStart = `<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>HTML 5 Boilerplate</title>
+        <link rel="stylesheet" href="testDiffStyle.css">
+    </head>
+    <body>
+    `;
+  const boilerplateHtmlEnd = `  </body>
+    </html>`;
+
+  let htmlFragment = "";
+  for (let i = 0; i < bookDiff.length; i++) {
+    const chapter = bookDiff[i];
+    htmlFragment += `\n<h2>Chapter: ${i + 1}</h2>\n`;
+    htmlFragment += chapter;
+  }
+
+  const outputFile = boilerplateHtmlStart + htmlFragment + boilerplateHtmlEnd;
+  // Change filename to zero-indexed (to match frontend) and .html extension
+  filename = filename.replace(
+    /(\d+)(-\w+)(\.xml)/,
+    (match: string, p1: string, p2: string): string => {
+      const index = String(Number(p1) - 1).padStart(2, "0");
+      return index + p2 + ".html";
+    },
+  );
+
+  try {
+    fs.writeFileSync(
+      path.join(__dirname, "debug_output", filename),
+      outputFile,
+    );
+  } catch (err) {
+    console.error(err);
+  }
+}
+
+function debugOutputAllAsHtmlFiles() {
+  const sourcePath = path.join(__dirname, "data", "US");
+  const sourceFiles = fs
+    .readdirSync(sourcePath)
+    .map((filename) => {
+      return path.join(sourcePath, filename);
+    })
+    .filter(isFile);
+
+  for (const filePath of sourceFiles) {
+    const filename = path.basename(filePath);
+    const bookChaptersUS = parseXML("US", filename);
+    const bookChaptersUK = parseXML("UK", filename);
+
+    if (bookChaptersUS && bookChaptersUK) {
+      const bookDiff = csbDiffVersions(bookChaptersUS, bookChaptersUK);
+      debugHtmlFragmentWithBoilerplate(bookDiff, filename);
+    }
+  }
+}
+
+function debugOutputOneAsHtmlFile(filename: string) {
+  const bookChaptersUS = parseXML("US", filename);
+  const bookChaptersUK = parseXML("UK", filename);
+
+  if (bookChaptersUS && bookChaptersUK) {
+    const bookDiff = csbDiffVersions(bookChaptersUS, bookChaptersUK);
+    debugHtmlFragmentWithBoilerplate(bookDiff, filename);
+  }
+}
