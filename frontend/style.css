@@ -1,8 +1,6 @@
-/*
-* {
-    outline: solid black 2px;
-}
-    */
+/* * {
+  outline: solid black 2px;
+} */
 
 body {
   font-family: Helvetica;
@@ -50,7 +48,6 @@ sup {
 
 header {
   margin: auto;
-  width: 50%;
   display: flex;
   flex-direction: column;
   text-align: center;
@@ -61,15 +58,19 @@ header .nav-ctrl {
 }
 
 header h1 {
-  margin-bottom: 0.25em;
+  margin-bottom: 0;
+  margin-top: 0;
+  font-size: 1.33em;
 }
 
-.passage-text {
-  padding: 0 2em 0 2em;
+.passage-text p {
+  margin-top: 0;
 }
 
 .passage-text h2 {
   font-size: 1em;
+  margin-bottom: 0;
+  margin-top: 0.5em;
 }
 
 #chapter-heading-container {
@@ -87,10 +88,19 @@ button {
 .nav-ctrl-chapter-btn {
   display: flex;
   justify-content: space-between;
+  margin-top: 0.5em;
 }
 
 .nav-ctrl-chapter-btn button {
   font-size: 0.5em;
+}
+
+/** Mobile Styles */
+
+@media only screen and (max-width: 600px) {
+  body {
+    padding: 0 0.5em 0 0.5em;
+  }
 }
 
 /** Styles for A11yDialog - https://github.com/KittyGiraudel/a11y-dialog 
@@ -147,6 +157,12 @@ button {
   max-height: 90vh;
 }
 
+@media only screen and (max-width: 600px) {
+  .dialog-content {
+    padding: 0.5em;
+  }
+}
+
 .dialog-close-button {
   display: flex;
   flex-direction: column;
@@ -157,16 +173,16 @@ button {
   font-size: 2em;
 }
 
-.dialog-main {
-}
-
 .dialog-main h1 {
   margin-top: 0;
+  margin-bottom: 0.5em;
   text-align: center;
+  font-size: 1.5em;
 }
 
 .dialog-main h2 {
   margin: 0;
+  font-size: 1em;
 }
 
 .dialog-main p {
