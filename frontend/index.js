@@ -59,7 +59,12 @@
         chapterHeadingContainer === null || chapterHeadingContainer === void 0 ? void 0 : chapterHeadingContainer.replaceChildren(chapterHeading);
         // Accessibility: as this is an SPA, focus needs to be managed when the new content appears
         // especially when that content is behind the current focus position
-        chapterHeading.focus();
+        // However, want to override this behaviour on the first run as page focus should start from
+        // the top of a new page
+        if (!isFirstRun) {
+            chapterHeading.focus();
+        }
+        isFirstRun = false;
     }
     function openBook(book) {
         // Updates the GUI to the selected book, including resetting chapter <select>'s child <option>s
@@ -92,9 +97,20 @@
     const prevChapterBtnTop = document.getElementById("nav-ctrl-prev-chapter-btn-top");
     const nextChapterBtnBottom = document.getElementById("nav-ctrl-next-chapter-btn-bottom");
     const prevChapterBtnBottom = document.getElementById("nav-ctrl-prev-chapter-btn-bottom");
+    let isFirstRun = true;
     // Pull in book names and setup <select> with option values that correspond to JSON filenames
     // and bibleBook top-level array indicies
     populateBookSelect();
+    // Default to Genesis 1 on page load
+    fetchJson("00.json")
+        .then((book) => {
+        openBook(book);
+        bibleBook[0] = book;
+    })
+        .catch((error) => {
+        console.log("Error: unable to fetch bible book JSON. Caught exception shown below:\n" +
+            error.message);
+    });
     navBookSubmit === null || navBookSubmit === void 0 ? void 0 : navBookSubmit.addEventListener("click", () => {
         const bookRef = Number(bookSelect.value);
         // If we haven't yet fetched the JSON file and stored internally, then do so...
