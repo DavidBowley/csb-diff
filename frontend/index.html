@@ -86,7 +86,6 @@
           <h2>What is a Diff?</h2>
           <p>
             A <a href="https://en.wikipedia.org/wiki/Diff">Diff</a> is a
-            computing term that refers to a
             <i
               >"tool that computes and displays the differences between the
               contents of files".</i
@@ -97,43 +96,41 @@
           </p>
           <h2>Why?!</h2>
           <p>
-            I needed a project to occupy me while I worked on learning a new
-            programming language (TypeScript). But also as a reader of the CSB
-            in the UK I was fascinated to know <i>exactly what</i> had been
-            changed from the US version without having to hold the two versions
-            side-by-side and strain my eyes.
+            As a reader of the CSB in the UK I was fascinated to know
+            <i>exactly what</i> had been changed from the US version without
+            having to hold the two versions side-by-side and strain my eyes.
           </p>
           <p>
-            For example, did the UK translators remove the famous "Saul and to
+            For example, did the UK translators remove the infamous "Saul and to
             his bloody family" line (2 Sam 21:1) because of how those words are
             used in a modern UK context? (<b>spoiler alert:</b> they did not).
-            What else was changed, given that these two countries separated by
-            an ocean can have entirely different ways to interpret the same
-            words?
+            What else was changed given that these two countries separated by an
+            ocean can have entirely different ways to interpret the same words?
           </p>
           <h2>How does it work?</h2>
           <p>
-            The tool takes the US version as the source text, and checks for any
+            The tool takes the US version as the source text and checks for any
             differences made in the UK version. The output on the screen is a
             combination of both versions with highlighting to show where the
             differing words come from.
           </p>
           <p>
             Words that have been removed in the UK version are highlighted in a
-            red colour and use a dotted underline and overline font style. Words
-            that have been added in the UK version are highlighted in a green
-            color and use a dashed underline and overline font style.
+            red colour and use a
+            <del>dotted underline and overline font style</del>. Words that have
+            been added in the UK version are highlighted in a green color and
+            use a <ins>dashed underline and overline font style</ins>.
           </p>
           <p>
-            All other words without highlighting were present in both versions -
-            do not be surprised if this is all you see for large sections of the
-            text.
+            All other words without highlighting were present in both versions
+            &#8211; do not be surprised if this is all you see for large
+            sections of the text.
           </p>
           <h2>Limitations of the Tool</h2>
           <p>
-            The tool is not 100% effective - sometimes accidentally due to how
-            it was coded, and sometimes due to deliberate logic choices that are
-            noted below. As such,
+            The tool is not 100% effective &#8211; sometimes accidentally due to
+            how it was coded, and sometimes due to deliberate logic choices that
+            are noted below. As such,
             <i
               ><b
                 >do not rely on this tool as an authoritative reproduction of
@@ -145,22 +142,33 @@
             for copy/pasting from.
           </p>
           <p>
-            Refer to the
-            <a href="https://csbible.com/" target="_blank">CSB US</a> and
-            <a href="https://csbible.uk/" target="_blank">CSB UK</a> websites
-            where you can view the original text, as well as purhcase print
-            copies.
+            The official CSB Bible can be found at the
+            <a href="https://read.csbible.com/" target="_blank">CSB US</a> and
+            <a href="https://read.csbible.uk/" target="_blank">CSB UK</a>
+            websites where you can view the original text, as well as purchase
+            print copies. Note however that some of the textual inaccuracies I
+            mention on this page are unfortunately also present in these
+            official website versions.
           </p>
           <p>
-            The tool deliberately avoids highlighting certain changes that have
-            occurred in the UK version because they are likely uninteresting to
-            most people:
+            In most cases where I've observed these errors they were <i>not</i>
+            reproduced on the
+            <a
+              href="https://www.biblegateway.com/passage/?search=genesis%201&version=CSB"
+              >BibleGateway's CSB Bible</a
+            >, however only the US version is available there. If you want to
+            check the accuracy of the CSB UK version with full confidence you'll
+            need to use a print Bible.
+          </p>
+          <p>
+            You should note that the tool deliberately avoids highlighting
+            certain changes that have occurred in the UK version because they
+            are likely uninteresting to most people:
           </p>
           <ul>
             <li>
               Quotation marks, e.g. single-quote to double-quote and vice versa
-              and other punctuation. Note: it's not always possible to hide them
-              so some of them do still show up.
+              as well as other punctuation (wherever possible).
             </li>
             <li>
               Changes that aren't within the actual text, e.g. section headings.
@@ -168,6 +176,26 @@
             <li>
               White space differences, such as two space characters instead of
               one, or extra paragraph breaks.
+            </li>
+          </ul>
+          <p>
+            The tool sometimes highlights minor changes that are not in fact
+            real differences:
+          </p>
+          <ul>
+            <li>
+              Minor punctuation and spacing differences that were too difficult
+              to code around such as spaces or quotation marks that couldn't be
+              singled out.
+            </li>
+            <li>
+              Actual differences between the US and UK versions that are the
+              result of bad proof-reading by whoever made the official CSB
+              website, rather than genuine textual differences. These might show
+              up as random footnote comments inserted inline into the text, or
+              missing/incorrect verse numbers, spelling errors, etc. I don't try
+              to fix these and so they might show up as "differences" if one
+              version has fixed them and the other hasn't.
             </li>
           </ul>
           <div class="dialog-close-button-bottom">
